@@ -1,0 +1,4881 @@
+playerID,awardID,yearID,lgID,tie,notes
+colemje01,Babe Ruth Award,1950,AL,,2B
+dropowa01,Baseball Magazine All-Star,1950,AL,,1B
+doerrbo01,Baseball Magazine All-Star,1950,AL,,2B
+kellge01,Baseball Magazine All-Star,1950,AL,,3B
+berrayo01,Baseball Magazine All-Star,1950,AL,,C
+dimagjo01,Baseball Magazine All-Star,1950,AL,,CF
+willite01,Baseball Magazine All-Star,1950,AL,,LF
+raschvi01,Baseball Magazine All-Star,1950,AL,,P1
+lemonbo01,Baseball Magazine All-Star,1950,AL,,P2
+houttar01,Baseball Magazine All-Star,1950,AL,,P3
+wertzvi01,Baseball Magazine All-Star,1950,AL,,RF
+rizzuph01,Baseball Magazine All-Star,1950,AL,,SS
+musiast01,Baseball Magazine All-Star,1950,ML,,1B
+doerrbo01,Baseball Magazine All-Star,1950,ML,,2B
+kellge01,Baseball Magazine All-Star,1950,ML,,3B
+berrayo01,Baseball Magazine All-Star,1950,ML,,C
+dimagjo01,Baseball Magazine All-Star,1950,ML,,CF
+kinerra01,Baseball Magazine All-Star,1950,ML,,LF
+spahnwa01,Baseball Magazine All-Star,1950,ML,,P1
+raschvi01,Baseball Magazine All-Star,1950,ML,,P2
+konstji01,Baseball Magazine All-Star,1950,ML,,P3
+furilca01,Baseball Magazine All-Star,1950,ML,,RF
+rizzuph01,Baseball Magazine All-Star,1950,ML,,SS
+musiast01,Baseball Magazine All-Star,1950,NL,,1B
+robinja02,Baseball Magazine All-Star,1950,NL,,2B
+elliobo01,Baseball Magazine All-Star,1950,NL,,3B
+camparo01,Baseball Magazine All-Star,1950,NL,,C
+snidedu01,Baseball Magazine All-Star,1950,NL,,CF
+kinerra01,Baseball Magazine All-Star,1950,NL,,LF
+spahnwa01,Baseball Magazine All-Star,1950,NL,,P1
+konstji01,Baseball Magazine All-Star,1950,NL,,P2
+jansela01,Baseball Magazine All-Star,1950,NL,,P3
+furilca01,Baseball Magazine All-Star,1950,NL,,RF
+hamnegr01,Baseball Magazine All-Star,1950,NL,,SS
+rizzuph01,Most Valuable Player,1950,AL,,
+konstji01,Most Valuable Player,1950,NL,,
+dropowa01,Rookie of the Year,1950,AL,,
+jethrsa01,Rookie of the Year,1950,NL,,
+dropowa01,TSN All-Star,1950,ML,,1B
+robinja02,TSN All-Star,1950,ML,,2B
+kellge01,TSN All-Star,1950,ML,,3B
+berrayo01,TSN All-Star,1950,ML,,C
+dobyla01,TSN All-Star,1950,ML,,OF
+kinerra01,TSN All-Star,1950,ML,,OF
+musiast01,TSN All-Star,1950,ML,,OF
+konstji01,TSN All-Star,1950,ML,,P
+lemonbo01,TSN All-Star,1950,ML,,P
+raschvi01,TSN All-Star,1950,ML,,P
+rizzuph01,TSN All-Star,1950,ML,,SS
+rizzuph01,TSN Major League Player of the Year,1950,ML,,
+lemonbo01,TSN Pitcher of the Year,1950,AL,,
+konstji01,TSN Pitcher of the Year,1950,NL,,
+rizzuph01,TSN Player of the Year,1950,AL,,
+kinerra01,TSN Player of the Year,1950,NL,,
+rizzuph01,Babe Ruth Award,1951,AL,,SS
+berrayo01,Most Valuable Player,1951,AL,,
+camparo01,Most Valuable Player,1951,NL,,
+mcdougi01,Rookie of the Year,1951,AL,,
+mayswi01,Rookie of the Year,1951,NL,,
+fainfe01,TSN All-Star,1951,ML,,1B
+robinja02,TSN All-Star,1951,ML,,2B
+kellge01,TSN All-Star,1951,ML,,3B
+camparo01,TSN All-Star,1951,ML,,C
+kinerra01,TSN All-Star,1951,ML,,OF
+musiast01,TSN All-Star,1951,ML,,OF
+willite01,TSN All-Star,1951,ML,,OF
+maglisa01,TSN All-Star,1951,ML,,P
+reynoal01,TSN All-Star,1951,ML,,P
+roepr01,TSN All-Star,1951,ML,,P
+rizzuph01,TSN All-Star,1951,ML,,SS
+musiast01,TSN Major League Player of the Year,1951,ML,,
+fellebo01,TSN Pitcher of the Year,1951,AL,,
+roepr01,TSN Pitcher of the Year,1951,NL,,
+fainfe01,TSN Player of the Year,1951,AL,,
+musiast01,TSN Player of the Year,1951,NL,,
+mizejo01,Babe Ruth Award,1952,AL,,1B
+shantbo01,Most Valuable Player,1952,AL,,
+sauerha01,Most Valuable Player,1952,NL,,
+byrdha01,Rookie of the Year,1952,AL,,
+blackjo02,Rookie of the Year,1952,NL,,
+fainfe01,TSN All-Star,1952,ML,,1B
+robinja02,TSN All-Star,1952,ML,,2B
+kellge01,TSN All-Star,1952,ML,,3B
+berrayo01,TSN All-Star,1952,ML,,C
+mantlmi01,TSN All-Star,1952,ML,,OF
+musiast01,TSN All-Star,1952,ML,,OF
+sauerha01,TSN All-Star,1952,ML,,OF
+reynoal01,TSN All-Star,1952,ML,,P
+roberro01,TSN All-Star,1952,ML,,P
+shantbo01,TSN All-Star,1952,ML,,P
+rizzuph01,TSN All-Star,1952,ML,,SS
+roberro01,TSN Major League Player of the Year,1952,ML,,
+shantbo01,TSN Pitcher of the Year,1952,AL,,
+roberro01,TSN Pitcher of the Year,1952,NL,,
+eastelu01,TSN Player of the Year,1952,AL,,
+sauerha01,TSN Player of the Year,1952,NL,,
+martibi02,Babe Ruth Award,1953,AL,,2B
+rosenal01,Most Valuable Player,1953,AL,,
+camparo01,Most Valuable Player,1953,NL,,
+kuennha01,Rookie of the Year,1953,AL,,
+gilliji01,Rookie of the Year,1953,NL,,
+vernomi01,TSN All-Star,1953,ML,,1B
+schoere01,TSN All-Star,1953,ML,,2B
+rosenal01,TSN All-Star,1953,ML,,3B
+camparo01,TSN All-Star,1953,ML,,C
+furilca01,TSN All-Star,1953,ML,,OF
+musiast01,TSN All-Star,1953,ML,,OF
+snidedu01,TSN All-Star,1953,ML,,OF
+portebo01,TSN All-Star,1953,ML,,P
+roberro01,TSN All-Star,1953,ML,,P
+spahnwa01,TSN All-Star,1953,ML,,P
+reesepe01,TSN All-Star,1953,ML,,SS
+rosenal01,TSN Major League Player of the Year,1953,ML,,
+portebo01,TSN Pitcher of the Year,1953,AL,,
+spahnwa01,TSN Pitcher of the Year,1953,NL,,
+rosenal01,TSN Player of the Year,1953,AL,,
+camparo01,TSN Player of the Year,1953,NL,,
+rhodedu01,Babe Ruth Award,1954,NL,,OF
+berrayo01,Most Valuable Player,1954,AL,,
+mayswi01,Most Valuable Player,1954,NL,,
+grimbo01,Rookie of the Year,1954,AL,,
+moonwa01,Rookie of the Year,1954,NL,,
+kluszte01,TSN All-Star,1954,ML,,1B
+avilabo01,TSN All-Star,1954,ML,,2B
+rosenal01,TSN All-Star,1954,ML,,3B
+berrayo01,TSN All-Star,1954,ML,,C
+mayswi01,TSN All-Star,1954,ML,,OF
+musiast01,TSN All-Star,1954,ML,,OF
+snidedu01,TSN All-Star,1954,ML,,OF
+antonjo02,TSN All-Star,1954,ML,,P
+lemonbo01,TSN All-Star,1954,ML,,P
+roberro01,TSN All-Star,1954,ML,,P
+darkal01,TSN All-Star,1954,ML,,SS
+mayswi01,TSN Major League Player of the Year,1954,ML,,
+lemonbo01,TSN Pitcher of the Year,1954,AL,,
+antonjo02,TSN Pitcher of the Year,1954,NL,,
+ayalabo01,TSN Player of the Year,1954,AL,,
+mayswi01,TSN Player of the Year,1954,NL,,
+podrejo01,Babe Ruth Award,1955,NL,,P
+darkal01,Lou Gehrig Memorial Award,1955,ML,,
+berrayo01,Most Valuable Player,1955,AL,,
+camparo01,Most Valuable Player,1955,NL,,
+scorehe01,Rookie of the Year,1955,AL,,
+virdobi01,Rookie of the Year,1955,NL,,
+kluszte01,TSN All-Star,1955,ML,,1B
+foxne01,TSN All-Star,1955,ML,,2B
+matheed01,TSN All-Star,1955,ML,,3B
+camparo01,TSN All-Star,1955,ML,,C
+kalinal01,TSN All-Star,1955,ML,,OF
+snidedu01,TSN All-Star,1955,ML,,OF
+willite01,TSN All-Star,1955,ML,,OF
+fordwh01,TSN All-Star,1955,ML,,P
+newcodo01,TSN All-Star,1955,ML,,P
+roberro01,TSN All-Star,1955,ML,,P
+bankser01,TSN All-Star,1955,ML,,SS
+snidedu01,TSN Major League Player of the Year,1955,ML,,
+fordwh01,TSN Pitcher of the Year,1955,AL,,
+roberro01,TSN Pitcher of the Year,1955,NL,,
+kalinal01,TSN Player of the Year,1955,AL,,
+snidedu01,TSN Player of the Year,1955,NL,,
+podrejo01,World Series MVP,1955,ML,,
+larsedo01,Babe Ruth Award,1956,AL,,P
+newcodo01,Cy Young Award,1956,ML,,
+reesepe01,Lou Gehrig Memorial Award,1956,ML,,
+mantlmi01,Most Valuable Player,1956,AL,,
+newcodo01,Most Valuable Player,1956,NL,,
+aparilu01,Rookie of the Year,1956,AL,,
+robinfr02,Rookie of the Year,1956,NL,,
+mantlmi01,Triple Crown,1956,AL,,
+kluszte01,TSN All-Star,1956,ML,,1B
+foxne01,TSN All-Star,1956,ML,,2B
+boyerke01,TSN All-Star,1956,ML,,3B
+berrayo01,TSN All-Star,1956,ML,,C
+aaronha01,TSN All-Star,1956,ML,,OF
+mantlmi01,TSN All-Star,1956,ML,,OF
+willite01,TSN All-Star,1956,ML,,OF
+fordwh01,TSN All-Star,1956,ML,,P
+newcodo01,TSN All-Star,1956,ML,,P
+piercbi02,TSN All-Star,1956,ML,,P
+kuennha01,TSN All-Star,1956,ML,,SS
+mantlmi01,TSN Major League Player of the Year,1956,ML,,
+piercbi02,TSN Pitcher of the Year,1956,AL,,
+newcodo01,TSN Pitcher of the Year,1956,NL,,
+mantlmi01,TSN Player of the Year,1956,AL,,
+aaronha01,TSN Player of the Year,1956,NL,,
+larsedo01,World Series MVP,1956,ML,,
+burdele01,Babe Ruth Award,1957,NL,,P
+spahnwa01,Cy Young Award,1957,ML,,
+hodgegi01,Gold Glove,1957,ML,,1B
+foxne01,Gold Glove,1957,ML,,2B
+malzofr01,Gold Glove,1957,ML,,3B
+lollash01,Gold Glove,1957,ML,,C
+mayswi01,Gold Glove,1957,ML,,CF
+minosmi01,Gold Glove,1957,ML,,LF
+shantbo01,Gold Glove,1957,ML,,P
+kalinal01,Gold Glove,1957,ML,,RF
+mcmilro01,Gold Glove,1957,ML,,SS
+musiast01,Lou Gehrig Memorial Award,1957,ML,,
+mantlmi01,Most Valuable Player,1957,AL,,
+aaronha01,Most Valuable Player,1957,NL,,
+kubekto01,Rookie of the Year,1957,AL,,
+sanfoja02,Rookie of the Year,1957,NL,,
+musiast01,TSN All-Star,1957,ML,,1B
+schoere01,TSN All-Star,1957,ML,,2B
+matheed01,TSN All-Star,1957,ML,,3B
+berrayo01,TSN All-Star,1957,ML,,C
+mantlmi01,TSN All-Star,1957,ML,,OF
+mayswi01,TSN All-Star,1957,ML,,OF
+willite01,TSN All-Star,1957,ML,,OF
+bunniji01,TSN All-Star,1957,ML,,P
+piercbi02,TSN All-Star,1957,ML,,P
+spahnwa01,TSN All-Star,1957,ML,,P
+mcdougi01,TSN All-Star,1957,ML,,SS
+willite01,TSN Major League Player of the Year,1957,ML,,
+piercbi02,TSN Pitcher of the Year,1957,AL,,
+spahnwa01,TSN Pitcher of the Year,1957,NL,,
+willite01,TSN Player of the Year,1957,AL,,
+musiast01,TSN Player of the Year,1957,NL,,
+burdele01,World Series MVP,1957,ML,,
+howarel01,Babe Ruth Award,1958,AL,,C
+turlebo01,Cy Young Award,1958,ML,,
+powervi01,Gold Glove,1958,AL,,1B
+bollifr01,Gold Glove,1958,AL,,2B
+malzofr01,Gold Glove,1958,AL,,3B
+lollash01,Gold Glove,1958,AL,,C
+piersji01,Gold Glove,1958,AL,,CF
+siebeno01,Gold Glove,1958,AL,,LF
+shantbo01,Gold Glove,1958,AL,,P
+kalinal01,Gold Glove,1958,AL,,RF
+aparilu01,Gold Glove,1958,AL,,SS
+hodgegi01,Gold Glove,1958,NL,,1B
+mazerbi01,Gold Glove,1958,NL,,2B
+boyerke01,Gold Glove,1958,NL,,3B
+crandde01,Gold Glove,1958,NL,,C
+mayswi01,Gold Glove,1958,NL,,CF
+robinfr02,Gold Glove,1958,NL,,LF
+haddiha01,Gold Glove,1958,NL,,P
+aaronha01,Gold Glove,1958,NL,,RF
+mcmilro01,Gold Glove,1958,NL,,SS
+mcdougi01,Lou Gehrig Memorial Award,1958,ML,,
+jenseja01,Most Valuable Player,1958,AL,,
+bankser01,Most Valuable Player,1958,NL,,
+pearsal02,Rookie of the Year,1958,AL,,
+cepedor01,Rookie of the Year,1958,NL,,
+musiast01,TSN All-Star,1958,ML,,1B
+foxne01,TSN All-Star,1958,ML,,2B
+thomafr03,TSN All-Star,1958,ML,,3B
+crandde01,TSN All-Star,1958,ML,,C
+aaronha01,TSN All-Star,1958,ML,,OF
+mayswi01,TSN All-Star,1958,ML,,OF
+willite01,TSN All-Star,1958,ML,,OF
+frienbo01,TSN All-Star,1958,ML,,P
+spahnwa01,TSN All-Star,1958,ML,,P
+turlebo01,TSN All-Star,1958,ML,,P
+bankser01,TSN All-Star,1958,ML,,SS
+turlebo01,TSN Major League Player of the Year,1958,ML,,
+turlebo01,TSN Pitcher of the Year,1958,AL,,
+spahnwa01,TSN Pitcher of the Year,1958,NL,,
+jenseja01,TSN Player of the Year,1958,AL,,
+bankser01,TSN Player of the Year,1958,NL,,
+turlebo01,World Series MVP,1958,ML,,
+sherrla01,Babe Ruth Award,1959,NL,,P
+wynnea01,Cy Young Award,1959,ML,,
+powervi01,Gold Glove,1959,AL,,1B
+foxne01,Gold Glove,1959,AL,,2B
+malzofr01,Gold Glove,1959,AL,,3B
+lollash01,Gold Glove,1959,AL,,C
+kalinal01,Gold Glove,1959,AL,,CF
+minosmi01,Gold Glove,1959,AL,,LF
+shantbo01,Gold Glove,1959,AL,,P
+jenseja01,Gold Glove,1959,AL,,RF
+aparilu01,Gold Glove,1959,AL,,SS
+hodgegi01,Gold Glove,1959,NL,,1B
+nealch01,Gold Glove,1959,NL,,2B
+boyerke01,Gold Glove,1959,NL,,3B
+crandde01,Gold Glove,1959,NL,,C
+mayswi01,Gold Glove,1959,NL,,CF
+brandja01,Gold Glove,1959,NL,,LF
+haddiha01,Gold Glove,1959,NL,,P
+aaronha01,Gold Glove,1959,NL,,RF
+mcmilro01,Gold Glove,1959,NL,,SS
+hodgegi01,Lou Gehrig Memorial Award,1959,ML,,
+foxne01,Most Valuable Player,1959,AL,,
+bankser01,Most Valuable Player,1959,NL,,
+allisbo01,Rookie of the Year,1959,AL,,
+mccovwi01,Rookie of the Year,1959,NL,,
+cepedor01,TSN All-Star,1959,ML,,1B
+foxne01,TSN All-Star,1959,ML,,2B
+matheed01,TSN All-Star,1959,ML,,3B
+lollash01,TSN All-Star,1959,ML,,C
+aaronha01,TSN All-Star,1959,ML,,OF
+mayswi01,TSN All-Star,1959,ML,,OF
+minosmi01,TSN All-Star,1959,ML,,OF
+antonjo02,TSN All-Star,1959,ML,,P
+jonessa02,TSN All-Star,1959,ML,,P
+wynnea01,TSN All-Star,1959,ML,,P
+bankser01,TSN All-Star,1959,ML,,SS
+wynnea01,TSN Major League Player of the Year,1959,ML,,
+wynnea01,TSN Pitcher of the Year,1959,AL,,
+jonessa02,TSN Pitcher of the Year,1959,NL,,
+foxne01,TSN Player of the Year,1959,AL,,
+bankser01,TSN Player of the Year,1959,NL,,
+sherrla01,World Series MVP,1959,ML,,
+mazerbi01,Babe Ruth Award,1960,NL,,2B
+lawve01,Cy Young Award,1960,ML,,
+powervi01,Gold Glove,1960,AL,,1B
+foxne01,Gold Glove,1960,AL,,2B
+robinbr01,Gold Glove,1960,AL,,3B
+batteea01,Gold Glove,1960,AL,,C
+landiji01,Gold Glove,1960,AL,,CF
+minosmi01,Gold Glove,1960,AL,,LF
+shantbo01,Gold Glove,1960,AL,,P
+marisro01,Gold Glove,1960,AL,,RF
+aparilu01,Gold Glove,1960,AL,,SS
+whitebi03,Gold Glove,1960,NL,,1B
+mazerbi01,Gold Glove,1960,NL,,2B
+boyerke01,Gold Glove,1960,NL,,3B
+crandde01,Gold Glove,1960,NL,,C
+mayswi01,Gold Glove,1960,NL,,CF
+moonwa01,Gold Glove,1960,NL,,LF
+haddiha01,Gold Glove,1960,NL,,P
+aaronha01,Gold Glove,1960,NL,,RF
+bankser01,Gold Glove,1960,NL,,SS
+groatdi01,Lou Gehrig Memorial Award,1960,ML,,
+marisro01,Most Valuable Player,1960,AL,,
+groatdi01,Most Valuable Player,1960,NL,,
+hansero02,Rookie of the Year,1960,AL,,
+howarfr01,Rookie of the Year,1960,NL,,
+skowrbi01,TSN All-Star,1960,ML,,1B
+mazerbi01,TSN All-Star,1960,ML,,2B
+matheed01,TSN All-Star,1960,ML,,3B
+crandde01,TSN All-Star,1960,ML,,C
+marisro01,TSN All-Star,1960,ML,,OF
+mayswi01,TSN All-Star,1960,ML,,OF
+minosmi01,TSN All-Star,1960,ML,,OF
+brogler01,TSN All-Star,1960,ML,,P
+lawve01,TSN All-Star,1960,ML,,P
+spahnwa01,TSN All-Star,1960,ML,,P
+bankser01,TSN All-Star,1960,ML,,SS
+fornimi01,TSN Fireman of the Year,1960,AL,,
+mcdanli01,TSN Fireman of the Year,1960,NL,,
+mazerbi01,TSN Major League Player of the Year,1960,ML,,
+estrach01,TSN Pitcher of the Year,1960,AL,,
+lawve01,TSN Pitcher of the Year,1960,NL,,
+marisro01,TSN Player of the Year,1960,AL,,
+groatdi01,TSN Player of the Year,1960,NL,,
+richabo01,World Series MVP,1960,ML,,
+fordwh01,Babe Ruth Award,1961,AL,,P
+fordwh01,Cy Young Award,1961,ML,,
+powervi01,Gold Glove,1961,AL,,1B
+richabo01,Gold Glove,1961,AL,,2B
+robinbr01,Gold Glove,1961,AL,,3B
+batteea01,Gold Glove,1961,AL,,C
+kalinal01,Gold Glove,1961,AL,,OF
+landiji01,Gold Glove,1961,AL,,OF
+piersji01,Gold Glove,1961,AL,,OF
+laryfr01,Gold Glove,1961,AL,,P
+aparilu01,Gold Glove,1961,AL,,SS
+whitebi03,Gold Glove,1961,NL,,1B
+mazerbi01,Gold Glove,1961,NL,,2B
+boyerke01,Gold Glove,1961,NL,,3B
+rosebjo01,Gold Glove,1961,NL,,C
+clemero01,Gold Glove,1961,NL,,OF
+mayswi01,Gold Glove,1961,NL,,OF
+pinsova01,Gold Glove,1961,NL,,OF
+shantbo01,Gold Glove,1961,NL,,P
+willsma01,Gold Glove,1961,NL,,SS
+spahnwa01,Lou Gehrig Memorial Award,1961,ML,,
+marisro01,Most Valuable Player,1961,AL,,
+robinfr02,Most Valuable Player,1961,NL,,
+schwado01,Rookie of the Year,1961,AL,,
+willibi01,Rookie of the Year,1961,NL,,
+cashno01,TSN All-Star,1961,AL,,1B
+richabo01,TSN All-Star,1961,AL,,2B
+robinbr01,TSN All-Star,1961,AL,,3B
+howarel01,TSN All-Star,1961,AL,,C
+colavro01,TSN All-Star,1961,AL,,OF
+mantlmi01,TSN All-Star,1961,AL,,OF
+marisro01,TSN All-Star,1961,AL,,OF
+fordwh01,TSN All-Star,1961,AL,,P
+laryfr01,TSN All-Star,1961,AL,,P
+kubekto01,TSN All-Star,1961,AL,,SS
+cepedor01,TSN All-Star,1961,NL,,1B
+bollifr01,TSN All-Star,1961,NL,,2B
+boyerke01,TSN All-Star,1961,NL,,3B
+burgesm01,TSN All-Star,1961,NL,,C
+clemero01,TSN All-Star,1961,NL,,OF
+mayswi01,TSN All-Star,1961,NL,,OF
+robinfr02,TSN All-Star,1961,NL,,OF
+jayjo01,TSN All-Star,1961,NL,,P
+spahnwa01,TSN All-Star,1961,NL,,P
+willsma01,TSN All-Star,1961,NL,,SS
+arroylu01,TSN Fireman of the Year,1961,AL,,
+millest01,TSN Fireman of the Year,1961,NL,,
+marisro01,TSN Major League Player of the Year,1961,ML,,
+fordwh01,TSN Pitcher of the Year,1961,AL,,
+spahnwa01,TSN Pitcher of the Year,1961,NL,,
+marisro01,TSN Player of the Year,1961,AL,,
+robinfr02,TSN Player of the Year,1961,NL,,
+fordwh01,World Series MVP,1961,ML,,
+wagnele01,All-Star Game MVP,1962,ML,,1st Game
+willsma01,All-Star Game MVP,1962,ML,,2nd Game
+terryra01,Babe Ruth Award,1962,AL,,P
+drysddo01,Cy Young Award,1962,ML,,
+powervi01,Gold Glove,1962,AL,,1B
+richabo01,Gold Glove,1962,AL,,2B
+robinbr01,Gold Glove,1962,AL,,3B
+batteea01,Gold Glove,1962,AL,,C
+kalinal01,Gold Glove,1962,AL,,OF
+landiji01,Gold Glove,1962,AL,,OF
+mantlmi01,Gold Glove,1962,AL,,OF
+kaatji01,Gold Glove,1962,AL,,P
+aparilu01,Gold Glove,1962,AL,,SS
+whitebi03,Gold Glove,1962,NL,,1B
+hubbske01,Gold Glove,1962,NL,,2B
+davenji01,Gold Glove,1962,NL,,3B
+crandde01,Gold Glove,1962,NL,,C
+clemero01,Gold Glove,1962,NL,,OF
+mayswi01,Gold Glove,1962,NL,,OF
+virdobi01,Gold Glove,1962,NL,,OF
+shantbo01,Gold Glove,1962,NL,,P
+willsma01,Gold Glove,1962,NL,,SS
+roberro01,Lou Gehrig Memorial Award,1962,ML,,
+mantlmi01,Most Valuable Player,1962,AL,,
+willsma01,Most Valuable Player,1962,NL,,
+treshto01,Rookie of the Year,1962,AL,,
+hubbske01,Rookie of the Year,1962,NL,,
+siebeno01,TSN All-Star,1962,AL,,1B
+richabo01,TSN All-Star,1962,AL,,2B
+robinbr01,TSN All-Star,1962,AL,,3B
+batteea01,TSN All-Star,1962,AL,,C
+kalinal01,TSN All-Star,1962,AL,,OF
+mantlmi01,TSN All-Star,1962,AL,,OF
+wagnele01,TSN All-Star,1962,AL,,OF
+donovdi01,TSN All-Star,1962,AL,,P
+terryra01,TSN All-Star,1962,AL,,P
+treshto01,TSN All-Star,1962,AL,,SS
+cepedor01,TSN All-Star,1962,NL,,1B
+mazerbi01,TSN All-Star,1962,NL,,2B
+boyerke01,TSN All-Star,1962,NL,,3B
+crandde01,TSN All-Star,1962,NL,,C
+davisto02,TSN All-Star,1962,NL,,OF
+mayswi01,TSN All-Star,1962,NL,,OF
+robinfr02,TSN All-Star,1962,NL,,OF
+drysddo01,TSN All-Star,1962,NL,,P
+purkebo01,TSN All-Star,1962,NL,,P
+willsma01,TSN All-Star,1962,NL,,SS
+radatdi01,TSN Fireman of the Year,1962,AL,,
+facero01,TSN Fireman of the Year,1962,NL,,
+drysddo01,TSN Major League Player of the Year,1962,ML,,
+willsma01,TSN Major League Player of the Year,1962,ML,,
+donovdi01,TSN Pitcher of the Year,1962,AL,,
+drysddo01,TSN Pitcher of the Year,1962,NL,,
+mantlmi01,TSN Player of the Year,1962,AL,,
+willsma01,TSN Player of the Year,1962,NL,,
+terryra01,World Series MVP,1962,ML,,
+aaronha01,TSN Player of the Year,1963,NL,,
+koufasa01,World Series MVP,1963,ML,,
+mayswi01,All-Star Game MVP,1963,ML,,
+koufasa01,Babe Ruth Award,1963,NL,,P
+koufasa01,Cy Young Award,1963,ML,,
+powervi01,Gold Glove,1963,AL,,1B
+richabo01,Gold Glove,1963,AL,,2B
+robinbr01,Gold Glove,1963,AL,,3B
+howarel01,Gold Glove,1963,AL,,C
+kalinal01,Gold Glove,1963,AL,,OF
+landiji01,Gold Glove,1963,AL,,OF
+yastrca01,Gold Glove,1963,AL,,OF
+kaatji01,Gold Glove,1963,AL,,P
+versazo01,Gold Glove,1963,AL,,SS
+whitebi03,Gold Glove,1963,NL,,1B
+mazerbi01,Gold Glove,1963,NL,,2B
+boyerke01,Gold Glove,1963,NL,,3B
+edwarjo01,Gold Glove,1963,NL,,C
+clemero01,Gold Glove,1963,NL,,OF
+floodcu01,Gold Glove,1963,NL,,OF
+mayswi01,Gold Glove,1963,NL,,OF
+shantbo01,Gold Glove,1963,NL,,P
+winebo01,Gold Glove,1963,NL,,SS
+richabo01,Lou Gehrig Memorial Award,1963,ML,,
+howarel01,Most Valuable Player,1963,AL,,
+koufasa01,Most Valuable Player,1963,NL,,
+koufasa01,Pitching Triple Crown,1963,NL,,
+peterga01,Rookie of the Year,1963,AL,,
+rosepe01,Rookie of the Year,1963,NL,,
+pepitjo01,TSN All-Star,1963,AL,,1B
+richabo01,TSN All-Star,1963,AL,,2B
+malzofr01,TSN All-Star,1963,AL,,3B
+howarel01,TSN All-Star,1963,AL,,C
+kalinal01,TSN All-Star,1963,AL,,OF
+pearsal02,TSN All-Star,1963,AL,,OF
+yastrca01,TSN All-Star,1963,AL,,OF
+fordwh01,TSN All-Star,1963,AL,,P
+peterga01,TSN All-Star,1963,AL,,P
+aparilu01,TSN All-Star,1963,AL,,SS
+whitebi03,TSN All-Star,1963,NL,,1B
+gilliji01,TSN All-Star,1963,NL,,2B
+boyerke01,TSN All-Star,1963,NL,,3B
+edwarjo01,TSN All-Star,1963,NL,,C
+aaronha01,TSN All-Star,1963,NL,,OF
+davisto02,TSN All-Star,1963,NL,,OF
+mayswi01,TSN All-Star,1963,NL,,OF
+koufasa01,TSN All-Star,1963,NL,,P
+maricju01,TSN All-Star,1963,NL,,P
+groatdi01,TSN All-Star,1963,NL,,SS
+millest01,TSN Fireman of the Year,1963,AL,,
+mcdanli01,TSN Fireman of the Year,1963,NL,,
+koufasa01,TSN Major League Player of the Year,1963,ML,,
+fordwh01,TSN Pitcher of the Year,1963,AL,,
+koufasa01,TSN Pitcher of the Year,1963,NL,,
+kalinal01,TSN Player of the Year,1963,AL,,
+callijo01,All-Star Game MVP,1964,ML,,
+gibsobo01,Babe Ruth Award,1964,NL,,P
+chancde01,Cy Young Award,1964,ML,,
+powervi01,Gold Glove,1964,AL,,1B
+richabo01,Gold Glove,1964,AL,,2B
+robinbr01,Gold Glove,1964,AL,,3B
+howarel01,Gold Glove,1964,AL,,C
+davalvi01,Gold Glove,1964,AL,,OF
+kalinal01,Gold Glove,1964,AL,,OF
+landiji01,Gold Glove,1964,AL,,OF
+kaatji01,Gold Glove,1964,AL,,P
+aparilu01,Gold Glove,1964,AL,,SS
+whitebi03,Gold Glove,1964,NL,,1B
+mazerbi01,Gold Glove,1964,NL,,2B
+santoro01,Gold Glove,1964,NL,,3B
+edwarjo01,Gold Glove,1964,NL,,C
+clemero01,Gold Glove,1964,NL,,OF
+floodcu01,Gold Glove,1964,NL,,OF
+mayswi01,Gold Glove,1964,NL,,OF
+shantbo01,Gold Glove,1964,NL,,P
+amaroru01,Gold Glove,1964,NL,,SS
+boyerke01,Lou Gehrig Memorial Award,1964,ML,,
+robinbr01,Most Valuable Player,1964,AL,,
+boyerke01,Most Valuable Player,1964,NL,,
+olivato01,Rookie of the Year,1964,AL,,
+allendi01,Rookie of the Year,1964,NL,,
+stuardi01,TSN All-Star,1964,AL,,1B
+richabo01,TSN All-Star,1964,AL,,2B
+robinbr01,TSN All-Star,1964,AL,,3B
+howarel01,TSN All-Star,1964,AL,,C
+killeha01,TSN All-Star,1964,AL,,OF
+mantlmi01,TSN All-Star,1964,AL,,OF
+olivato01,TSN All-Star,1964,AL,,OF
+chancde01,TSN All-Star,1964,AL,,P
+peterga01,TSN All-Star,1964,AL,,P
+fregoji01,TSN All-Star,1964,AL,,SS
+whitebi03,TSN All-Star,1964,NL,,1B
+huntro01,TSN All-Star,1964,NL,,2B
+boyerke01,TSN All-Star,1964,NL,,3B
+torrejo01,TSN All-Star,1964,NL,,C
+clemero01,TSN All-Star,1964,NL,,OF
+mayswi01,TSN All-Star,1964,NL,,OF
+willibi01,TSN All-Star,1964,NL,,OF
+bunniji01,TSN All-Star,1964,NL,,P
+koufasa01,TSN All-Star,1964,NL,,P
+groatdi01,TSN All-Star,1964,NL,,SS
+radatdi01,TSN Fireman of the Year,1964,AL,,
+mcbeaal01,TSN Fireman of the Year,1964,NL,,
+boyerke01,TSN Major League Player of the Year,1964,ML,,
+chancde01,TSN Pitcher of the Year,1964,AL,,
+koufasa01,TSN Pitcher of the Year,1964,NL,,
+robinbr01,TSN Player of the Year,1964,AL,,
+boyerke01,TSN Player of the Year,1964,NL,,
+gibsobo01,World Series MVP,1964,ML,,
+maricju01,All-Star Game MVP,1965,ML,,
+koufasa01,Babe Ruth Award,1965,NL,,P
+koufasa01,Cy Young Award,1965,ML,,
+pepitjo01,Gold Glove,1965,AL,,1B
+richabo01,Gold Glove,1965,AL,,2B
+robinbr01,Gold Glove,1965,AL,,3B
+freehbi01,Gold Glove,1965,AL,,C
+kalinal01,Gold Glove,1965,AL,,OF
+treshto01,Gold Glove,1965,AL,,OF
+yastrca01,Gold Glove,1965,AL,,OF
+kaatji01,Gold Glove,1965,AL,,P
+versazo01,Gold Glove,1965,AL,,SS
+whitebi03,Gold Glove,1965,NL,,1B
+mazerbi01,Gold Glove,1965,NL,,2B
+santoro01,Gold Glove,1965,NL,,3B
+torrejo01,Gold Glove,1965,NL,,C
+clemero01,Gold Glove,1965,NL,,OF
+floodcu01,Gold Glove,1965,NL,,OF
+mayswi01,Gold Glove,1965,NL,,OF
+gibsobo01,Gold Glove,1965,NL,,P
+cardele01,Gold Glove,1965,NL,,SS
+mantlmi01,Hutch Award,1965,ML,,
+lawve01,Lou Gehrig Memorial Award,1965,ML,,
+versazo01,Most Valuable Player,1965,AL,,
+mayswi01,Most Valuable Player,1965,NL,,
+koufasa01,Pitching Triple Crown,1965,NL,,
+blefacu01,Rookie of the Year,1965,AL,,
+lefebji01,Rookie of the Year,1965,NL,,
+whitffr01,TSN All-Star,1965,AL,,1B
+richabo01,TSN All-Star,1965,AL,,2B
+robinbr01,TSN All-Star,1965,AL,,3B
+batteea01,TSN All-Star,1965,AL,,C
+hallji02,TSN All-Star,1965,AL,,OF
+olivato01,TSN All-Star,1965,AL,,OF
+yastrca01,TSN All-Star,1965,AL,,OF
+grantmu01,TSN All-Star,1965,AL,,P
+stottme01,TSN All-Star,1965,AL,,P
+versazo01,TSN All-Star,1965,AL,,SS
+mccovwi01,TSN All-Star,1965,NL,,1B
+rosepe01,TSN All-Star,1965,NL,,2B
+johnsde01,TSN All-Star,1965,NL,,3B
+torrejo01,TSN All-Star,1965,NL,,C
+aaronha01,TSN All-Star,1965,NL,,OF
+mayswi01,TSN All-Star,1965,NL,,OF
+stargwi01,TSN All-Star,1965,NL,,OF
+koufasa01,TSN All-Star,1965,NL,,P
+maricju01,TSN All-Star,1965,NL,,P
+willsma01,TSN All-Star,1965,NL,,SS
+fisheed02,TSN Fireman of the Year,1965,AL,,
+abernte02,TSN Fireman of the Year,1965,NL,,
+koufasa01,TSN Major League Player of the Year,1965,ML,,
+grantmu01,TSN Pitcher of the Year,1965,AL,,
+koufasa01,TSN Pitcher of the Year,1965,NL,,
+olivato01,TSN Player of the Year,1965,AL,,
+mayswi01,TSN Player of the Year,1965,NL,,
+koufasa01,World Series MVP,1965,ML,,
+robinbr01,All-Star Game MVP,1966,ML,,
+robinfr02,Babe Ruth Award,1966,AL,,OF
+koufasa01,Cy Young Award,1966,ML,,
+pepitjo01,Gold Glove,1966,AL,,1B
+knoopbo01,Gold Glove,1966,AL,,2B
+robinbr01,Gold Glove,1966,AL,,3B
+freehbi01,Gold Glove,1966,AL,,C
+ageeto01,Gold Glove,1966,AL,,OF
+kalinal01,Gold Glove,1966,AL,,OF
+olivato01,Gold Glove,1966,AL,,OF
+kaatji01,Gold Glove,1966,AL,,P
+aparilu01,Gold Glove,1966,AL,,SS
+whitebi03,Gold Glove,1966,NL,,1B
+mazerbi01,Gold Glove,1966,NL,,2B
+santoro01,Gold Glove,1966,NL,,3B
+rosebjo01,Gold Glove,1966,NL,,C
+clemero01,Gold Glove,1966,NL,,OF
+floodcu01,Gold Glove,1966,NL,,OF
+mayswi01,Gold Glove,1966,NL,,OF
+gibsobo01,Gold Glove,1966,NL,,P
+alleyge01,Gold Glove,1966,NL,,SS
+koufasa01,Hutch Award,1966,ML,,
+robinbr01,Lou Gehrig Memorial Award,1966,ML,,
+robinfr02,Most Valuable Player,1966,AL,,
+clemero01,Most Valuable Player,1966,NL,,
+koufasa01,Pitching Triple Crown,1966,NL,,
+ageeto01,Rookie of the Year,1966,AL,,
+helmsto01,Rookie of the Year,1966,NL,,
+robinfr02,Triple Crown,1966,AL,,
+powelbo01,TSN All-Star,1966,AL,,1B
+richabo01,TSN All-Star,1966,AL,,2B
+robinbr01,TSN All-Star,1966,AL,,3B
+casanpa01,TSN All-Star,1966,AL,,C
+kalinal01,TSN All-Star,1966,AL,,OF
+olivato01,TSN All-Star,1966,AL,,OF
+robinfr02,TSN All-Star,1966,AL,,OF
+kaatji01,TSN All-Star,1966,AL,,P
+wilsoea01,TSN All-Star,1966,AL,,P
+aparilu01,TSN All-Star,1966,AL,,SS
+aloufe01,TSN All-Star,1966,NL,,1B
+rosepe01,TSN All-Star,1966,NL,,2B
+santoro01,TSN All-Star,1966,NL,,3B
+torrejo01,TSN All-Star,1966,NL,,C
+clemero01,TSN All-Star,1966,NL,,OF
+mayswi01,TSN All-Star,1966,NL,,OF
+stargwi01,TSN All-Star,1966,NL,,OF
+koufasa01,TSN All-Star,1966,NL,,P
+maricju01,TSN All-Star,1966,NL,,P
+alleyge01,TSN All-Star,1966,NL,,SS
+akerja01,TSN Fireman of the Year,1966,AL,,
+reganph01,TSN Fireman of the Year,1966,NL,,
+robinfr02,TSN Major League Player of the Year,1966,ML,,
+kaatji01,TSN Pitcher of the Year,1966,AL,,
+koufasa01,TSN Pitcher of the Year,1966,NL,,
+robinfr02,TSN Player of the Year,1966,AL,,
+clemero01,TSN Player of the Year,1966,NL,,
+robinfr02,World Series MVP,1966,ML,,
+perezto01,All-Star Game MVP,1967,ML,,
+brocklo01,Babe Ruth Award,1967,NL,,OF
+lonboji01,Cy Young Award,1967,AL,,
+mccormi03,Cy Young Award,1967,NL,,
+scottge02,Gold Glove,1967,AL,,1B
+knoopbo01,Gold Glove,1967,AL,,2B
+robinbr01,Gold Glove,1967,AL,,3B
+freehbi01,Gold Glove,1967,AL,,C
+blairpa01,Gold Glove,1967,AL,,OF
+kalinal01,Gold Glove,1967,AL,,OF
+yastrca01,Gold Glove,1967,AL,,OF
+kaatji01,Gold Glove,1967,AL,,P
+fregoji01,Gold Glove,1967,AL,,SS
+parkewe01,Gold Glove,1967,NL,,1B
+mazerbi01,Gold Glove,1967,NL,,2B
+santoro01,Gold Glove,1967,NL,,3B
+hundlra01,Gold Glove,1967,NL,,C
+clemero01,Gold Glove,1967,NL,,OF
+floodcu01,Gold Glove,1967,NL,,OF
+mayswi01,Gold Glove,1967,NL,,OF
+gibsobo01,Gold Glove,1967,NL,,P
+alleyge01,Gold Glove,1967,NL,,SS
+yastrca01,Hutch Award,1967,ML,,
+bankser01,Lou Gehrig Memorial Award,1967,ML,,
+yastrca01,Most Valuable Player,1967,AL,,
+cepedor01,Most Valuable Player,1967,NL,,
+carewro01,Rookie of the Year,1967,AL,,
+seaveto01,Rookie of the Year,1967,NL,,
+yastrca01,Triple Crown,1967,AL,,
+killeha01,TSN All-Star,1967,AL,,1B
+carewro01,TSN All-Star,1967,AL,,2B
+robinbr01,TSN All-Star,1967,AL,,3B
+freehbi01,TSN All-Star,1967,AL,,C
+kalinal01,TSN All-Star,1967,AL,,OF
+robinfr02,TSN All-Star,1967,AL,,OF
+yastrca01,TSN All-Star,1967,AL,,OF
+lonboji01,TSN All-Star,1967,AL,,P
+wilsoea01,TSN All-Star,1967,AL,,P
+fregoji01,TSN All-Star,1967,AL,,SS
+cepedor01,TSN All-Star,1967,NL,,1B
+mazerbi01,TSN All-Star,1967,NL,,2B
+santoro01,TSN All-Star,1967,NL,,3B
+mccarti01,TSN All-Star,1967,NL,,C
+aaronha01,TSN All-Star,1967,NL,,OF
+clemero01,TSN All-Star,1967,NL,,OF
+wynnji01,TSN All-Star,1967,NL,,OF
+jenkife01,TSN All-Star,1967,NL,,P
+mccormi03,TSN All-Star,1967,NL,,P
+alleyge01,TSN All-Star,1967,NL,,SS
+rojasmi01,TSN Fireman of the Year,1967,AL,,
+abernte02,TSN Fireman of the Year,1967,NL,,
+yastrca01,TSN Major League Player of the Year,1967,ML,,
+lonboji01,TSN Pitcher of the Year,1967,AL,,
+mccormi03,TSN Pitcher of the Year,1967,NL,,
+yastrca01,TSN Player of the Year,1967,AL,,
+cepedor01,TSN Player of the Year,1967,NL,,
+gibsobo01,World Series MVP,1967,ML,,
+mayswi01,All-Star Game MVP,1968,ML,,
+lolicmi01,Babe Ruth Award,1968,AL,,P
+mclaide01,Cy Young Award,1968,AL,,
+gibsobo01,Cy Young Award,1968,NL,,
+scottge02,Gold Glove,1968,AL,,1B
+knoopbo01,Gold Glove,1968,AL,,2B
+robinbr01,Gold Glove,1968,AL,,3B
+freehbi01,Gold Glove,1968,AL,,C
+smithre06,Gold Glove,1968,AL,,OF
+stanlmi01,Gold Glove,1968,AL,,OF
+yastrca01,Gold Glove,1968,AL,,OF
+kaatji01,Gold Glove,1968,AL,,P
+aparilu01,Gold Glove,1968,AL,,SS
+parkewe01,Gold Glove,1968,NL,,1B
+beckegl01,Gold Glove,1968,NL,,2B
+santoro01,Gold Glove,1968,NL,,3B
+benchjo01,Gold Glove,1968,NL,,C
+clemero01,Gold Glove,1968,NL,,OF
+floodcu01,Gold Glove,1968,NL,,OF
+mayswi01,Gold Glove,1968,NL,,OF
+gibsobo01,Gold Glove,1968,NL,,P
+maxvida01,Gold Glove,1968,NL,,SS
+rosepe01,Hutch Award,1968,ML,,
+kalinal01,Lou Gehrig Memorial Award,1968,ML,,
+mclaide01,Most Valuable Player,1968,AL,,
+gibsobo01,Most Valuable Player,1968,NL,,
+bahnsst01,Rookie of the Year,1968,AL,,
+benchjo01,Rookie of the Year,1968,NL,,
+powelbo01,TSN All-Star,1968,AL,,1B
+carewro01,TSN All-Star,1968,AL,,2B
+robinbr01,TSN All-Star,1968,AL,,3B
+freehbi01,TSN All-Star,1968,AL,,C
+harreke01,TSN All-Star,1968,AL,,OF
+hortowi01,TSN All-Star,1968,AL,,OF
+howarfr01,TSN All-Star,1968,AL,,OF
+mclaide01,TSN All-Star,1968,AL,,P
+mcnalda01,TSN All-Star,1968,AL,,P
+aparilu01,TSN All-Star,1968,AL,,SS
+mccovwi01,TSN All-Star,1968,NL,,1B
+helmsto01,TSN All-Star,1968,NL,,2B
+santoro01,TSN All-Star,1968,NL,,3B
+benchjo01,TSN All-Star,1968,NL,,C
+floodcu01,TSN All-Star,1968,NL,,OF
+rosepe01,TSN All-Star,1968,NL,,OF
+willibi01,TSN All-Star,1968,NL,,OF
+gibsobo01,TSN All-Star,1968,NL,,P
+maricju01,TSN All-Star,1968,NL,,P
+kessido01,TSN All-Star,1968,NL,,SS
+woodwi01,TSN Fireman of the Year,1968,AL,,
+reganph01,TSN Fireman of the Year,1968,NL,,
+mclaide01,TSN Major League Player of the Year,1968,ML,,
+mclaide01,TSN Pitcher of the Year,1968,AL,,
+gibsobo01,TSN Pitcher of the Year,1968,NL,,
+harreke01,TSN Player of the Year,1968,AL,,
+rosepe01,TSN Player of the Year,1968,NL,,
+lolicmi01,World Series MVP,1968,ML,,
+mccovwi01,All-Star Game MVP,1969,ML,,
+weisal01,Babe Ruth Award,1969,NL,,SS
+cuellmi01,Cy Young Award,1969,AL,Y,
+mclaide01,Cy Young Award,1969,AL,Y,
+seaveto01,Cy Young Award,1969,NL,,
+pepitjo01,Gold Glove,1969,AL,,1B
+johnsda02,Gold Glove,1969,AL,,2B
+robinbr01,Gold Glove,1969,AL,,3B
+freehbi01,Gold Glove,1969,AL,,C
+blairpa01,Gold Glove,1969,AL,,OF
+stanlmi01,Gold Glove,1969,AL,,OF
+yastrca01,Gold Glove,1969,AL,,OF
+kaatji01,Gold Glove,1969,AL,,P
+belanma01,Gold Glove,1969,AL,,SS
+parkewe01,Gold Glove,1969,NL,,1B
+millafe01,Gold Glove,1969,NL,,2B
+boyercl02,Gold Glove,1969,NL,,3B
+benchjo01,Gold Glove,1969,NL,,C
+clemero01,Gold Glove,1969,NL,,OF
+floodcu01,Gold Glove,1969,NL,,OF
+rosepe01,Gold Glove,1969,NL,,OF
+gibsobo01,Gold Glove,1969,NL,,P
+kessido01,Gold Glove,1969,NL,,SS
+kalinal01,Hutch Award,1969,ML,,
+rosepe01,Lou Gehrig Memorial Award,1969,ML,,
+killeha01,Most Valuable Player,1969,AL,,
+mccovwi01,Most Valuable Player,1969,NL,,
+pinielo01,Rookie of the Year,1969,AL,,
+sizemte01,Rookie of the Year,1969,NL,,
+powelbo01,TSN All-Star,1969,AL,,1B
+carewro01,TSN All-Star,1969,AL,,2B
+killeha01,TSN All-Star,1969,AL,,3B
+freehbi01,TSN All-Star,1969,AL,,C
+cuellmi01,TSN All-Star,1969,AL,,LHP
+blairpa01,TSN All-Star,1969,AL,,OF
+howarfr01,TSN All-Star,1969,AL,,OF
+jacksre01,TSN All-Star,1969,AL,,OF
+mclaide01,TSN All-Star,1969,AL,,RHP
+petrori01,TSN All-Star,1969,AL,,SS
+mccovwi01,TSN All-Star,1969,NL,,1B
+beckegl01,TSN All-Star,1969,NL,,2B
+santoro01,TSN All-Star,1969,NL,,3B
+benchjo01,TSN All-Star,1969,NL,,C
+carltst01,TSN All-Star,1969,NL,,LHP
+aaronha01,TSN All-Star,1969,NL,,OF
+alouma01,TSN All-Star,1969,NL,,OF
+jonescl01,TSN All-Star,1969,NL,,OF
+seaveto01,TSN All-Star,1969,NL,,RHP
+kessido01,TSN All-Star,1969,NL,,SS
+perraro01,TSN Fireman of the Year,1969,AL,,
+grangwa01,TSN Fireman of the Year,1969,NL,,
+mccovwi01,TSN Major League Player of the Year,1969,ML,,
+mclaide01,TSN Pitcher of the Year,1969,AL,,
+seaveto01,TSN Pitcher of the Year,1969,NL,,
+killeha01,TSN Player of the Year,1969,AL,,
+mccovwi01,TSN Player of the Year,1969,NL,,
+clenddo01,World Series MVP,1969,ML,,
+yastrca01,All-Star Game MVP,1970,ML,,
+robinbr01,Babe Ruth Award,1970,AL,,3B
+perryji01,Cy Young Award,1970,AL,,
+gibsobo01,Cy Young Award,1970,NL,,
+spencji01,Gold Glove,1970,AL,,1B
+johnsda02,Gold Glove,1970,AL,,2B
+robinbr01,Gold Glove,1970,AL,,3B
+fossera01,Gold Glove,1970,AL,,C
+berryke01,Gold Glove,1970,AL,,OF
+blairpa01,Gold Glove,1970,AL,,OF
+stanlmi01,Gold Glove,1970,AL,,OF
+kaatji01,Gold Glove,1970,AL,,P
+aparilu01,Gold Glove,1970,AL,,SS
+parkewe01,Gold Glove,1970,NL,,1B
+helmsto01,Gold Glove,1970,NL,,2B
+raderdo02,Gold Glove,1970,NL,,3B
+benchjo01,Gold Glove,1970,NL,,C
+ageeto01,Gold Glove,1970,NL,,OF
+clemero01,Gold Glove,1970,NL,,OF
+rosepe01,Gold Glove,1970,NL,,OF
+gibsobo01,Gold Glove,1970,NL,,P
+kessido01,Gold Glove,1970,NL,,SS
+conigto01,Hutch Award,1970,ML,,
+aaronha01,Lou Gehrig Memorial Award,1970,ML,,
+powelbo01,Most Valuable Player,1970,AL,,
+benchjo01,Most Valuable Player,1970,NL,,
+munsoth01,Rookie of the Year,1970,AL,,
+mortoca01,Rookie of the Year,1970,NL,,
+powelbo01,TSN All-Star,1970,AL,,1B
+johnsda02,TSN All-Star,1970,AL,,2B
+killeha01,TSN All-Star,1970,AL,,3B
+fossera01,TSN All-Star,1970,AL,,C
+mcdowsa01,TSN All-Star,1970,AL,,LHP
+howarfr01,TSN All-Star,1970,AL,,OF
+olivato01,TSN All-Star,1970,AL,,OF
+smithre06,TSN All-Star,1970,AL,,OF
+perryji01,TSN All-Star,1970,AL,,RHP
+aparilu01,TSN All-Star,1970,AL,,SS
+mccovwi01,TSN All-Star,1970,NL,,1B
+beckegl01,TSN All-Star,1970,NL,,2B
+perezto01,TSN All-Star,1970,NL,,3B
+benchjo01,TSN All-Star,1970,NL,,C
+merriji01,TSN All-Star,1970,NL,,LHP
+aaronha01,TSN All-Star,1970,NL,,OF
+tolanbo01,TSN All-Star,1970,NL,,OF
+willibi01,TSN All-Star,1970,NL,,OF
+gibsobo01,TSN All-Star,1970,NL,,RHP
+kessido01,TSN All-Star,1970,NL,,SS
+perraro01,TSN Fireman of the Year,1970,AL,,
+grangwa01,TSN Fireman of the Year,1970,NL,,
+benchjo01,TSN Major League Player of the Year,1970,ML,,
+mcdowsa01,TSN Pitcher of the Year,1970,AL,,
+gibsobo01,TSN Pitcher of the Year,1970,NL,,
+killeha01,TSN Player of the Year,1970,AL,,
+benchjo01,TSN Player of the Year,1970,NL,,
+robinbr01,World Series MVP,1970,ML,,
+robinfr02,All-Star Game MVP,1971,ML,,
+clemero01,Babe Ruth Award,1971,NL,,OF
+bluevi01,Cy Young Award,1971,AL,,
+jenkife01,Cy Young Award,1971,NL,,
+scottge02,Gold Glove,1971,AL,,1B
+johnsda02,Gold Glove,1971,AL,,2B
+robinbr01,Gold Glove,1971,AL,,3B
+fossera01,Gold Glove,1971,AL,,C
+blairpa01,Gold Glove,1971,AL,,OF
+otisam01,Gold Glove,1971,AL,,OF
+yastrca01,Gold Glove,1971,AL,,OF
+kaatji01,Gold Glove,1971,AL,,P
+belanma01,Gold Glove,1971,AL,,SS
+parkewe01,Gold Glove,1971,NL,,1B
+helmsto01,Gold Glove,1971,NL,,2B
+raderdo02,Gold Glove,1971,NL,,3B
+benchjo01,Gold Glove,1971,NL,,C
+bondsbo01,Gold Glove,1971,NL,,OF
+clemero01,Gold Glove,1971,NL,,OF
+daviswi02,Gold Glove,1971,NL,,OF
+gibsobo01,Gold Glove,1971,NL,,P
+harrebu01,Gold Glove,1971,NL,,SS
+torrejo01,Hutch Award,1971,ML,,
+killeha01,Lou Gehrig Memorial Award,1971,ML,,
+bluevi01,Most Valuable Player,1971,AL,,
+torrejo01,Most Valuable Player,1971,NL,,
+mayswi01,Roberto Clemente Award,1971,ML,,
+chambch01,Rookie of the Year,1971,AL,,
+williea02,Rookie of the Year,1971,NL,,
+cashno01,TSN All-Star,1971,AL,,1B
+rojasco01,TSN All-Star,1971,AL,,2B
+robinbr01,TSN All-Star,1971,AL,,3B
+freehbi01,TSN All-Star,1971,AL,,C
+bluevi01,TSN All-Star,1971,AL,,LHP
+murcebo01,TSN All-Star,1971,AL,,OF
+olivato01,TSN All-Star,1971,AL,,OF
+retteme01,TSN All-Star,1971,AL,,OF
+palmeji01,TSN All-Star,1971,AL,,RHP
+cardele01,TSN All-Star,1971,AL,,SS
+mayle01,TSN All-Star,1971,NL,,1B
+beckegl01,TSN All-Star,1971,NL,,2B
+torrejo01,TSN All-Star,1971,NL,,3B
+sanguma01,TSN All-Star,1971,NL,,C
+carltst01,TSN All-Star,1971,NL,,LHP
+aaronha01,TSN All-Star,1971,NL,,OF
+daviswi02,TSN All-Star,1971,NL,,OF
+stargwi01,TSN All-Star,1971,NL,,OF
+jenkife01,TSN All-Star,1971,NL,,RHP
+harrebu01,TSN All-Star,1971,NL,,SS
+sandeke01,TSN Fireman of the Year,1971,AL,,
+giustda01,TSN Fireman of the Year,1971,NL,,
+torrejo01,TSN Major League Player of the Year,1971,ML,,
+bluevi01,TSN Pitcher of the Year,1971,AL,,
+jenkife01,TSN Pitcher of the Year,1971,NL,,
+olivato01,TSN Player of the Year,1971,AL,,
+torrejo01,TSN Player of the Year,1971,NL,,
+clemero01,World Series MVP,1971,ML,,
+morgajo02,All-Star Game MVP,1972,ML,,
+tenacge01,Babe Ruth Award,1972,AL,,C
+perryga01,Cy Young Award,1972,AL,,
+carltst01,Cy Young Award,1972,NL,,
+scottge02,Gold Glove,1972,AL,,1B
+griffdo01,Gold Glove,1972,AL,,2B
+robinbr01,Gold Glove,1972,AL,,3B
+fiskca01,Gold Glove,1972,AL,,C
+berryke01,Gold Glove,1972,AL,,OF
+blairpa01,Gold Glove,1972,AL,,OF
+murcebo01,Gold Glove,1972,AL,,OF
+kaatji01,Gold Glove,1972,AL,,P
+brinked01,Gold Glove,1972,AL,,SS
+parkewe01,Gold Glove,1972,NL,,1B
+millafe01,Gold Glove,1972,NL,,2B
+raderdo02,Gold Glove,1972,NL,,3B
+benchjo01,Gold Glove,1972,NL,,C
+cedence01,Gold Glove,1972,NL,,OF
+clemero01,Gold Glove,1972,NL,,OF
+daviswi02,Gold Glove,1972,NL,,OF
+gibsobo01,Gold Glove,1972,NL,,P
+bowala01,Gold Glove,1972,NL,,SS
+tolanbo01,Hutch Award,1972,ML,,
+parkewe01,Lou Gehrig Memorial Award,1972,ML,,
+allendi01,Most Valuable Player,1972,AL,,
+benchjo01,Most Valuable Player,1972,NL,,
+carltst01,Pitching Triple Crown,1972,NL,,
+robinbr01,Roberto Clemente Award,1972,ML,,
+fiskca01,Rookie of the Year,1972,AL,,
+matlajo01,Rookie of the Year,1972,NL,,
+allendi01,TSN All-Star,1972,AL,,1B
+carewro01,TSN All-Star,1972,AL,,2B
+robinbr01,TSN All-Star,1972,AL,,3B
+fiskca01,TSN All-Star,1972,AL,,C
+woodwi01,TSN All-Star,1972,AL,,LHP
+murcebo01,TSN All-Star,1972,AL,,OF
+rudijo01,TSN All-Star,1972,AL,,OF
+scheiri01,TSN All-Star,1972,AL,,OF
+perryga01,TSN All-Star,1972,AL,,RHP
+aparilu01,TSN All-Star,1972,AL,,SS
+stargwi01,TSN All-Star,1972,NL,,1B
+morgajo02,TSN All-Star,1972,NL,,2B
+santoro01,TSN All-Star,1972,NL,,3B
+benchjo01,TSN All-Star,1972,NL,,C
+carltst01,TSN All-Star,1972,NL,,LHP
+cedence01,TSN All-Star,1972,NL,,OF
+clemero01,TSN All-Star,1972,NL,,OF
+willibi01,TSN All-Star,1972,NL,,OF
+jenkife01,TSN All-Star,1972,NL,,RHP
+speiech01,TSN All-Star,1972,NL,,SS
+lylesp01,TSN Fireman of the Year,1972,AL,,
+carrocl02,TSN Fireman of the Year,1972,NL,,
+willibi01,TSN Major League Player of the Year,1972,ML,,
+woodwi01,TSN Pitcher of the Year,1972,AL,,
+carltst01,TSN Pitcher of the Year,1972,NL,,
+allendi01,TSN Player of the Year,1972,AL,,
+willibi01,TSN Player of the Year,1972,NL,,
+tenacge01,World Series MVP,1972,ML,,
+bondsbo01,All-Star Game MVP,1973,ML,,
+campabe01,Babe Ruth Award,1973,AL,,SS
+palmeji01,Cy Young Award,1973,AL,,
+seaveto01,Cy Young Award,1973,NL,,
+scottge02,Gold Glove,1973,AL,,1B
+grichbo01,Gold Glove,1973,AL,,2B
+robinbr01,Gold Glove,1973,AL,,3B
+munsoth01,Gold Glove,1973,AL,,C
+blairpa01,Gold Glove,1973,AL,,OF
+otisam01,Gold Glove,1973,AL,,OF
+stanlmi01,Gold Glove,1973,AL,,OF
+kaatji01,Gold Glove,1973,AL,,P
+belanma01,Gold Glove,1973,AL,,SS
+jorgemi01,Gold Glove,1973,NL,,1B
+morgajo02,Gold Glove,1973,NL,,2B
+raderdo02,Gold Glove,1973,NL,,3B
+benchjo01,Gold Glove,1973,NL,,C
+bondsbo01,Gold Glove,1973,NL,,OF
+cedence01,Gold Glove,1973,NL,,OF
+daviswi02,Gold Glove,1973,NL,,OF
+gibsobo01,Gold Glove,1973,NL,,P
+metzgro01,Gold Glove,1973,NL,,SS
+hillejo01,Hutch Award,1973,ML,,
+santoro01,Lou Gehrig Memorial Award,1973,ML,,
+jacksre01,Most Valuable Player,1973,AL,,
+rosepe01,Most Valuable Player,1973,NL,,
+kalinal01,Roberto Clemente Award,1973,ML,,
+bumbral01,Rookie of the Year,1973,AL,,
+matthga01,Rookie of the Year,1973,NL,,
+maybejo01,TSN All-Star,1973,AL,,1B
+carewro01,TSN All-Star,1973,AL,,2B
+bandosa01,TSN All-Star,1973,AL,,3B
+munsoth01,TSN All-Star,1973,AL,,C
+holtzke01,TSN All-Star,1973,AL,,LHP
+jacksre01,TSN All-Star,1973,AL,,OF
+murcebo01,TSN All-Star,1973,AL,,OF
+otisam01,TSN All-Star,1973,AL,,OF
+palmeji01,TSN All-Star,1973,AL,,RHP
+campabe01,TSN All-Star,1973,AL,,SS
+perezto01,TSN All-Star,1973,NL,,1B
+johnsda02,TSN All-Star,1973,NL,,2B
+evansda01,TSN All-Star,1973,NL,,3B
+benchjo01,TSN All-Star,1973,NL,,C
+bryanro01,TSN All-Star,1973,NL,,LHP
+bondsbo01,TSN All-Star,1973,NL,,OF
+cedence01,TSN All-Star,1973,NL,,OF
+rosepe01,TSN All-Star,1973,NL,,OF
+seaveto01,TSN All-Star,1973,NL,,RHP
+russebi01,TSN All-Star,1973,NL,,SS
+hillejo01,TSN Fireman of the Year,1973,AL,,
+marshmi01,TSN Fireman of the Year,1973,NL,,
+jacksre01,TSN Major League Player of the Year,1973,ML,,
+palmeji01,TSN Pitcher of the Year,1973,AL,,
+bryanro01,TSN Pitcher of the Year,1973,NL,,
+jacksre01,TSN Player of the Year,1973,AL,,
+bondsbo01,TSN Player of the Year,1973,NL,,
+jacksre01,World Series MVP,1973,ML,,
+garvest01,All-Star Game MVP,1974,ML,,
+greendi01,Babe Ruth Award,1974,AL,,2B
+hunteca01,Cy Young Award,1974,AL,,
+marshmi01,Cy Young Award,1974,NL,,
+scottge02,Gold Glove,1974,AL,,1B
+grichbo01,Gold Glove,1974,AL,,2B
+robinbr01,Gold Glove,1974,AL,,3B
+munsoth01,Gold Glove,1974,AL,,C
+blairpa01,Gold Glove,1974,AL,,OF
+otisam01,Gold Glove,1974,AL,,OF
+rudijo01,Gold Glove,1974,AL,,OF
+kaatji01,Gold Glove,1974,AL,,P
+belanma01,Gold Glove,1974,AL,,SS
+garvest01,Gold Glove,1974,NL,,1B
+morgajo02,Gold Glove,1974,NL,,2B
+raderdo02,Gold Glove,1974,NL,,3B
+benchjo01,Gold Glove,1974,NL,,C
+bondsbo01,Gold Glove,1974,NL,,OF
+cedence01,Gold Glove,1974,NL,,OF
+geronce01,Gold Glove,1974,NL,,OF
+messean01,Gold Glove,1974,NL,,P
+conceda01,Gold Glove,1974,NL,,SS
+thompda01,Hutch Award,1974,ML,,
+stargwi01,Lou Gehrig Memorial Award,1974,ML,,
+burroje01,Most Valuable Player,1974,AL,,
+garvest01,Most Valuable Player,1974,NL,,
+stargwi01,Roberto Clemente Award,1974,ML,,
+hargrmi01,Rookie of the Year,1974,AL,,
+mcbriba01,Rookie of the Year,1974,NL,,
+allendi01,TSN All-Star,1974,AL,,1B
+carewro01,TSN All-Star,1974,AL,,2B
+bandosa01,TSN All-Star,1974,AL,,3B
+munsoth01,TSN All-Star,1974,AL,,C
+davisto02,TSN All-Star,1974,AL,,DH
+cuellmi01,TSN All-Star,1974,AL,,LHP
+blairpa01,TSN All-Star,1974,AL,,OF
+burroje01,TSN All-Star,1974,AL,,OF
+rudijo01,TSN All-Star,1974,AL,,OF
+hunteca01,TSN All-Star,1974,AL,,RHP
+campabe01,TSN All-Star,1974,AL,,SS
+garvest01,TSN All-Star,1974,NL,,1B
+morgajo02,TSN All-Star,1974,NL,,2B
+schmimi01,TSN All-Star,1974,NL,,3B
+benchjo01,TSN All-Star,1974,NL,,C
+gulledo01,TSN All-Star,1974,NL,,LHP
+brocklo01,TSN All-Star,1974,NL,,OF
+wynnji01,TSN All-Star,1974,NL,,OF
+ziskri01,TSN All-Star,1974,NL,,OF
+messean01,TSN All-Star,1974,NL,,RHP
+conceda01,TSN All-Star,1974,NL,,SS
+forstte01,TSN Fireman of the Year,1974,AL,,
+marshmi01,TSN Fireman of the Year,1974,NL,,
+brocklo01,TSN Major League Player of the Year,1974,ML,,
+hunteca01,TSN Pitcher of the Year,1974,AL,,
+marshmi01,TSN Pitcher of the Year,1974,NL,,
+burroje01,TSN Player of the Year,1974,AL,,
+brocklo01,TSN Player of the Year,1974,NL,,
+fingero01,World Series MVP,1974,ML,,
+madlobi01,All-Star Game MVP,1975,ML,Y,
+matlajo01,All-Star Game MVP,1975,ML,Y,
+tiantlu01,Babe Ruth Award,1975,AL,,P
+palmeji01,Cy Young Award,1975,AL,,
+seaveto01,Cy Young Award,1975,NL,,
+scottge02,Gold Glove,1975,AL,,1B
+grichbo01,Gold Glove,1975,AL,,2B
+robinbr01,Gold Glove,1975,AL,,3B
+munsoth01,Gold Glove,1975,AL,,C
+blairpa01,Gold Glove,1975,AL,,OF
+lynnfr01,Gold Glove,1975,AL,,OF
+rudijo01,Gold Glove,1975,AL,,OF
+kaatji01,Gold Glove,1975,AL,,P
+belanma01,Gold Glove,1975,AL,,SS
+garvest01,Gold Glove,1975,NL,,1B
+morgajo02,Gold Glove,1975,NL,,2B
+reitzke01,Gold Glove,1975,NL,,3B
+benchjo01,Gold Glove,1975,NL,,C
+cedence01,Gold Glove,1975,NL,,OF
+geronce01,Gold Glove,1975,NL,,OF
+maddoga01,Gold Glove,1975,NL,,OF
+messean01,Gold Glove,1975,NL,,P
+conceda01,Gold Glove,1975,NL,,SS
+nolanga01,Hutch Award,1975,ML,,
+benchjo01,Lou Gehrig Memorial Award,1975,ML,,
+lynnfr01,Most Valuable Player,1975,AL,,
+morgajo02,Most Valuable Player,1975,NL,,
+brocklo01,Roberto Clemente Award,1975,ML,,
+lynnfr01,Rookie of the Year,1975,AL,,
+montejo01,Rookie of the Year,1975,NL,,
+maybejo01,TSN All-Star,1975,AL,,1B
+carewro01,TSN All-Star,1975,AL,,2B
+nettlgr01,TSN All-Star,1975,AL,,3B
+munsoth01,TSN All-Star,1975,AL,,C
+hortowi01,TSN All-Star,1975,AL,,DH
+kaatji01,TSN All-Star,1975,AL,,LHP
+jacksre01,TSN All-Star,1975,AL,,OF
+lynnfr01,TSN All-Star,1975,AL,,OF
+riceji01,TSN All-Star,1975,AL,,OF
+palmeji01,TSN All-Star,1975,AL,,RHP
+harrato01,TSN All-Star,1975,AL,,SS
+garvest01,TSN All-Star,1975,NL,,1B
+morgajo02,TSN All-Star,1975,NL,,2B
+madlobi01,TSN All-Star,1975,NL,,3B
+benchjo01,TSN All-Star,1975,NL,,C
+jonesra01,TSN All-Star,1975,NL,,LHP
+luzingr01,TSN All-Star,1975,NL,,OF
+oliveal01,TSN All-Star,1975,NL,,OF
+parkeda01,TSN All-Star,1975,NL,,OF
+seaveto01,TSN All-Star,1975,NL,,RHP
+bowala01,TSN All-Star,1975,NL,,SS
+gossari01,TSN Fireman of the Year,1975,AL,,
+hraboal01,TSN Fireman of the Year,1975,NL,,
+morgajo02,TSN Major League Player of the Year,1975,ML,,
+palmeji01,TSN Pitcher of the Year,1975,AL,,
+seaveto01,TSN Pitcher of the Year,1975,NL,,
+lynnfr01,TSN Player of the Year,1975,AL,,
+morgajo02,TSN Player of the Year,1975,NL,,
+rosepe01,World Series MVP,1975,ML,,
+fostege01,All-Star Game MVP,1976,ML,,
+benchjo01,Babe Ruth Award,1976,NL,,C
+palmeji01,Cy Young Award,1976,AL,,
+jonesra01,Cy Young Award,1976,NL,,
+scottge02,Gold Glove,1976,AL,,1B
+grichbo01,Gold Glove,1976,AL,,2B
+rodriau01,Gold Glove,1976,AL,,3B
+sundbji01,Gold Glove,1976,AL,,C
+evansdw01,Gold Glove,1976,AL,,OF
+manniri01,Gold Glove,1976,AL,,OF
+rudijo01,Gold Glove,1976,AL,,OF
+palmeji01,Gold Glove,1976,AL,,P
+belanma01,Gold Glove,1976,AL,,SS
+garvest01,Gold Glove,1976,NL,,1B
+morgajo02,Gold Glove,1976,NL,,2B
+schmimi01,Gold Glove,1976,NL,,3B
+benchjo01,Gold Glove,1976,NL,,C
+cedence01,Gold Glove,1976,NL,,OF
+geronce01,Gold Glove,1976,NL,,OF
+maddoga01,Gold Glove,1976,NL,,OF
+kaatji01,Gold Glove,1976,NL,,P
+conceda01,Gold Glove,1976,NL,,SS
+johnto01,Hutch Award,1976,ML,,
+suttodo01,Lou Gehrig Memorial Award,1976,ML,,
+munsoth01,Most Valuable Player,1976,AL,,
+morgajo02,Most Valuable Player,1976,NL,,
+rosepe01,Roberto Clemente Award,1976,ML,,
+campbbi02,Reliever of the Year Award,1976,AL,,
+eastwra01,Reliever of the Year Award,1976,NL,,
+fidryma01,Rookie of the Year,1976,AL,,
+metzgbu01,Rookie of the Year,1976,NL,Y,
+zachrpa01,Rookie of the Year,1976,NL,Y,
+chambch01,TSN All-Star,1976,AL,,1B
+grichbo01,TSN All-Star,1976,AL,,2B
+brettge01,TSN All-Star,1976,AL,,3B
+munsoth01,TSN All-Star,1976,AL,,C
+mcraeha01,TSN All-Star,1976,AL,,DH
+tananfr01,TSN All-Star,1976,AL,,LHP
+jacksre01,TSN All-Star,1976,AL,,OF
+rivermi01,TSN All-Star,1976,AL,,OF
+rudijo01,TSN All-Star,1976,AL,,OF
+palmeji01,TSN All-Star,1976,AL,,RHP
+belanma01,TSN All-Star,1976,AL,,SS
+montawi01,TSN All-Star,1976,NL,,1B
+morgajo02,TSN All-Star,1976,NL,,2B
+schmimi01,TSN All-Star,1976,NL,,3B
+boonebo01,TSN All-Star,1976,NL,,C
+jonesra01,TSN All-Star,1976,NL,,LHP
+cedence01,TSN All-Star,1976,NL,,OF
+fostege01,TSN All-Star,1976,NL,,OF
+griffke01,TSN All-Star,1976,NL,,OF
+suttodo01,TSN All-Star,1976,NL,,RHP
+conceda01,TSN All-Star,1976,NL,,SS
+campbbi02,TSN Fireman of the Year,1976,AL,,
+eastwra01,TSN Fireman of the Year,1976,NL,,
+morgajo02,TSN Major League Player of the Year,1976,ML,,
+palmeji01,TSN Pitcher of the Year,1976,AL,,
+jonesra01,TSN Pitcher of the Year,1976,NL,,
+munsoth01,TSN Player of the Year,1976,AL,,
+fostege01,TSN Player of the Year,1976,NL,,
+benchjo01,World Series MVP,1976,ML,,
+suttodo01,All-Star Game MVP,1977,ML,,
+jacksre01,Babe Ruth Award,1977,AL,,OF
+lylesp01,Cy Young Award,1977,AL,,
+carltst01,Cy Young Award,1977,NL,,
+spencji01,Gold Glove,1977,AL,,1B
+whitefr01,Gold Glove,1977,AL,,2B
+nettlgr01,Gold Glove,1977,AL,,3B
+sundbji01,Gold Glove,1977,AL,,C
+beniqju01,Gold Glove,1977,AL,,OF
+cowenal01,Gold Glove,1977,AL,,OF
+yastrca01,Gold Glove,1977,AL,,OF
+palmeji01,Gold Glove,1977,AL,,P
+belanma01,Gold Glove,1977,AL,,SS
+garvest01,Gold Glove,1977,NL,,1B
+morgajo02,Gold Glove,1977,NL,,2B
+schmimi01,Gold Glove,1977,NL,,3B
+benchjo01,Gold Glove,1977,NL,,C
+geronce01,Gold Glove,1977,NL,,OF
+maddoga01,Gold Glove,1977,NL,,OF
+parkeda01,Gold Glove,1977,NL,,OF
+kaatji01,Gold Glove,1977,NL,,P
+conceda01,Gold Glove,1977,NL,,SS
+mccovwi01,Hutch Award,1977,ML,,
+brocklo01,Lou Gehrig Memorial Award,1977,ML,,
+carewro01,Most Valuable Player,1977,AL,,
+fostege01,Most Valuable Player,1977,NL,,
+bakerdu01,NLCS MVP,1977,NL,,
+carewro01,Roberto Clemente Award,1977,ML,,
+campbbi02,Reliever of the Year Award,1977,AL,,
+fingero01,Reliever of the Year Award,1977,NL,,
+murraed02,Rookie of the Year,1977,AL,,
+dawsoan01,Rookie of the Year,1977,NL,,
+carewro01,TSN All-Star,1977,AL,,1B
+randowi01,TSN All-Star,1977,AL,,2B
+nettlgr01,TSN All-Star,1977,AL,,3B
+fiskca01,TSN All-Star,1977,AL,,C
+mcraeha01,TSN All-Star,1977,AL,,DH
+tananfr01,TSN All-Star,1977,AL,,LHP
+bondsbo01,TSN All-Star,1977,AL,,OF
+hislela01,TSN All-Star,1977,AL,,OF
+riceji01,TSN All-Star,1977,AL,,OF
+ryanno01,TSN All-Star,1977,AL,,RHP
+burleri01,TSN All-Star,1977,AL,,SS
+garvest01,TSN All-Star,1977,NL,,1B
+morgajo02,TSN All-Star,1977,NL,,2B
+schmimi01,TSN All-Star,1977,NL,,3B
+simmote01,TSN All-Star,1977,NL,,C
+carltst01,TSN All-Star,1977,NL,,LHP
+fostege01,TSN All-Star,1977,NL,,OF
+luzingr01,TSN All-Star,1977,NL,,OF
+parkeda01,TSN All-Star,1977,NL,,OF
+reuscri01,TSN All-Star,1977,NL,,RHP
+templga01,TSN All-Star,1977,NL,,SS
+campbbi02,TSN Fireman of the Year,1977,AL,,
+fingero01,TSN Fireman of the Year,1977,NL,,
+carewro01,TSN Major League Player of the Year,1977,ML,,
+ryanno01,TSN Pitcher of the Year,1977,AL,,
+carltst01,TSN Pitcher of the Year,1977,NL,,
+carewro01,TSN Player of the Year,1977,AL,,
+fostege01,TSN Player of the Year,1977,NL,,
+jacksre01,World Series MVP,1977,ML,,
+garvest01,All-Star Game MVP,1978,ML,,
+dentbu01,Babe Ruth Award,1978,AL,,SS
+guidrro01,Cy Young Award,1978,AL,,
+perryga01,Cy Young Award,1978,NL,,
+chambch01,Gold Glove,1978,AL,,1B
+whitefr01,Gold Glove,1978,AL,,2B
+nettlgr01,Gold Glove,1978,AL,,3B
+sundbji01,Gold Glove,1978,AL,,C
+evansdw01,Gold Glove,1978,AL,,OF
+lynnfr01,Gold Glove,1978,AL,,OF
+milleri01,Gold Glove,1978,AL,,OF
+palmeji01,Gold Glove,1978,AL,,P
+belanma01,Gold Glove,1978,AL,,SS
+hernake01,Gold Glove,1978,NL,,1B
+lopesda01,Gold Glove,1978,NL,,2B
+schmimi01,Gold Glove,1978,NL,,3B
+boonebo01,Gold Glove,1978,NL,,C
+maddoga01,Gold Glove,1978,NL,,OF
+parkeda01,Gold Glove,1978,NL,,OF
+valenel01,Gold Glove,1978,NL,,OF
+niekrph01,Gold Glove,1978,NL,,P
+bowala01,Gold Glove,1978,NL,,SS
+stargwi01,Hutch Award,1978,ML,,
+kessido01,Lou Gehrig Memorial Award,1978,ML,,
+riceji01,Most Valuable Player,1978,AL,,
+parkeda01,Most Valuable Player,1978,NL,,
+garvest01,NLCS MVP,1978,NL,,
+luzingr01,Roberto Clemente Award,1978,ML,,
+gossari01,Reliever of the Year Award,1978,AL,,
+fingero01,Reliever of the Year Award,1978,NL,,
+whitalo01,Rookie of the Year,1978,AL,,
+hornebo01,Rookie of the Year,1978,NL,,
+carewro01,TSN All-Star,1978,AL,,1B
+whitefr01,TSN All-Star,1978,AL,,2B
+nettlgr01,TSN All-Star,1978,AL,,3B
+sundbji01,TSN All-Star,1978,AL,,C
+staubru01,TSN All-Star,1978,AL,,DH
+guidrro01,TSN All-Star,1978,AL,,LHP
+hislela01,TSN All-Star,1978,AL,,OF
+lynnfr01,TSN All-Star,1978,AL,,OF
+riceji01,TSN All-Star,1978,AL,,OF
+palmeji01,TSN All-Star,1978,AL,,RHP
+yountro01,TSN All-Star,1978,AL,,SS
+garvest01,TSN All-Star,1978,NL,,1B
+lopesda01,TSN All-Star,1978,NL,,2B
+rosepe01,TSN All-Star,1978,NL,,3B
+simmote01,TSN All-Star,1978,NL,,C
+bluevi01,TSN All-Star,1978,NL,,LHP
+clarkja01,TSN All-Star,1978,NL,,OF
+fostege01,TSN All-Star,1978,NL,,OF
+parkeda01,TSN All-Star,1978,NL,,OF
+perryga01,TSN All-Star,1978,NL,,RHP
+bowala01,TSN All-Star,1978,NL,,SS
+gossari01,TSN Fireman of the Year,1978,AL,,
+fingero01,TSN Fireman of the Year,1978,NL,,
+guidrro01,TSN Major League Player of the Year,1978,ML,,
+guidrro01,TSN Pitcher of the Year,1978,AL,,
+bluevi01,TSN Pitcher of the Year,1978,NL,,
+riceji01,TSN Player of the Year,1978,AL,,
+parkeda01,TSN Player of the Year,1978,NL,,
+dentbu01,World Series MVP,1978,ML,,
+parkeda01,All-Star Game MVP,1979,ML,,
+stargwi01,Babe Ruth Award,1979,NL,,1B
+flanami01,Cy Young Award,1979,AL,,
+suttebr01,Cy Young Award,1979,NL,,
+coopece01,Gold Glove,1979,AL,,1B
+whitefr01,Gold Glove,1979,AL,,2B
+bellbu01,Gold Glove,1979,AL,,3B
+sundbji01,Gold Glove,1979,AL,,C
+evansdw01,Gold Glove,1979,AL,,OF
+lezcasi01,Gold Glove,1979,AL,,OF
+lynnfr01,Gold Glove,1979,AL,,OF
+palmeji01,Gold Glove,1979,AL,,P
+burleri01,Gold Glove,1979,AL,,SS
+hernake01,Gold Glove,1979,NL,,1B
+trillma01,Gold Glove,1979,NL,,2B
+schmimi01,Gold Glove,1979,NL,,3B
+boonebo01,Gold Glove,1979,NL,,C
+maddoga01,Gold Glove,1979,NL,,OF
+parkeda01,Gold Glove,1979,NL,,OF
+winfida01,Gold Glove,1979,NL,,OF
+niekrph01,Gold Glove,1979,NL,,P
+conceda01,Gold Glove,1979,NL,,SS
+brocklo01,Hutch Award,1979,ML,,
+niekrph01,Lou Gehrig Memorial Award,1979,ML,,
+baylodo01,Most Valuable Player,1979,AL,,
+hernake01,Most Valuable Player,1979,NL,Y,
+stargwi01,Most Valuable Player,1979,NL,Y,
+stargwi01,NLCS MVP,1979,NL,,
+thornan01,Roberto Clemente Award,1979,ML,,
+kernji01,Reliever of the Year Award,1979,AL,,
+suttebr01,Reliever of the Year Award,1979,NL,,
+castijo01,Rookie of the Year,1979,AL,Y,
+griffal01,Rookie of the Year,1979,AL,Y,
+sutclri01,Rookie of the Year,1979,NL,,
+coopece01,TSN All-Star,1979,AL,,1B
+grichbo01,TSN All-Star,1979,AL,,2B
+brettge01,TSN All-Star,1979,AL,,3B
+porteda02,TSN All-Star,1979,AL,,C
+baylodo01,TSN All-Star,1979,AL,,DH
+flanami01,TSN All-Star,1979,AL,,LHP
+lynnfr01,TSN All-Star,1979,AL,,OF
+riceji01,TSN All-Star,1979,AL,,OF
+singlke01,TSN All-Star,1979,AL,,OF
+kernji01,TSN All-Star,1979,AL,,RHP
+smallro02,TSN All-Star,1979,AL,,SS
+hernake01,TSN All-Star,1979,NL,,1B
+lopesda01,TSN All-Star,1979,NL,,2B
+schmimi01,TSN All-Star,1979,NL,,3B
+simmote01,TSN All-Star,1979,NL,,C
+carltst01,TSN All-Star,1979,NL,,LHP
+kingmda01,TSN All-Star,1979,NL,,OF
+morenom01,TSN All-Star,1979,NL,,OF
+winfida01,TSN All-Star,1979,NL,,OF
+niekrjo01,TSN All-Star,1979,NL,,RHP
+templga01,TSN All-Star,1979,NL,,SS
+kernji01,TSN Fireman of the Year,1979,AL,Y,
+marshmi01,TSN Fireman of the Year,1979,AL,Y,
+suttebr01,TSN Fireman of the Year,1979,NL,,
+stargwi01,TSN Major League Player of the Year,1979,ML,,
+flanami01,TSN Pitcher of the Year,1979,AL,,
+niekrjo01,TSN Pitcher of the Year,1979,NL,,
+baylodo01,TSN Player of the Year,1979,AL,,
+hernake01,TSN Player of the Year,1979,NL,,
+stargwi01,World Series MVP,1979,ML,,
+quiseda01,Reliever of the Year Award,1980,AL,,
+whitefr01,ALCS MVP,1980,AL,,
+griffke01,All-Star Game MVP,1980,ML,,
+mcgratu01,Babe Ruth Award,1980,NL,,RP
+stonest01,Cy Young Award,1980,AL,,
+carltst01,Cy Young Award,1980,NL,,
+coopece01,Gold Glove,1980,AL,,1B
+whitefr01,Gold Glove,1980,AL,,2B
+bellbu01,Gold Glove,1980,AL,,3B
+sundbji01,Gold Glove,1980,AL,,C
+lynnfr01,Gold Glove,1980,AL,,OF
+murphdw01,Gold Glove,1980,AL,,OF
+wilsowi02,Gold Glove,1980,AL,,OF
+norrimi01,Gold Glove,1980,AL,,P
+trammal01,Gold Glove,1980,AL,,SS
+hernake01,Gold Glove,1980,NL,,1B
+flynndo01,Gold Glove,1980,NL,,2B
+schmimi01,Gold Glove,1980,NL,,3B
+cartega01,Gold Glove,1980,NL,,C
+dawsoan01,Gold Glove,1980,NL,,OF
+maddoga01,Gold Glove,1980,NL,,OF
+winfida01,Gold Glove,1980,NL,,OF
+niekrph01,Gold Glove,1980,NL,,P
+smithoz01,Gold Glove,1980,NL,,SS
+brettge01,Hutch Award,1980,ML,,
+perezto01,Lou Gehrig Memorial Award,1980,ML,,
+brettge01,Most Valuable Player,1980,AL,,
+schmimi01,Most Valuable Player,1980,NL,,
+trillma01,NLCS MVP,1980,NL,,
+niekrph01,Roberto Clemente Award,1980,ML,,
+fingero01,Reliever of the Year Award,1980,NL,,
+charbjo01,Rookie of the Year,1980,AL,,
+howest01,Rookie of the Year,1980,NL,,
+coopece01,Silver Slugger,1980,AL,,1B
+randowi01,Silver Slugger,1980,AL,,2B
+brettge01,Silver Slugger,1980,AL,,3B
+parrila02,Silver Slugger,1980,AL,,C
+jacksre01,Silver Slugger,1980,AL,,DH
+oglivbe01,Silver Slugger,1980,AL,,OF
+oliveal01,Silver Slugger,1980,AL,,OF
+wilsowi02,Silver Slugger,1980,AL,,OF
+yountro01,Silver Slugger,1980,AL,,SS
+hernake01,Silver Slugger,1980,NL,,1B
+trillma01,Silver Slugger,1980,NL,,2B
+schmimi01,Silver Slugger,1980,NL,,3B
+simmote01,Silver Slugger,1980,NL,,C
+bakerdu01,Silver Slugger,1980,NL,,OF
+dawsoan01,Silver Slugger,1980,NL,,OF
+hendrge01,Silver Slugger,1980,NL,,OF
+forscbo01,Silver Slugger,1980,NL,,P
+templga01,Silver Slugger,1980,NL,,SS
+coopece01,TSN All-Star,1980,AL,,1B
+randowi01,TSN All-Star,1980,AL,,2B
+brettge01,TSN All-Star,1980,AL,,3B
+ceronri01,TSN All-Star,1980,AL,,C
+johnto01,TSN All-Star,1980,AL,,LHP
+bumbral01,TSN All-Star,1980,AL,,OF
+jacksre01,TSN All-Star,1980,AL,,OF
+oglivbe01,TSN All-Star,1980,AL,,OF
+stonest01,TSN All-Star,1980,AL,,RHP
+yountro01,TSN All-Star,1980,AL,,SS
+hernake01,TSN All-Star,1980,NL,,1B
+trillma01,TSN All-Star,1980,NL,,2B
+schmimi01,TSN All-Star,1980,NL,,3B
+cartega01,TSN All-Star,1980,NL,,C
+carltst01,TSN All-Star,1980,NL,,LHP
+bakerdu01,TSN All-Star,1980,NL,,OF
+cedence01,TSN All-Star,1980,NL,,OF
+hendrge01,TSN All-Star,1980,NL,,OF
+bibbyji01,TSN All-Star,1980,NL,,RHP
+templga01,TSN All-Star,1980,NL,,SS
+quiseda01,TSN Fireman of the Year,1980,AL,,
+fingero01,TSN Fireman of the Year,1980,NL,Y,
+humeto01,TSN Fireman of the Year,1980,NL,Y,
+brettge01,TSN Major League Player of the Year,1980,ML,,
+stonest01,TSN Pitcher of the Year,1980,AL,,
+carltst01,TSN Pitcher of the Year,1980,NL,,
+brettge01,TSN Player of the Year,1980,AL,,
+schmimi01,TSN Player of the Year,1980,NL,,
+schmimi01,World Series MVP,1980,ML,,
+nettlgr01,ALCS MVP,1981,AL,,
+cartega01,All-Star Game MVP,1981,ML,,
+ceyro01,Babe Ruth Award,1981,NL,,3B
+fingero01,Cy Young Award,1981,AL,,
+valenfe01,Cy Young Award,1981,NL,,
+squirmi01,Gold Glove,1981,AL,,1B
+whitefr01,Gold Glove,1981,AL,,2B
+bellbu01,Gold Glove,1981,AL,,3B
+sundbji01,Gold Glove,1981,AL,,C
+evansdw01,Gold Glove,1981,AL,,OF
+henderi01,Gold Glove,1981,AL,,OF
+murphdw01,Gold Glove,1981,AL,,OF
+norrimi01,Gold Glove,1981,AL,,P
+trammal01,Gold Glove,1981,AL,,SS
+hernake01,Gold Glove,1981,NL,,1B
+trillma01,Gold Glove,1981,NL,,2B
+schmimi01,Gold Glove,1981,NL,,3B
+cartega01,Gold Glove,1981,NL,,C
+bakerdu01,Gold Glove,1981,NL,,OF
+dawsoan01,Gold Glove,1981,NL,,OF
+maddoga01,Gold Glove,1981,NL,,OF
+carltst01,Gold Glove,1981,NL,,P
+smithoz01,Gold Glove,1981,NL,,SS
+benchjo01,Hutch Award,1981,ML,,
+johnto01,Lou Gehrig Memorial Award,1981,ML,,
+fingero01,Most Valuable Player,1981,AL,,
+schmimi01,Most Valuable Player,1981,NL,,
+hootobu01,NLCS MVP,1981,NL,,
+garvest01,Roberto Clemente Award,1981,ML,,
+fingero01,Reliever of the Year Award,1981,AL,,
+suttebr01,Reliever of the Year Award,1981,NL,,
+righeda01,Rookie of the Year,1981,AL,,
+valenfe01,Rookie of the Year,1981,NL,,
+coopece01,Silver Slugger,1981,AL,,1B
+grichbo01,Silver Slugger,1981,AL,,2B
+lansfca01,Silver Slugger,1981,AL,,3B
+fiskca01,Silver Slugger,1981,AL,,C
+oliveal01,Silver Slugger,1981,AL,,DH
+evansdw01,Silver Slugger,1981,AL,,OF
+henderi01,Silver Slugger,1981,AL,,OF
+winfida01,Silver Slugger,1981,AL,,OF
+burleri01,Silver Slugger,1981,AL,,SS
+rosepe01,Silver Slugger,1981,NL,,1B
+trillma01,Silver Slugger,1981,NL,,2B
+schmimi01,Silver Slugger,1981,NL,,3B
+cartega01,Silver Slugger,1981,NL,,C
+bakerdu01,Silver Slugger,1981,NL,,OF
+dawsoan01,Silver Slugger,1981,NL,,OF
+fostege01,Silver Slugger,1981,NL,,OF
+valenfe01,Silver Slugger,1981,NL,,P
+conceda01,Silver Slugger,1981,NL,,SS
+coopece01,TSN All-Star,1981,AL,,1B
+grichbo01,TSN All-Star,1981,AL,,2B
+bellbu01,TSN All-Star,1981,AL,,3B
+sundbji01,TSN All-Star,1981,AL,,C
+ziskri01,TSN All-Star,1981,AL,,DH
+guidrro01,TSN All-Star,1981,AL,,LHP
+armasto01,TSN All-Star,1981,AL,,OF
+henderi01,TSN All-Star,1981,AL,,OF
+murphdw01,TSN All-Star,1981,AL,,OF
+morrija02,TSN All-Star,1981,AL,,RHP
+burleri01,TSN All-Star,1981,AL,,SS
+rosepe01,TSN All-Star,1981,NL,,1B
+trillma01,TSN All-Star,1981,NL,,2B
+schmimi01,TSN All-Star,1981,NL,,3B
+cartega01,TSN All-Star,1981,NL,,C
+valenfe01,TSN All-Star,1981,NL,,LHP
+dawsoan01,TSN All-Star,1981,NL,,OF
+fostege01,TSN All-Star,1981,NL,,OF
+guerrpe01,TSN All-Star,1981,NL,,OF
+seaveto01,TSN All-Star,1981,NL,,RHP
+conceda01,TSN All-Star,1981,NL,,SS
+fingero01,TSN Fireman of the Year,1981,AL,,
+suttebr01,TSN Fireman of the Year,1981,NL,,
+valenfe01,TSN Major League Player of the Year,1981,ML,,
+morrija02,TSN Pitcher of the Year,1981,AL,,
+valenfe01,TSN Pitcher of the Year,1981,NL,,
+armasto01,TSN Player of the Year,1981,AL,,
+dawsoan01,TSN Player of the Year,1981,NL,,
+ceyro01,World Series MVP,1981,ML,Y,
+guerrpe01,World Series MVP,1981,ML,Y,
+yeagest01,World Series MVP,1981,ML,Y,
+lynnfr01,ALCS MVP,1982,AL,,
+conceda01,All-Star Game MVP,1982,ML,,
+suttebr01,Babe Ruth Award,1982,NL,,RP
+vuckope01,Cy Young Award,1982,AL,,
+carltst01,Cy Young Award,1982,NL,,
+murraed02,Gold Glove,1982,AL,,1B
+whitefr01,Gold Glove,1982,AL,,2B
+bellbu01,Gold Glove,1982,AL,,3B
+boonebo01,Gold Glove,1982,AL,,C
+evansdw01,Gold Glove,1982,AL,,OF
+murphdw01,Gold Glove,1982,AL,,OF
+winfida01,Gold Glove,1982,AL,,OF
+guidrro01,Gold Glove,1982,AL,,P
+yountro01,Gold Glove,1982,AL,,SS
+hernake01,Gold Glove,1982,NL,,1B
+trillma01,Gold Glove,1982,NL,,2B
+schmimi01,Gold Glove,1982,NL,,3B
+cartega01,Gold Glove,1982,NL,,C
+dawsoan01,Gold Glove,1982,NL,,OF
+maddoga01,Gold Glove,1982,NL,,OF
+murphda05,Gold Glove,1982,NL,,OF
+niekrph01,Gold Glove,1982,NL,,P
+smithoz01,Gold Glove,1982,NL,,SS
+thornan01,Hutch Award,1982,ML,,
+ceyro01,Lou Gehrig Memorial Award,1982,ML,,
+yountro01,Most Valuable Player,1982,AL,,
+murphda05,Most Valuable Player,1982,NL,,
+porteda02,NLCS MVP,1982,NL,,
+singlke01,Roberto Clemente Award,1982,ML,,
+quiseda01,Reliever of the Year Award,1982,AL,,
+suttebr01,Reliever of the Year Award,1982,NL,,
+ripkeca01,Rookie of the Year,1982,AL,,
+saxst01,Rookie of the Year,1982,NL,,
+coopece01,Silver Slugger,1982,AL,,1B
+garcida01,Silver Slugger,1982,AL,,2B
+decindo01,Silver Slugger,1982,AL,,3B
+parrila02,Silver Slugger,1982,AL,,C
+mcraeha01,Silver Slugger,1982,AL,,DH
+jacksre01,Silver Slugger,1982,AL,,OF
+wilsowi02,Silver Slugger,1982,AL,,OF
+winfida01,Silver Slugger,1982,AL,,OF
+yountro01,Silver Slugger,1982,AL,,SS
+oliveal01,Silver Slugger,1982,NL,,1B
+morgajo02,Silver Slugger,1982,NL,,2B
+schmimi01,Silver Slugger,1982,NL,,3B
+cartega01,Silver Slugger,1982,NL,,C
+durhale01,Silver Slugger,1982,NL,,OF
+guerrpe01,Silver Slugger,1982,NL,,OF
+murphda05,Silver Slugger,1982,NL,,OF
+robindo01,Silver Slugger,1982,NL,,P
+conceda01,Silver Slugger,1982,NL,,SS
+coopece01,TSN All-Star,1982,AL,,1B
+garcida01,TSN All-Star,1982,AL,,2B
+decindo01,TSN All-Star,1982,AL,,3B
+parrila02,TSN All-Star,1982,AL,,C
+mcraeha01,TSN All-Star,1982,AL,,DH
+zahnge01,TSN All-Star,1982,AL,,LHP
+evansdw01,TSN All-Star,1982,AL,,OF
+thomago01,TSN All-Star,1982,AL,,OF
+winfida01,TSN All-Star,1982,AL,,OF
+stiebda01,TSN All-Star,1982,AL,,RHP
+yountro01,TSN All-Star,1982,AL,,SS
+oliveal01,TSN All-Star,1982,NL,,1B
+trillma01,TSN All-Star,1982,NL,,2B
+schmimi01,TSN All-Star,1982,NL,,3B
+cartega01,TSN All-Star,1982,NL,,C
+carltst01,TSN All-Star,1982,NL,,LHP
+guerrpe01,TSN All-Star,1982,NL,,OF
+murphda05,TSN All-Star,1982,NL,,OF
+smithlo01,TSN All-Star,1982,NL,,OF
+rogerst01,TSN All-Star,1982,NL,,RHP
+smithoz01,TSN All-Star,1982,NL,,SS
+quiseda01,TSN Fireman of the Year,1982,AL,,
+suttebr01,TSN Fireman of the Year,1982,NL,,
+yountro01,TSN Major League Player of the Year,1982,ML,,
+stiebda01,TSN Pitcher of the Year,1982,AL,,
+carltst01,TSN Pitcher of the Year,1982,NL,,
+yountro01,TSN Player of the Year,1982,AL,,
+murphda05,TSN Player of the Year,1982,NL,,
+porteda02,World Series MVP,1982,ML,,
+boddimi01,ALCS MVP,1983,AL,,
+lynnfr01,All-Star Game MVP,1983,ML,,
+dempsri01,Babe Ruth Award,1983,AL,,C
+hoytla01,Cy Young Award,1983,AL,,
+dennyjo01,Cy Young Award,1983,NL,,
+murraed02,Gold Glove,1983,AL,,1B
+whitalo01,Gold Glove,1983,AL,,2B
+bellbu01,Gold Glove,1983,AL,,3B
+parrila02,Gold Glove,1983,AL,,C
+evansdw01,Gold Glove,1983,AL,,OF
+murphdw01,Gold Glove,1983,AL,,OF
+winfida01,Gold Glove,1983,AL,,OF
+guidrro01,Gold Glove,1983,AL,,P
+trammal01,Gold Glove,1983,AL,,SS
+hernake01,Gold Glove,1983,NL,,1B
+sandbry01,Gold Glove,1983,NL,,2B
+schmimi01,Gold Glove,1983,NL,,3B
+penato01,Gold Glove,1983,NL,,C
+dawsoan01,Gold Glove,1983,NL,,OF
+mcgeewi01,Gold Glove,1983,NL,,OF
+murphda05,Gold Glove,1983,NL,,OF
+niekrph01,Gold Glove,1983,NL,,P
+smithoz01,Gold Glove,1983,NL,,SS
+knighra01,Hutch Award,1983,ML,,
+schmimi01,Lou Gehrig Memorial Award,1983,ML,,
+ripkeca01,Most Valuable Player,1983,AL,,
+murphda05,Most Valuable Player,1983,NL,,
+matthga01,NLCS MVP,1983,NL,,
+coopece01,Roberto Clemente Award,1983,ML,,
+quiseda01,Reliever of the Year Award,1983,AL,,
+hollaal01,Reliever of the Year Award,1983,NL,,
+kittlro01,Rookie of the Year,1983,AL,,
+strawda01,Rookie of the Year,1983,NL,,
+murraed02,Silver Slugger,1983,AL,,1B
+whitalo01,Silver Slugger,1983,AL,,2B
+boggswa01,Silver Slugger,1983,AL,,3B
+parrila02,Silver Slugger,1983,AL,,C
+baylodo01,Silver Slugger,1983,AL,,DH
+mosebll01,Silver Slugger,1983,AL,,OF
+riceji01,Silver Slugger,1983,AL,,OF
+winfida01,Silver Slugger,1983,AL,,OF
+ripkeca01,Silver Slugger,1983,AL,,SS
+hendrge01,Silver Slugger,1983,NL,,1B
+rayjo01,Silver Slugger,1983,NL,,2B
+schmimi01,Silver Slugger,1983,NL,,3B
+kennete02,Silver Slugger,1983,NL,,C
+cruzjo01,Silver Slugger,1983,NL,,OF
+dawsoan01,Silver Slugger,1983,NL,,OF
+murphda05,Silver Slugger,1983,NL,,OF
+valenfe01,Silver Slugger,1983,NL,,P
+thondi01,Silver Slugger,1983,NL,,SS
+murraed02,TSN All-Star,1983,AL,,1B
+whitalo01,TSN All-Star,1983,AL,,2B
+boggswa01,TSN All-Star,1983,AL,,3B
+fiskca01,TSN All-Star,1983,AL,,C
+luzingr01,TSN All-Star,1983,AL,,DH
+guidrro01,TSN All-Star,1983,AL,,LHP
+mosebll01,TSN All-Star,1983,AL,,OF
+riceji01,TSN All-Star,1983,AL,,OF
+winfida01,TSN All-Star,1983,AL,,OF
+hoytla01,TSN All-Star,1983,AL,,RHP
+ripkeca01,TSN All-Star,1983,AL,,SS
+hendrge01,TSN All-Star,1983,NL,,1B
+hubbagl01,TSN All-Star,1983,NL,,2B
+schmimi01,TSN All-Star,1983,NL,,3B
+penato01,TSN All-Star,1983,NL,,C
+mcwilla01,TSN All-Star,1983,NL,,LHP
+dawsoan01,TSN All-Star,1983,NL,,OF
+murphda05,TSN All-Star,1983,NL,,OF
+raineti01,TSN All-Star,1983,NL,,OF
+dennyjo01,TSN All-Star,1983,NL,,RHP
+thondi01,TSN All-Star,1983,NL,,SS
+quiseda01,TSN Fireman of the Year,1983,AL,,
+hollaal01,TSN Fireman of the Year,1983,NL,Y,
+smithle02,TSN Fireman of the Year,1983,NL,Y,
+ripkeca01,TSN Major League Player of the Year,1983,ML,,
+hoytla01,TSN Pitcher of the Year,1983,AL,,
+dennyjo01,TSN Pitcher of the Year,1983,NL,,
+ripkeca01,TSN Player of the Year,1983,AL,,
+murphda05,TSN Player of the Year,1983,NL,,
+dempsri01,World Series MVP,1983,ML,,
+gibsoki01,ALCS MVP,1984,AL,,
+cartega01,All-Star Game MVP,1984,ML,,
+morrija02,Babe Ruth Award,1984,AL,,P
+hernawi01,Cy Young Award,1984,AL,,
+sutclri01,Cy Young Award,1984,NL,,
+murraed02,Gold Glove,1984,AL,,1B
+whitalo01,Gold Glove,1984,AL,,2B
+bellbu01,Gold Glove,1984,AL,,3B
+parrila02,Gold Glove,1984,AL,,C
+evansdw01,Gold Glove,1984,AL,,OF
+murphdw01,Gold Glove,1984,AL,,OF
+winfida01,Gold Glove,1984,AL,,OF
+guidrro01,Gold Glove,1984,AL,,P
+trammal01,Gold Glove,1984,AL,,SS
+hernake01,Gold Glove,1984,NL,,1B
+sandbry01,Gold Glove,1984,NL,,2B
+schmimi01,Gold Glove,1984,NL,,3B
+penato01,Gold Glove,1984,NL,,C
+dawsoan01,Gold Glove,1984,NL,,OF
+dernibo01,Gold Glove,1984,NL,,OF
+murphda05,Gold Glove,1984,NL,,OF
+andujjo01,Gold Glove,1984,NL,,P
+smithoz01,Gold Glove,1984,NL,,SS
+robindo01,Hutch Award,1984,ML,,
+garvest01,Lou Gehrig Memorial Award,1984,ML,,
+hernawi01,Most Valuable Player,1984,AL,,
+sandbry01,Most Valuable Player,1984,NL,,
+garvest01,NLCS MVP,1984,NL,,
+guidrro01,Roberto Clemente Award,1984,ML,,
+quiseda01,Reliever of the Year Award,1984,AL,,
+suttebr01,Reliever of the Year Award,1984,NL,,
+davisal01,Rookie of the Year,1984,AL,,
+goodedw01,Rookie of the Year,1984,NL,,
+murraed02,Silver Slugger,1984,AL,,1B
+whitalo01,Silver Slugger,1984,AL,,2B
+bellbu01,Silver Slugger,1984,AL,,3B
+parrila02,Silver Slugger,1984,AL,,C
+thornan01,Silver Slugger,1984,AL,,DH
+armasto01,Silver Slugger,1984,AL,,OF
+riceji01,Silver Slugger,1984,AL,,OF
+winfida01,Silver Slugger,1984,AL,,OF
+ripkeca01,Silver Slugger,1984,AL,,SS
+hernake01,Silver Slugger,1984,NL,,1B
+sandbry01,Silver Slugger,1984,NL,,2B
+schmimi01,Silver Slugger,1984,NL,,3B
+cartega01,Silver Slugger,1984,NL,,C
+cruzjo01,Silver Slugger,1984,NL,,OF
+gwynnto01,Silver Slugger,1984,NL,,OF
+murphda05,Silver Slugger,1984,NL,,OF
+rhoderi01,Silver Slugger,1984,NL,,P
+templga01,Silver Slugger,1984,NL,,SS
+mattido01,TSN All-Star,1984,AL,,1B
+whitalo01,TSN All-Star,1984,AL,,2B
+bellbu01,TSN All-Star,1984,AL,,3B
+parrila02,TSN All-Star,1984,AL,,C
+kingmda01,TSN All-Star,1984,AL,,DH
+hernawi01,TSN All-Star,1984,AL,,LHP
+armasto01,TSN All-Star,1984,AL,,OF
+evansdw01,TSN All-Star,1984,AL,,OF
+winfida01,TSN All-Star,1984,AL,,OF
+boddimi01,TSN All-Star,1984,AL,,RHP
+ripkeca01,TSN All-Star,1984,AL,,SS
+hernake01,TSN All-Star,1984,NL,,1B
+sandbry01,TSN All-Star,1984,NL,,2B
+schmimi01,TSN All-Star,1984,NL,,3B
+cartega01,TSN All-Star,1984,NL,,C
+thurmma01,TSN All-Star,1984,NL,,LHP
+cruzjo01,TSN All-Star,1984,NL,,OF
+gwynnto01,TSN All-Star,1984,NL,,OF
+murphda05,TSN All-Star,1984,NL,,OF
+sutclri01,TSN All-Star,1984,NL,,RHP
+smithoz01,TSN All-Star,1984,NL,,SS
+quiseda01,TSN Fireman of the Year,1984,AL,,
+suttebr01,TSN Fireman of the Year,1984,NL,,
+sandbry01,TSN Major League Player of the Year,1984,ML,,
+hernawi01,TSN Pitcher of the Year,1984,AL,,
+sutclri01,TSN Pitcher of the Year,1984,NL,,
+mattido01,TSN Player of the Year,1984,AL,,
+sandbry01,TSN Player of the Year,1984,NL,,
+trammal01,World Series MVP,1984,ML,,
+brettge01,ALCS MVP,1985,AL,,
+hoytla01,All-Star Game MVP,1985,ML,,
+saberbr01,Babe Ruth Award,1985,AL,,P
+saberbr01,Cy Young Award,1985,AL,,
+goodedw01,Cy Young Award,1985,NL,,
+mattido01,Gold Glove,1985,AL,,1B
+whitalo01,Gold Glove,1985,AL,,2B
+brettge01,Gold Glove,1985,AL,,3B
+parrila02,Gold Glove,1985,AL,,C
+evansdw01,Gold Glove,1985,AL,Y,OF
+murphdw01,Gold Glove,1985,AL,Y,OF
+pettiga01,Gold Glove,1985,AL,,OF
+winfida01,Gold Glove,1985,AL,,OF
+guidrro01,Gold Glove,1985,AL,,P
+griffal01,Gold Glove,1985,AL,,SS
+hernake01,Gold Glove,1985,NL,,1B
+sandbry01,Gold Glove,1985,NL,,2B
+wallati01,Gold Glove,1985,NL,,3B
+penato01,Gold Glove,1985,NL,,C
+dawsoan01,Gold Glove,1985,NL,,OF
+mcgeewi01,Gold Glove,1985,NL,,OF
+murphda05,Gold Glove,1985,NL,,OF
+reuscri01,Gold Glove,1985,NL,,P
+smithoz01,Gold Glove,1985,NL,,SS
+reuscri01,Hutch Award,1985,ML,,
+murphda05,Lou Gehrig Memorial Award,1985,ML,,
+mattido01,Most Valuable Player,1985,AL,,
+mcgeewi01,Most Valuable Player,1985,NL,,
+smithoz01,NLCS MVP,1985,NL,,
+goodedw01,Pitching Triple Crown,1985,NL,,
+baylodo01,Roberto Clemente Award,1985,ML,,
+quiseda01,Reliever of the Year Award,1985,AL,,
+reardje01,Reliever of the Year Award,1985,NL,,
+guilloz01,Rookie of the Year,1985,AL,,
+colemvi01,Rookie of the Year,1985,NL,,
+mattido01,Silver Slugger,1985,AL,,1B
+whitalo01,Silver Slugger,1985,AL,,2B
+brettge01,Silver Slugger,1985,AL,,3B
+fiskca01,Silver Slugger,1985,AL,,C
+baylodo01,Silver Slugger,1985,AL,,DH
+bellge02,Silver Slugger,1985,AL,,OF
+henderi01,Silver Slugger,1985,AL,,OF
+winfida01,Silver Slugger,1985,AL,,OF
+ripkeca01,Silver Slugger,1985,AL,,SS
+clarkja01,Silver Slugger,1985,NL,,1B
+sandbry01,Silver Slugger,1985,NL,,2B
+wallati01,Silver Slugger,1985,NL,,3B
+cartega01,Silver Slugger,1985,NL,,C
+mcgeewi01,Silver Slugger,1985,NL,,OF
+murphda05,Silver Slugger,1985,NL,,OF
+parkeda01,Silver Slugger,1985,NL,,OF
+rhoderi01,Silver Slugger,1985,NL,,P
+brookhu01,Silver Slugger,1985,NL,,SS
+mattido01,TSN All-Star,1985,AL,,1B
+garcida01,TSN All-Star,1985,AL,,2B
+boggswa01,TSN All-Star,1985,AL,,3B
+fiskca01,TSN All-Star,1985,AL,,C
+baylodo01,TSN All-Star,1985,AL,,DH
+guidrro01,TSN All-Star,1985,AL,,LHP
+baineha01,TSN All-Star,1985,AL,,OF
+bradlph01,TSN All-Star,1985,AL,,OF
+henderi01,TSN All-Star,1985,AL,,OF
+saberbr01,TSN All-Star,1985,AL,,RHP
+ripkeca01,TSN All-Star,1985,AL,,SS
+hernake01,TSN All-Star,1985,NL,,1B
+herrto01,TSN All-Star,1985,NL,,2B
+wallati01,TSN All-Star,1985,NL,,3B
+cartega01,TSN All-Star,1985,NL,,C
+tudorjo01,TSN All-Star,1985,NL,,LHP
+mcgeewi01,TSN All-Star,1985,NL,,OF
+murphda05,TSN All-Star,1985,NL,,OF
+parkeda01,TSN All-Star,1985,NL,,OF
+goodedw01,TSN All-Star,1985,NL,,RHP
+smithoz01,TSN All-Star,1985,NL,,SS
+quiseda01,TSN Fireman of the Year,1985,AL,,
+reardje01,TSN Fireman of the Year,1985,NL,,
+mattido01,TSN Major League Player of the Year,1985,ML,,
+saberbr01,TSN Pitcher of the Year,1985,AL,,
+goodedw01,TSN Pitcher of the Year,1985,NL,,
+mattido01,TSN Player of the Year,1985,AL,,
+mcgeewi01,TSN Player of the Year,1985,NL,,
+saberbr01,World Series MVP,1985,ML,,
+barrema02,ALCS MVP,1986,AL,,
+clemero02,All-Star Game MVP,1986,ML,,
+knighra01,Babe Ruth Award,1986,NL,,3B
+clemero02,Cy Young Award,1986,AL,,
+scottmi03,Cy Young Award,1986,NL,,
+mattido01,Gold Glove,1986,AL,,1B
+whitefr01,Gold Glove,1986,AL,,2B
+gaettga01,Gold Glove,1986,AL,,3B
+boonebo01,Gold Glove,1986,AL,,C
+barfije01,Gold Glove,1986,AL,,OF
+pettiga01,Gold Glove,1986,AL,,OF
+puckeki01,Gold Glove,1986,AL,,OF
+guidrro01,Gold Glove,1986,AL,,P
+fernato01,Gold Glove,1986,AL,,SS
+hernake01,Gold Glove,1986,NL,,1B
+sandbry01,Gold Glove,1986,NL,,2B
+schmimi01,Gold Glove,1986,NL,,3B
+davisjo02,Gold Glove,1986,NL,,C
+gwynnto01,Gold Glove,1986,NL,,OF
+mcgeewi01,Gold Glove,1986,NL,,OF
+murphda05,Gold Glove,1986,NL,,OF
+valenfe01,Gold Glove,1986,NL,,P
+smithoz01,Gold Glove,1986,NL,,SS
+leonade01,Hutch Award,1986,ML,,
+brettge01,Lou Gehrig Memorial Award,1986,ML,,
+clemero02,Most Valuable Player,1986,AL,,
+schmimi01,Most Valuable Player,1986,NL,,
+scottmi03,NLCS MVP,1986,NL,,
+maddoga01,Roberto Clemente Award,1986,ML,,
+righeda01,Reliever of the Year Award,1986,AL,,
+worreto01,Reliever of the Year Award,1986,NL,,
+cansejo01,Rookie of the Year,1986,AL,,
+worreto01,Rookie of the Year,1986,NL,,
+mattido01,Silver Slugger,1986,AL,,1B
+whitefr01,Silver Slugger,1986,AL,,2B
+boggswa01,Silver Slugger,1986,AL,,3B
+parrila02,Silver Slugger,1986,AL,,C
+baylodo01,Silver Slugger,1986,AL,,DH
+barfije01,Silver Slugger,1986,AL,,OF
+bellge02,Silver Slugger,1986,AL,,OF
+puckeki01,Silver Slugger,1986,AL,,OF
+ripkeca01,Silver Slugger,1986,AL,,SS
+davisgl01,Silver Slugger,1986,NL,,1B
+saxst01,Silver Slugger,1986,NL,,2B
+schmimi01,Silver Slugger,1986,NL,,3B
+cartega01,Silver Slugger,1986,NL,,C
+gwynnto01,Silver Slugger,1986,NL,,OF
+parkeda01,Silver Slugger,1986,NL,,OF
+raineti01,Silver Slugger,1986,NL,,OF
+rhoderi01,Silver Slugger,1986,NL,,P
+brookhu01,Silver Slugger,1986,NL,,SS
+mattido01,TSN All-Star,1986,AL,,1B
+bernato01,TSN All-Star,1986,AL,,2B
+boggswa01,TSN All-Star,1986,AL,,3B
+gedmari01,TSN All-Star,1986,AL,,C
+baylodo01,TSN All-Star,1986,AL,,DH
+higuete01,TSN All-Star,1986,AL,,LHP
+bellge02,TSN All-Star,1986,AL,,OF
+puckeki01,TSN All-Star,1986,AL,,OF
+riceji01,TSN All-Star,1986,AL,,OF
+clemero02,TSN All-Star,1986,AL,,RHP
+fernato01,TSN All-Star,1986,AL,,SS
+hernake01,TSN All-Star,1986,NL,,1B
+saxst01,TSN All-Star,1986,NL,,2B
+schmimi01,TSN All-Star,1986,NL,,3B
+cartega01,TSN All-Star,1986,NL,,C
+valenfe01,TSN All-Star,1986,NL,,LHP
+gwynnto01,TSN All-Star,1986,NL,,OF
+parkeda01,TSN All-Star,1986,NL,,OF
+raineti01,TSN All-Star,1986,NL,,OF
+scottmi03,TSN All-Star,1986,NL,,RHP
+smithoz01,TSN All-Star,1986,NL,,SS
+righeda01,TSN Fireman of the Year,1986,AL,,
+worreto01,TSN Fireman of the Year,1986,NL,,
+clemero02,TSN Major League Player of the Year,1986,ML,,
+clemero02,TSN Pitcher of the Year,1986,AL,,
+scottmi03,TSN Pitcher of the Year,1986,NL,,
+mattido01,TSN Player of the Year,1986,AL,,
+schmimi01,TSN Player of the Year,1986,NL,,
+knighra01,World Series MVP,1986,ML,,
+gaettga01,ALCS MVP,1987,AL,,
+raineti01,All-Star Game MVP,1987,ML,,
+violafr01,Babe Ruth Award,1987,AL,,P
+clemero02,Cy Young Award,1987,AL,,
+bedrost01,Cy Young Award,1987,NL,,
+mattido01,Gold Glove,1987,AL,,1B
+whitefr01,Gold Glove,1987,AL,,2B
+gaettga01,Gold Glove,1987,AL,,3B
+boonebo01,Gold Glove,1987,AL,,C
+barfije01,Gold Glove,1987,AL,,OF
+puckeki01,Gold Glove,1987,AL,,OF
+winfida01,Gold Glove,1987,AL,,OF
+langsma01,Gold Glove,1987,AL,,P
+fernato01,Gold Glove,1987,AL,,SS
+hernake01,Gold Glove,1987,NL,,1B
+sandbry01,Gold Glove,1987,NL,,2B
+pendlte01,Gold Glove,1987,NL,,3B
+lavalmi01,Gold Glove,1987,NL,,C
+daviser01,Gold Glove,1987,NL,,OF
+dawsoan01,Gold Glove,1987,NL,,OF
+gwynnto01,Gold Glove,1987,NL,,OF
+reuscri01,Gold Glove,1987,NL,,P
+smithoz01,Gold Glove,1987,NL,,SS
+molitpa01,Hutch Award,1987,ML,,
+sutclri01,Lou Gehrig Memorial Award,1987,ML,,
+bellge02,Most Valuable Player,1987,AL,,
+dawsoan01,Most Valuable Player,1987,NL,,
+leonaje01,NLCS MVP,1987,NL,,
+sutclri01,Roberto Clemente Award,1987,ML,,
+righeda01,Reliever of the Year Award,1987,AL,,
+bedrost01,Reliever of the Year Award,1987,NL,,
+mcgwima01,Rookie of the Year,1987,AL,,
+santibe01,Rookie of the Year,1987,NL,,
+mattido01,Silver Slugger,1987,AL,,1B
+whitalo01,Silver Slugger,1987,AL,,2B
+boggswa01,Silver Slugger,1987,AL,,3B
+nokesma01,Silver Slugger,1987,AL,,C
+molitpa01,Silver Slugger,1987,AL,,DH
+bellge02,Silver Slugger,1987,AL,,OF
+evansdw01,Silver Slugger,1987,AL,,OF
+puckeki01,Silver Slugger,1987,AL,,OF
+trammal01,Silver Slugger,1987,AL,,SS
+clarkja01,Silver Slugger,1987,NL,,1B
+samueju01,Silver Slugger,1987,NL,,2B
+wallati01,Silver Slugger,1987,NL,,3B
+santibe01,Silver Slugger,1987,NL,,C
+daviser01,Silver Slugger,1987,NL,,OF
+dawsoan01,Silver Slugger,1987,NL,,OF
+gwynnto01,Silver Slugger,1987,NL,,OF
+forscbo01,Silver Slugger,1987,NL,,P
+smithoz01,Silver Slugger,1987,NL,,SS
+mattido01,TSN All-Star,1987,AL,,1B
+randowi01,TSN All-Star,1987,AL,,2B
+boggswa01,TSN All-Star,1987,AL,,3B
+nokesma01,TSN All-Star,1987,AL,,C
+molitpa01,TSN All-Star,1987,AL,,DH
+keyji01,TSN All-Star,1987,AL,,LHP
+bellge02,TSN All-Star,1987,AL,,OF
+evansdw01,TSN All-Star,1987,AL,,OF
+puckeki01,TSN All-Star,1987,AL,,OF
+clemero02,TSN All-Star,1987,AL,,RHP
+trammal01,TSN All-Star,1987,AL,,SS
+clarkja01,TSN All-Star,1987,NL,,1B
+samueju01,TSN All-Star,1987,NL,,2B
+wallati01,TSN All-Star,1987,NL,,3B
+santibe01,TSN All-Star,1987,NL,,C
+smithza01,TSN All-Star,1987,NL,,LHP
+daviser01,TSN All-Star,1987,NL,,OF
+dawsoan01,TSN All-Star,1987,NL,,OF
+gwynnto01,TSN All-Star,1987,NL,,OF
+sutclri01,TSN All-Star,1987,NL,,RHP
+smithoz01,TSN All-Star,1987,NL,,SS
+reardje01,TSN Fireman of the Year,1987,AL,Y,
+righeda01,TSN Fireman of the Year,1987,AL,Y,
+bedrost01,TSN Fireman of the Year,1987,NL,,
+bellge02,TSN Major League Player of the Year,1987,ML,,
+keyji01,TSN Pitcher of the Year,1987,AL,,
+sutclri01,TSN Pitcher of the Year,1987,NL,,
+bellge02,TSN Player of the Year,1987,AL,,
+dawsoan01,TSN Player of the Year,1987,NL,,
+violafr01,World Series MVP,1987,ML,,
+eckerde01,ALCS MVP,1988,AL,,
+steinte01,All-Star Game MVP,1988,ML,,
+hershor01,Babe Ruth Award,1988,NL,,P
+violafr01,Cy Young Award,1988,AL,,
+hershor01,Cy Young Award,1988,NL,,
+mattido01,Gold Glove,1988,AL,,1B
+reynoha01,Gold Glove,1988,AL,,2B
+gaettga01,Gold Glove,1988,AL,,3B
+boonebo01,Gold Glove,1988,AL,,C
+pettiga01,Gold Glove,1988,AL,,OF
+puckeki01,Gold Glove,1988,AL,,OF
+whitede03,Gold Glove,1988,AL,,OF
+langsma01,Gold Glove,1988,AL,,P
+fernato01,Gold Glove,1988,AL,,SS
+hernake01,Gold Glove,1988,NL,,1B
+sandbry01,Gold Glove,1988,NL,,2B
+wallati01,Gold Glove,1988,NL,,3B
+santibe01,Gold Glove,1988,NL,,C
+daviser01,Gold Glove,1988,NL,,OF
+dawsoan01,Gold Glove,1988,NL,,OF
+vanslan01,Gold Glove,1988,NL,,OF
+hershor01,Gold Glove,1988,NL,,P
+smithoz01,Gold Glove,1988,NL,,SS
+oestero01,Hutch Award,1988,ML,,
+bellbu01,Lou Gehrig Memorial Award,1988,ML,,
+cansejo01,Most Valuable Player,1988,AL,,
+gibsoki01,Most Valuable Player,1988,NL,,
+hershor01,NLCS MVP,1988,NL,,
+murphda05,Roberto Clemente Award,1988,ML,,
+eckerde01,Reliever of the Year Award,1988,AL,,
+francjo01,Reliever of the Year Award,1988,NL,,
+weisswa01,Rookie of the Year,1988,AL,,
+saboch01,Rookie of the Year,1988,NL,,
+brettge01,Silver Slugger,1988,AL,,1B
+francju01,Silver Slugger,1988,AL,,2B
+boggswa01,Silver Slugger,1988,AL,,3B
+fiskca01,Silver Slugger,1988,AL,,C
+molitpa01,Silver Slugger,1988,AL,,DH
+cansejo01,Silver Slugger,1988,AL,,OF
+greenmi01,Silver Slugger,1988,AL,,OF
+puckeki01,Silver Slugger,1988,AL,,OF
+trammal01,Silver Slugger,1988,AL,,SS
+galaran01,Silver Slugger,1988,NL,,1B
+sandbry01,Silver Slugger,1988,NL,,2B
+bonilbo01,Silver Slugger,1988,NL,,3B
+santibe01,Silver Slugger,1988,NL,,C
+gibsoki01,Silver Slugger,1988,NL,,OF
+strawda01,Silver Slugger,1988,NL,,OF
+vanslan01,Silver Slugger,1988,NL,,OF
+learyti01,Silver Slugger,1988,NL,,P
+larkiba01,Silver Slugger,1988,NL,,SS
+brettge01,TSN All-Star,1988,AL,,1B
+rayjo01,TSN All-Star,1988,AL,,2B
+boggswa01,TSN All-Star,1988,AL,,3B
+whitter01,TSN All-Star,1988,AL,,C
+baineha01,TSN All-Star,1988,AL,,DH
+violafr01,TSN All-Star,1988,AL,,LHP
+cansejo01,TSN All-Star,1988,AL,,OF
+greenmi01,TSN All-Star,1988,AL,,OF
+puckeki01,TSN All-Star,1988,AL,,OF
+stewada01,TSN All-Star,1988,AL,,RHP
+trammal01,TSN All-Star,1988,AL,,SS
+clarkwi02,TSN All-Star,1988,NL,,1B
+sandbry01,TSN All-Star,1988,NL,,2B
+bonilbo01,TSN All-Star,1988,NL,,3B
+lavalmi01,TSN All-Star,1988,NL,,C
+jacksda02,TSN All-Star,1988,NL,,LHP
+mcreyke01,TSN All-Star,1988,NL,,OF
+strawda01,TSN All-Star,1988,NL,,OF
+vanslan01,TSN All-Star,1988,NL,,OF
+hershor01,TSN All-Star,1988,NL,,RHP
+larkiba01,TSN All-Star,1988,NL,,SS
+eckerde01,TSN Fireman of the Year,1988,AL,,
+francjo01,TSN Fireman of the Year,1988,NL,,
+hershor01,TSN Major League Player of the Year,1988,ML,,
+violafr01,TSN Pitcher of the Year,1988,AL,,
+hershor01,TSN Pitcher of the Year,1988,NL,,
+cansejo01,TSN Player of the Year,1988,AL,,
+vanslan01,TSN Player of the Year,1988,NL,,
+hershor01,World Series MVP,1988,ML,,
+henderi01,ALCS MVP,1989,AL,,
+jacksbo01,All-Star Game MVP,1989,ML,,
+stewada01,Babe Ruth Award,1989,AL,,P
+saberbr01,Cy Young Award,1989,AL,,
+davisma01,Cy Young Award,1989,NL,,
+mattido01,Gold Glove,1989,AL,,1B
+reynoha01,Gold Glove,1989,AL,,2B
+gaettga01,Gold Glove,1989,AL,,3B
+boonebo01,Gold Glove,1989,AL,,C
+pettiga01,Gold Glove,1989,AL,,OF
+puckeki01,Gold Glove,1989,AL,,OF
+whitede03,Gold Glove,1989,AL,,OF
+saberbr01,Gold Glove,1989,AL,,P
+fernato01,Gold Glove,1989,AL,,SS
+galaran01,Gold Glove,1989,NL,,1B
+sandbry01,Gold Glove,1989,NL,,2B
+pendlte01,Gold Glove,1989,NL,,3B
+santibe01,Gold Glove,1989,NL,,C
+daviser01,Gold Glove,1989,NL,,OF
+gwynnto01,Gold Glove,1989,NL,,OF
+vanslan01,Gold Glove,1989,NL,,OF
+darliro01,Gold Glove,1989,NL,,P
+smithoz01,Gold Glove,1989,NL,,SS
+draveda01,Hutch Award,1989,ML,,
+smithoz01,Lou Gehrig Memorial Award,1989,ML,,
+yountro01,Most Valuable Player,1989,AL,,
+mitchke01,Most Valuable Player,1989,NL,,
+clarkwi02,NLCS MVP,1989,NL,,
+cartega01,Roberto Clemente Award,1989,ML,,
+russeje01,Reliever of the Year Award,1989,AL,,
+davisma01,Reliever of the Year Award,1989,NL,,
+olsongr01,Rookie of the Year,1989,AL,,
+waltoje01,Rookie of the Year,1989,NL,,
+mcgrifr01,Silver Slugger,1989,AL,,1B
+francju01,Silver Slugger,1989,AL,,2B
+boggswa01,Silver Slugger,1989,AL,,3B
+tettlmi01,Silver Slugger,1989,AL,,C
+baineha01,Silver Slugger,1989,AL,,DH
+puckeki01,Silver Slugger,1989,AL,,OF
+sierrru01,Silver Slugger,1989,AL,,OF
+yountro01,Silver Slugger,1989,AL,,OF
+ripkeca01,Silver Slugger,1989,AL,,SS
+clarkwi02,Silver Slugger,1989,NL,,1B
+sandbry01,Silver Slugger,1989,NL,,2B
+johnsho01,Silver Slugger,1989,NL,,3B
+biggicr01,Silver Slugger,1989,NL,,C
+daviser01,Silver Slugger,1989,NL,,OF
+gwynnto01,Silver Slugger,1989,NL,,OF
+mitchke01,Silver Slugger,1989,NL,,OF
+robindo01,Silver Slugger,1989,NL,,P
+larkiba01,Silver Slugger,1989,NL,,SS
+mcgrifr01,TSN All-Star,1989,AL,,1B
+francju01,TSN All-Star,1989,AL,,2B
+lansfca01,TSN All-Star,1989,AL,,3B
+tettlmi01,TSN All-Star,1989,AL,,C
+baineha01,TSN All-Star,1989,AL,,DH
+finlech01,TSN All-Star,1989,AL,,LHP
+puckeki01,TSN All-Star,1989,AL,,OF
+sierrru01,TSN All-Star,1989,AL,,OF
+yountro01,TSN All-Star,1989,AL,,OF
+saberbr01,TSN All-Star,1989,AL,,RHP
+ripkeca01,TSN All-Star,1989,AL,,SS
+clarkwi02,TSN All-Star,1989,NL,,1B
+sandbry01,TSN All-Star,1989,NL,,2B
+johnsho01,TSN All-Star,1989,NL,,3B
+santibe01,TSN All-Star,1989,NL,,C
+davisma01,TSN All-Star,1989,NL,,LHP
+daviser01,TSN All-Star,1989,NL,,OF
+gwynnto01,TSN All-Star,1989,NL,,OF
+mitchke01,TSN All-Star,1989,NL,,OF
+scottmi03,TSN All-Star,1989,NL,,RHP
+dunstsh01,TSN All-Star,1989,NL,,SS
+russeje01,TSN Fireman of the Year,1989,AL,,
+davisma01,TSN Fireman of the Year,1989,NL,,
+mitchke01,TSN Major League Player of the Year,1989,ML,,
+saberbr01,TSN Pitcher of the Year,1989,AL,,
+davisma01,TSN Pitcher of the Year,1989,NL,,
+sierrru01,TSN Player of the Year,1989,AL,,
+mitchke01,TSN Player of the Year,1989,NL,,
+stewada01,World Series MVP,1989,ML,,
+stewada01,ALCS MVP,1990,AL,,
+francju01,All-Star Game MVP,1990,ML,,
+hatchbi01,Babe Ruth Award,1990,NL,,OF
+welchbo01,Cy Young Award,1990,AL,,
+drabedo01,Cy Young Award,1990,NL,,
+mcgwima01,Gold Glove,1990,AL,,1B
+reynoha01,Gold Glove,1990,AL,,2B
+grubeke01,Gold Glove,1990,AL,,3B
+alomasa02,Gold Glove,1990,AL,,C
+burksel01,Gold Glove,1990,AL,,OF
+griffke02,Gold Glove,1990,AL,,OF
+pettiga01,Gold Glove,1990,AL,,OF
+boddimi01,Gold Glove,1990,AL,,P
+guilloz01,Gold Glove,1990,AL,,SS
+galaran01,Gold Glove,1990,NL,,1B
+sandbry01,Gold Glove,1990,NL,,2B
+wallati01,Gold Glove,1990,NL,,3B
+santibe01,Gold Glove,1990,NL,,C
+bondsba01,Gold Glove,1990,NL,,OF
+gwynnto01,Gold Glove,1990,NL,,OF
+vanslan01,Gold Glove,1990,NL,,OF
+maddugr01,Gold Glove,1990,NL,,P
+smithoz01,Gold Glove,1990,NL,,SS
+breamsi01,Hutch Award,1990,ML,,
+davisgl01,Lou Gehrig Memorial Award,1990,ML,,
+henderi01,Most Valuable Player,1990,AL,,
+bondsba01,Most Valuable Player,1990,NL,,
+dibblro01,NLCS MVP,1990,NL,,
+myersra01,NLCS MVP,1990,NL,,
+stewada01,Roberto Clemente Award,1990,ML,,
+thigpbo01,Reliever of the Year Award,1990,AL,,
+francjo01,Reliever of the Year Award,1990,NL,,
+alomasa02,Rookie of the Year,1990,AL,,
+justida01,Rookie of the Year,1990,NL,,
+fieldce01,Silver Slugger,1990,AL,,1B
+francju01,Silver Slugger,1990,AL,,2B
+grubeke01,Silver Slugger,1990,AL,,3B
+parrila02,Silver Slugger,1990,AL,,C
+parkeda01,Silver Slugger,1990,AL,,DH
+burksel01,Silver Slugger,1990,AL,,OF
+cansejo01,Silver Slugger,1990,AL,,OF
+henderi01,Silver Slugger,1990,AL,,OF
+trammal01,Silver Slugger,1990,AL,,SS
+murraed02,Silver Slugger,1990,NL,,1B
+sandbry01,Silver Slugger,1990,NL,,2B
+willima04,Silver Slugger,1990,NL,,3B
+santibe01,Silver Slugger,1990,NL,,C
+bondsba01,Silver Slugger,1990,NL,,OF
+bonilbo01,Silver Slugger,1990,NL,,OF
+strawda01,Silver Slugger,1990,NL,,OF
+robindo01,Silver Slugger,1990,NL,,P
+larkiba01,Silver Slugger,1990,NL,,SS
+fieldce01,TSN All-Star,1990,AL,,1B
+francju01,TSN All-Star,1990,AL,,2B
+grubeke01,TSN All-Star,1990,AL,,3B
+fiskca01,TSN All-Star,1990,AL,,C
+parkeda01,TSN All-Star,1990,AL,,DH
+finlech01,TSN All-Star,1990,AL,,LHP
+burksel01,TSN All-Star,1990,AL,,OF
+cansejo01,TSN All-Star,1990,AL,,OF
+henderi01,TSN All-Star,1990,AL,,OF
+welchbo01,TSN All-Star,1990,AL,,RHP
+trammal01,TSN All-Star,1990,AL,,SS
+murraed02,TSN All-Star,1990,NL,,1B
+sandbry01,TSN All-Star,1990,NL,,2B
+willima04,TSN All-Star,1990,NL,,3B
+sciosmi01,TSN All-Star,1990,NL,,C
+violafr01,TSN All-Star,1990,NL,,LHP
+bondsba01,TSN All-Star,1990,NL,,OF
+bonilbo01,TSN All-Star,1990,NL,,OF
+strawda01,TSN All-Star,1990,NL,,OF
+drabedo01,TSN All-Star,1990,NL,,RHP
+larkiba01,TSN All-Star,1990,NL,,SS
+thigpbo01,TSN Fireman of the Year,1990,AL,,
+francjo01,TSN Fireman of the Year,1990,NL,,
+bondsba01,TSN Major League Player of the Year,1990,ML,,
+welchbo01,TSN Pitcher of the Year,1990,AL,,
+drabedo01,TSN Pitcher of the Year,1990,NL,,
+fieldce01,TSN Player of the Year,1990,AL,,
+bondsba01,TSN Player of the Year,1990,NL,,
+rijojo01,World Series MVP,1990,ML,,
+puckeki01,ALCS MVP,1991,AL,,
+ripkeca01,All-Star Game MVP,1991,ML,,
+morrija02,Babe Ruth Award,1991,AL,,P
+clemero02,Cy Young Award,1991,AL,,
+glavito02,Cy Young Award,1991,NL,,
+mattido01,Gold Glove,1991,AL,,1B
+alomaro01,Gold Glove,1991,AL,,2B
+venturo01,Gold Glove,1991,AL,,3B
+penato01,Gold Glove,1991,AL,,C
+griffke02,Gold Glove,1991,AL,,OF
+puckeki01,Gold Glove,1991,AL,,OF
+whitede03,Gold Glove,1991,AL,,OF
+langsma01,Gold Glove,1991,AL,,P
+ripkeca01,Gold Glove,1991,AL,,SS
+clarkwi02,Gold Glove,1991,NL,,1B
+sandbry01,Gold Glove,1991,NL,,2B
+willima04,Gold Glove,1991,NL,,3B
+pagnoto01,Gold Glove,1991,NL,,C
+bondsba01,Gold Glove,1991,NL,,OF
+gwynnto01,Gold Glove,1991,NL,,OF
+vanslan01,Gold Glove,1991,NL,,OF
+maddugr01,Gold Glove,1991,NL,,P
+smithoz01,Gold Glove,1991,NL,,SS
+wegmabi01,Hutch Award,1991,ML,,
+hrbekke01,Lou Gehrig Memorial Award,1991,ML,,
+ripkeca01,Most Valuable Player,1991,AL,,
+pendlte01,Most Valuable Player,1991,NL,,
+averyst01,NLCS MVP,1991,NL,,
+reynoha01,Roberto Clemente Award,1991,ML,,
+harvebr01,Reliever of the Year Award,1991,AL,,
+smithle02,Reliever of the Year Award,1991,NL,,
+knoblch01,Rookie of the Year,1991,AL,,
+bagweje01,Rookie of the Year,1991,NL,,
+fieldce01,Silver Slugger,1991,AL,,1B
+francju01,Silver Slugger,1991,AL,,2B
+boggswa01,Silver Slugger,1991,AL,,3B
+tettlmi01,Silver Slugger,1991,AL,,C
+thomafr04,Silver Slugger,1991,AL,,DH
+cansejo01,Silver Slugger,1991,AL,,OF
+cartejo01,Silver Slugger,1991,AL,,OF
+griffke02,Silver Slugger,1991,AL,,OF
+ripkeca01,Silver Slugger,1991,AL,,SS
+clarkwi02,Silver Slugger,1991,NL,,1B
+sandbry01,Silver Slugger,1991,NL,,2B
+johnsho01,Silver Slugger,1991,NL,,3B
+santibe01,Silver Slugger,1991,NL,,C
+bondsba01,Silver Slugger,1991,NL,,OF
+bonilbo01,Silver Slugger,1991,NL,,OF
+gantro01,Silver Slugger,1991,NL,,OF
+glavito02,Silver Slugger,1991,NL,,P
+larkiba01,Silver Slugger,1991,NL,,SS
+fieldce01,TSN All-Star,1991,AL,,1B
+francju01,TSN All-Star,1991,AL,,2B
+boggswa01,TSN All-Star,1991,AL,,3B
+tettlmi01,TSN All-Star,1991,AL,,C
+abbotji01,TSN All-Star,1991,AL,,LHP
+cansejo01,TSN All-Star,1991,AL,,OF
+cartejo01,TSN All-Star,1991,AL,,OF
+griffke02,TSN All-Star,1991,AL,,OF
+clemero02,TSN All-Star,1991,AL,,RHP
+ripkeca01,TSN All-Star,1991,AL,,SS
+clarkwi02,TSN All-Star,1991,NL,,1B
+sandbry01,TSN All-Star,1991,NL,,2B
+pendlte01,TSN All-Star,1991,NL,,3B
+santibe01,TSN All-Star,1991,NL,,C
+glavito02,TSN All-Star,1991,NL,,LHP
+bondsba01,TSN All-Star,1991,NL,,OF
+bonilbo01,TSN All-Star,1991,NL,,OF
+gantro01,TSN All-Star,1991,NL,,OF
+rijojo01,TSN All-Star,1991,NL,,RHP
+larkiba01,TSN All-Star,1991,NL,,SS
+eckerde01,TSN Fireman of the Year,1991,AL,Y,
+harvebr01,TSN Fireman of the Year,1991,AL,Y,
+smithle02,TSN Fireman of the Year,1991,NL,,
+ripkeca01,TSN Major League Player of the Year,1991,ML,,
+clemero02,TSN Pitcher of the Year,1991,AL,,
+glavito02,TSN Pitcher of the Year,1991,NL,,
+ripkeca01,TSN Player of the Year,1991,AL,,
+bondsba01,TSN Player of the Year,1991,NL,,
+morrija02,World Series MVP,1991,ML,,
+smithle02,Reliever of the Year Award,1992,NL,,
+alomaro01,ALCS MVP,1992,AL,,
+griffke02,All-Star Game MVP,1992,ML,,
+winfida01,Babe Ruth Award,1992,AL,,OF
+winfida01,Branch Rickey Award,1992,ML,,
+eckerde01,Cy Young Award,1992,AL,,
+maddugr01,Cy Young Award,1992,NL,,
+mattido01,Gold Glove,1992,AL,,1B
+alomaro01,Gold Glove,1992,AL,,2B
+venturo01,Gold Glove,1992,AL,,3B
+rodriiv01,Gold Glove,1992,AL,,C
+griffke02,Gold Glove,1992,AL,,OF
+puckeki01,Gold Glove,1992,AL,,OF
+whitede03,Gold Glove,1992,AL,,OF
+langsma01,Gold Glove,1992,AL,,P
+ripkeca01,Gold Glove,1992,AL,,SS
+gracema01,Gold Glove,1992,NL,,1B
+lindjo01,Gold Glove,1992,NL,,2B
+pendlte01,Gold Glove,1992,NL,,3B
+pagnoto01,Gold Glove,1992,NL,,C
+bondsba01,Gold Glove,1992,NL,,OF
+vanslan01,Gold Glove,1992,NL,,OF
+walkela01,Gold Glove,1992,NL,,OF
+maddugr01,Gold Glove,1992,NL,,P
+smithoz01,Gold Glove,1992,NL,,SS
+lansfca01,Hutch Award,1992,ML,,
+ripkeca01,Lou Gehrig Memorial Award,1992,ML,,
+eckerde01,Most Valuable Player,1992,AL,,
+bondsba01,Most Valuable Player,1992,NL,,
+smoltjo01,NLCS MVP,1992,NL,,
+ripkeca01,Roberto Clemente Award,1992,ML,,
+eckerde01,Reliever of the Year Award,1992,AL,,
+listapa01,Rookie of the Year,1992,AL,,
+karroer01,Rookie of the Year,1992,NL,,
+mcgwima01,Silver Slugger,1992,AL,,1B
+alomaro01,Silver Slugger,1992,AL,,2B
+martied01,Silver Slugger,1992,AL,,3B
+tettlmi01,Silver Slugger,1992,AL,,C
+winfida01,Silver Slugger,1992,AL,,DH
+cartejo01,Silver Slugger,1992,AL,,OF
+gonzaju03,Silver Slugger,1992,AL,,OF
+puckeki01,Silver Slugger,1992,AL,,OF
+frymatr01,Silver Slugger,1992,AL,,SS
+mcgrifr01,Silver Slugger,1992,NL,,1B
+sandbry01,Silver Slugger,1992,NL,,2B
+sheffga01,Silver Slugger,1992,NL,,3B
+daultda01,Silver Slugger,1992,NL,,C
+bondsba01,Silver Slugger,1992,NL,,OF
+vanslan01,Silver Slugger,1992,NL,,OF
+walkela01,Silver Slugger,1992,NL,,OF
+goodedw01,Silver Slugger,1992,NL,,P
+larkiba01,Silver Slugger,1992,NL,,SS
+mcgwima01,TSN All-Star,1992,AL,,1B
+alomaro01,TSN All-Star,1992,AL,,2B
+martied01,TSN All-Star,1992,AL,,3B
+tettlmi01,TSN All-Star,1992,AL,,C
+flemida01,TSN All-Star,1992,AL,,LHP
+cartejo01,TSN All-Star,1992,AL,,OF
+devermi01,TSN All-Star,1992,AL,,OF
+puckeki01,TSN All-Star,1992,AL,,OF
+mcdowja01,TSN All-Star,1992,AL,,RHP
+frymatr01,TSN All-Star,1992,AL,,SS
+mcgrifr01,TSN All-Star,1992,NL,,1B
+sandbry01,TSN All-Star,1992,NL,,2B
+sheffga01,TSN All-Star,1992,NL,,3B
+daultda01,TSN All-Star,1992,NL,,C
+glavito02,TSN All-Star,1992,NL,,LHP
+bondsba01,TSN All-Star,1992,NL,,OF
+vanslan01,TSN All-Star,1992,NL,,OF
+walkela01,TSN All-Star,1992,NL,,OF
+maddugr01,TSN All-Star,1992,NL,,RHP
+larkiba01,TSN All-Star,1992,NL,,SS
+eckerde01,TSN Fireman of the Year,1992,AL,,
+jonesdo01,TSN Fireman of the Year,1992,NL,Y,
+smithle02,TSN Fireman of the Year,1992,NL,Y,
+sheffga01,TSN Major League Player of the Year,1992,ML,,
+eckerde01,TSN Pitcher of the Year,1992,AL,,
+maddugr01,TSN Pitcher of the Year,1992,NL,,
+bordepa01,World Series MVP,1992,ML,,
+stewada01,ALCS MVP,1993,AL,,
+puckeki01,All-Star Game MVP,1993,ML,,
+molitpa01,Babe Ruth Award,1993,AL,,DH
+puckeki01,Branch Rickey Award,1993,ML,,
+mcdowja01,Cy Young Award,1993,AL,,
+maddugr01,Cy Young Award,1993,NL,,
+mattido01,Gold Glove,1993,AL,,1B
+alomaro01,Gold Glove,1993,AL,,2B
+venturo01,Gold Glove,1993,AL,,3B
+rodriiv01,Gold Glove,1993,AL,,C
+griffke02,Gold Glove,1993,AL,,OF
+loftoke01,Gold Glove,1993,AL,,OF
+whitede03,Gold Glove,1993,AL,,OF
+langsma01,Gold Glove,1993,AL,,P
+vizquom01,Gold Glove,1993,AL,,SS
+gracema01,Gold Glove,1993,NL,,1B
+thompro01,Gold Glove,1993,NL,,2B
+willima04,Gold Glove,1993,NL,,3B
+manwaki01,Gold Glove,1993,NL,,C
+bondsba01,Gold Glove,1993,NL,,OF
+grissma02,Gold Glove,1993,NL,,OF
+walkela01,Gold Glove,1993,NL,,OF
+maddugr01,Gold Glove,1993,NL,,P
+bellja01,Gold Glove,1993,NL,,SS
+olerujo01,Hutch Award,1993,ML,,
+mattido01,Lou Gehrig Memorial Award,1993,ML,,
+thomafr04,Most Valuable Player,1993,AL,,
+bondsba01,Most Valuable Player,1993,NL,,
+schilcu01,NLCS MVP,1993,NL,,
+larkiba01,Roberto Clemente Award,1993,ML,,
+montgje01,Reliever of the Year Award,1993,AL,,
+myersra01,Reliever of the Year Award,1993,NL,,
+salmoti01,Rookie of the Year,1993,AL,,
+piazzmi01,Rookie of the Year,1993,NL,,
+thomafr04,Silver Slugger,1993,AL,,1B
+baergca01,Silver Slugger,1993,AL,,2B
+boggswa01,Silver Slugger,1993,AL,,3B
+stanlmi02,Silver Slugger,1993,AL,,C
+molitpa01,Silver Slugger,1993,AL,,DH
+belleal01,Silver Slugger,1993,AL,,OF
+gonzaju03,Silver Slugger,1993,AL,,OF
+griffke02,Silver Slugger,1993,AL,,OF
+ripkeca01,Silver Slugger,1993,AL,,SS
+mcgrifr01,Silver Slugger,1993,NL,,1B
+thompro01,Silver Slugger,1993,NL,,2B
+willima04,Silver Slugger,1993,NL,,3B
+piazzmi01,Silver Slugger,1993,NL,,C
+bondsba01,Silver Slugger,1993,NL,,OF
+dykstle01,Silver Slugger,1993,NL,,OF
+justida01,Silver Slugger,1993,NL,,OF
+hershor01,Silver Slugger,1993,NL,,P
+bellja01,Silver Slugger,1993,NL,,SS
+thomafr04,TSN All-Star,1993,AL,,1B
+baergca01,TSN All-Star,1993,AL,,2B
+frymatr01,TSN All-Star,1993,AL,,3B
+stanlmi02,TSN All-Star,1993,AL,,C
+molitpa01,TSN All-Star,1993,AL,,DH
+keyji01,TSN All-Star,1993,AL,,LHP
+belleal01,TSN All-Star,1993,AL,,OF
+gonzaju03,TSN All-Star,1993,AL,,OF
+griffke02,TSN All-Star,1993,AL,,OF
+mcdowja01,TSN All-Star,1993,AL,,RHP
+ripkeca01,TSN All-Star,1993,AL,,SS
+mcgrifr01,TSN All-Star,1993,NL,,1B
+thompro01,TSN All-Star,1993,NL,,2B
+willima04,TSN All-Star,1993,NL,,3B
+piazzmi01,TSN All-Star,1993,NL,,C
+averyst01,TSN All-Star,1993,NL,,LHP
+bondsba01,TSN All-Star,1993,NL,,OF
+dykstle01,TSN All-Star,1993,NL,,OF
+justida01,TSN All-Star,1993,NL,,OF
+maddugr01,TSN All-Star,1993,NL,,RHP
+bellja01,TSN All-Star,1993,NL,,SS
+montgje01,TSN Fireman of the Year,1993,AL,,
+myersra01,TSN Fireman of the Year,1993,NL,,
+thomafr04,TSN Major League Player of the Year,1993,ML,,
+mcdowja01,TSN Pitcher of the Year,1993,AL,,
+maddugr01,TSN Pitcher of the Year,1993,NL,,
+molitpa01,World Series MVP,1993,ML,,
+mcgrifr01,All-Star Game MVP,1994,ML,,
+smithoz01,Branch Rickey Award,1994,ML,,
+coneda01,Cy Young Award,1994,AL,,
+maddugr01,Cy Young Award,1994,NL,,
+mattido01,Gold Glove,1994,AL,,1B
+alomaro01,Gold Glove,1994,AL,,2B
+boggswa01,Gold Glove,1994,AL,,3B
+rodriiv01,Gold Glove,1994,AL,,C
+griffke02,Gold Glove,1994,AL,,OF
+loftoke01,Gold Glove,1994,AL,,OF
+whitede03,Gold Glove,1994,AL,,OF
+langsma01,Gold Glove,1994,AL,,P
+vizquom01,Gold Glove,1994,AL,,SS
+bagweje01,Gold Glove,1994,NL,,1B
+biggicr01,Gold Glove,1994,NL,,2B
+willima04,Gold Glove,1994,NL,,3B
+pagnoto01,Gold Glove,1994,NL,,C
+bondsba01,Gold Glove,1994,NL,,OF
+grissma02,Gold Glove,1994,NL,,OF
+lewisda01,Gold Glove,1994,NL,,OF
+maddugr01,Gold Glove,1994,NL,,P
+larkiba01,Gold Glove,1994,NL,,SS
+dawsoan01,Hutch Award,1994,ML,,
+larkiba01,Lou Gehrig Memorial Award,1994,ML,,
+thomafr04,Most Valuable Player,1994,AL,,
+bagweje01,Most Valuable Player,1994,NL,,
+winfida01,Roberto Clemente Award,1994,ML,,
+smithle02,Reliever of the Year Award,1994,AL,,
+beckro01,Reliever of the Year Award,1994,NL,,
+hamelbo01,Rookie of the Year,1994,AL,,
+mondera01,Rookie of the Year,1994,NL,,
+thomafr04,Silver Slugger,1994,AL,,1B
+baergca01,Silver Slugger,1994,AL,,2B
+boggswa01,Silver Slugger,1994,AL,,3B
+rodriiv01,Silver Slugger,1994,AL,,C
+francju01,Silver Slugger,1994,AL,,DH
+belleal01,Silver Slugger,1994,AL,,OF
+griffke02,Silver Slugger,1994,AL,,OF
+puckeki01,Silver Slugger,1994,AL,,OF
+ripkeca01,Silver Slugger,1994,AL,,SS
+bagweje01,Silver Slugger,1994,NL,,1B
+biggicr01,Silver Slugger,1994,NL,,2B
+willima04,Silver Slugger,1994,NL,,3B
+piazzmi01,Silver Slugger,1994,NL,,C
+aloumo01,Silver Slugger,1994,NL,,OF
+bondsba01,Silver Slugger,1994,NL,,OF
+gwynnto01,Silver Slugger,1994,NL,,OF
+portuma01,Silver Slugger,1994,NL,,P
+cordewi01,Silver Slugger,1994,NL,,SS
+thomafr04,TSN All-Star,1994,AL,,1B
+knoblch01,TSN All-Star,1994,AL,,2B
+boggswa01,TSN All-Star,1994,AL,,3B
+rodriiv01,TSN All-Star,1994,AL,,C
+molitpa01,TSN All-Star,1994,AL,,DH
+keyji01,TSN All-Star,1994,AL,,LHP
+belleal01,TSN All-Star,1994,AL,,OF
+griffke02,TSN All-Star,1994,AL,,OF
+puckeki01,TSN All-Star,1994,AL,,OF
+coneda01,TSN All-Star,1994,AL,,RHP
+ripkeca01,TSN All-Star,1994,AL,,SS
+bagweje01,TSN All-Star,1994,NL,,1B
+biggicr01,TSN All-Star,1994,NL,,2B
+willima04,TSN All-Star,1994,NL,,3B
+piazzmi01,TSN All-Star,1994,NL,,C
+jacksda02,TSN All-Star,1994,NL,,LHP
+aloumo01,TSN All-Star,1994,NL,,OF
+bondsba01,TSN All-Star,1994,NL,,OF
+gwynnto01,TSN All-Star,1994,NL,,OF
+maddugr01,TSN All-Star,1994,NL,,RHP
+larkiba01,TSN All-Star,1994,NL,,SS
+smithle02,TSN Fireman of the Year,1994,AL,,
+francjo01,TSN Fireman of the Year,1994,NL,,
+bagweje01,TSN Major League Player of the Year,1994,ML,,
+keyji01,TSN Pitcher of the Year,1994,AL,,
+maddugr01,TSN Pitcher of the Year,1994,NL,,
+hershor01,ALCS MVP,1995,AL,,
+coninje01,All-Star Game MVP,1995,ML,,
+glavito02,Babe Ruth Award,1995,NL,,P
+gwynnto01,Branch Rickey Award,1995,ML,,
+johnsra05,Cy Young Award,1995,AL,,
+maddugr01,Cy Young Award,1995,NL,,
+snowjt01,Gold Glove,1995,AL,,1B
+alomaro01,Gold Glove,1995,AL,,2B
+boggswa01,Gold Glove,1995,AL,,3B
+rodriiv01,Gold Glove,1995,AL,,C
+griffke02,Gold Glove,1995,AL,,OF
+loftoke01,Gold Glove,1995,AL,,OF
+whitede03,Gold Glove,1995,AL,,OF
+langsma01,Gold Glove,1995,AL,,P
+vizquom01,Gold Glove,1995,AL,,SS
+gracema01,Gold Glove,1995,NL,,1B
+biggicr01,Gold Glove,1995,NL,,2B
+caminke01,Gold Glove,1995,NL,,3B
+johnsch04,Gold Glove,1995,NL,,C
+finlest01,Gold Glove,1995,NL,,OF
+grissma02,Gold Glove,1995,NL,,OF
+mondera01,Gold Glove,1995,NL,,OF
+maddugr01,Gold Glove,1995,NL,,P
+larkiba01,Gold Glove,1995,NL,,SS
+abbotji01,Hutch Award,1995,ML,,
+schilcu01,Lou Gehrig Memorial Award,1995,ML,,
+vaughmo01,Most Valuable Player,1995,AL,,
+larkiba01,Most Valuable Player,1995,NL,,
+devermi01,NLCS MVP,1995,NL,,
+smithoz01,Roberto Clemente Award,1995,ML,,
+mesajo01,Reliever of the Year Award,1995,AL,,
+henketo01,Reliever of the Year Award,1995,NL,,
+cordoma01,Rookie of the Year,1995,AL,,
+nomohi01,Rookie of the Year,1995,NL,,
+vaughmo01,Silver Slugger,1995,AL,,1B
+knoblch01,Silver Slugger,1995,AL,,2B
+gaettga01,Silver Slugger,1995,AL,,3B
+rodriiv01,Silver Slugger,1995,AL,,C
+martied01,Silver Slugger,1995,AL,,DH
+belleal01,Silver Slugger,1995,AL,,OF
+ramirma02,Silver Slugger,1995,AL,,OF
+salmoti01,Silver Slugger,1995,AL,,OF
+valenjo02,Silver Slugger,1995,AL,,SS
+karroer01,Silver Slugger,1995,NL,,1B
+biggicr01,Silver Slugger,1995,NL,,2B
+castivi02,Silver Slugger,1995,NL,,3B
+piazzmi01,Silver Slugger,1995,NL,,C
+bicheda01,Silver Slugger,1995,NL,,OF
+gwynnto01,Silver Slugger,1995,NL,,OF
+sosasa01,Silver Slugger,1995,NL,,OF
+glavito02,Silver Slugger,1995,NL,,P
+larkiba01,Silver Slugger,1995,NL,,SS
+vaughmo01,TSN All-Star,1995,AL,,1B
+baergca01,TSN All-Star,1995,AL,,2B
+thomeji01,TSN All-Star,1995,AL,,3B
+rodriiv01,TSN All-Star,1995,AL,,C
+martied01,TSN All-Star,1995,AL,,DH
+johnsra05,TSN All-Star,1995,AL,,LHP
+belleal01,TSN All-Star,1995,AL,,OF
+edmonji01,TSN All-Star,1995,AL,Y,OF
+ramirma02,TSN All-Star,1995,AL,Y,OF
+salmoti01,TSN All-Star,1995,AL,,OF
+mussimi01,TSN All-Star,1995,AL,,RHP
+ripkeca01,TSN All-Star,1995,AL,,SS
+karroer01,TSN All-Star,1995,NL,,1B
+biggicr01,TSN All-Star,1995,NL,,2B
+castivi02,TSN All-Star,1995,NL,,3B
+piazzmi01,TSN All-Star,1995,NL,,C
+schoupe01,TSN All-Star,1995,NL,,LHP
+bicheda01,TSN All-Star,1995,NL,,OF
+sandere02,TSN All-Star,1995,NL,,OF
+sosasa01,TSN All-Star,1995,NL,,OF
+maddugr01,TSN All-Star,1995,NL,,RHP
+larkiba01,TSN All-Star,1995,NL,,SS
+mesajo01,TSN Fireman of the Year,1995,AL,,
+myersra01,TSN Fireman of the Year,1995,NL,,
+belleal01,TSN Major League Player of the Year,1995,ML,,
+johnsra05,TSN Pitcher of the Year,1995,AL,,
+maddugr01,TSN Pitcher of the Year,1995,NL,,
+glavito02,World Series MVP,1995,ML,,
+wettejo01,Reliever of the Year Award,1996,AL,,
+willibe02,ALCS MVP,1996,AL,,
+piazzmi01,All-Star Game MVP,1996,ML,,
+fieldce01,Babe Ruth Award,1996,AL,,DH
+butlebr01,Branch Rickey Award,1996,ML,,
+hentgpa01,Cy Young Award,1996,AL,,
+smoltjo01,Cy Young Award,1996,NL,,
+snowjt01,Gold Glove,1996,AL,,1B
+alomaro01,Gold Glove,1996,AL,,2B
+venturo01,Gold Glove,1996,AL,,3B
+rodriiv01,Gold Glove,1996,AL,,C
+buhneja01,Gold Glove,1996,AL,,OF
+griffke02,Gold Glove,1996,AL,,OF
+loftoke01,Gold Glove,1996,AL,,OF
+mussimi01,Gold Glove,1996,AL,,P
+vizquom01,Gold Glove,1996,AL,,SS
+gracema01,Gold Glove,1996,NL,,1B
+biggicr01,Gold Glove,1996,NL,,2B
+caminke01,Gold Glove,1996,NL,,3B
+johnsch04,Gold Glove,1996,NL,,C
+bondsba01,Gold Glove,1996,NL,,OF
+finlest01,Gold Glove,1996,NL,,OF
+grissma02,Gold Glove,1996,NL,,OF
+maddugr01,Gold Glove,1996,NL,,P
+larkiba01,Gold Glove,1996,NL,,SS
+vizquom01,Hutch Award,1996,ML,,
+butlebr01,Lou Gehrig Memorial Award,1996,ML,,
+gonzaju03,Most Valuable Player,1996,AL,,
+caminke01,Most Valuable Player,1996,NL,,
+lopezja01,NLCS MVP,1996,NL,,
+puckeki01,Roberto Clemente Award,1996,ML,,
+brantje01,Reliever of the Year Award,1996,NL,,
+jeterde01,Rookie of the Year,1996,AL,,
+hollato01,Rookie of the Year,1996,NL,,
+mcgwima01,Silver Slugger,1996,AL,,1B
+alomaro01,Silver Slugger,1996,AL,,2B
+thomeji01,Silver Slugger,1996,AL,,3B
+rodriiv01,Silver Slugger,1996,AL,,C
+molitpa01,Silver Slugger,1996,AL,,DH
+belleal01,Silver Slugger,1996,AL,,OF
+gonzaju03,Silver Slugger,1996,AL,,OF
+griffke02,Silver Slugger,1996,AL,,OF
+rodrial01,Silver Slugger,1996,AL,,SS
+galaran01,Silver Slugger,1996,NL,,1B
+younger01,Silver Slugger,1996,NL,,2B
+caminke01,Silver Slugger,1996,NL,,3B
+piazzmi01,Silver Slugger,1996,NL,,C
+bondsba01,Silver Slugger,1996,NL,,OF
+burksel01,Silver Slugger,1996,NL,,OF
+sheffga01,Silver Slugger,1996,NL,,OF
+glavito02,Silver Slugger,1996,NL,,P
+larkiba01,Silver Slugger,1996,NL,,SS
+mcgwima01,TSN All-Star,1996,AL,,1B
+alomaro01,TSN All-Star,1996,AL,,2B
+thomeji01,TSN All-Star,1996,AL,,3B
+rodriiv01,TSN All-Star,1996,AL,,C
+molitpa01,TSN All-Star,1996,AL,,DH
+pettian01,TSN All-Star,1996,AL,,LHP
+belleal01,TSN All-Star,1996,AL,,OF
+gonzaju03,TSN All-Star,1996,AL,,OF
+griffke02,TSN All-Star,1996,AL,,OF
+hentgpa01,TSN All-Star,1996,AL,,RHP
+rodrial01,TSN All-Star,1996,AL,,SS
+bagweje01,TSN All-Star,1996,NL,,1B
+younger01,TSN All-Star,1996,NL,,2B
+caminke01,TSN All-Star,1996,NL,,3B
+piazzmi01,TSN All-Star,1996,NL,,C
+leiteal01,TSN All-Star,1996,NL,,LHP
+bondsba01,TSN All-Star,1996,NL,,OF
+burksel01,TSN All-Star,1996,NL,,OF
+sheffga01,TSN All-Star,1996,NL,,OF
+smoltjo01,TSN All-Star,1996,NL,,RHP
+larkiba01,TSN All-Star,1996,NL,,SS
+wettejo01,TSN Fireman of the Year,1996,AL,,
+hoffmtr01,TSN Fireman of the Year,1996,NL,,
+rodrial01,TSN Major League Player of the Year,1996,ML,,
+hentgpa01,TSN Pitcher of the Year,1996,AL,,
+smoltjo01,TSN Pitcher of the Year,1996,NL,,
+wettejo01,World Series MVP,1996,ML,,
+grissma02,ALCS MVP,1997,AL,,
+alomasa02,All-Star Game MVP,1997,ML,,
+aloumo01,Babe Ruth Award,1997,NL,,OF
+biggicr01,Branch Rickey Award,1997,ML,,
+clemero02,Cy Young Award,1997,AL,,
+martipe02,Cy Young Award,1997,NL,,
+palmera01,Gold Glove,1997,AL,,1B
+knoblch01,Gold Glove,1997,AL,,2B
+willima04,Gold Glove,1997,AL,,3B
+rodriiv01,Gold Glove,1997,AL,,C
+edmonji01,Gold Glove,1997,AL,,OF
+griffke02,Gold Glove,1997,AL,,OF
+willibe02,Gold Glove,1997,AL,,OF
+mussimi01,Gold Glove,1997,AL,,P
+vizquom01,Gold Glove,1997,AL,,SS
+snowjt01,Gold Glove,1997,NL,,1B
+biggicr01,Gold Glove,1997,NL,,2B
+caminke01,Gold Glove,1997,NL,,3B
+johnsch04,Gold Glove,1997,NL,,C
+bondsba01,Gold Glove,1997,NL,,OF
+mondera01,Gold Glove,1997,NL,,OF
+walkela01,Gold Glove,1997,NL,,OF
+maddugr01,Gold Glove,1997,NL,,P
+ordonre01,Gold Glove,1997,NL,,SS
+daviser01,Hutch Award,1997,ML,,
+molitpa01,Lou Gehrig Memorial Award,1997,ML,,
+griffke02,Most Valuable Player,1997,AL,,
+walkela01,Most Valuable Player,1997,NL,,
+hernali01,NLCS MVP,1997,NL,,
+clemero02,Pitching Triple Crown,1997,AL,,
+daviser01,Roberto Clemente Award,1997,ML,,
+myersra01,Reliever of the Year Award,1997,AL,,
+shawje01,Reliever of the Year Award,1997,NL,,
+garcino01,Rookie of the Year,1997,AL,,
+rolensc01,Rookie of the Year,1997,NL,,
+martiti02,Silver Slugger,1997,AL,,1B
+knoblch01,Silver Slugger,1997,AL,,2B
+willima04,Silver Slugger,1997,AL,,3B
+rodriiv01,Silver Slugger,1997,AL,,C
+martied01,Silver Slugger,1997,AL,,DH
+gonzaju03,Silver Slugger,1997,AL,,OF
+griffke02,Silver Slugger,1997,AL,,OF
+justida01,Silver Slugger,1997,AL,,OF
+garcino01,Silver Slugger,1997,AL,,SS
+bagweje01,Silver Slugger,1997,NL,,1B
+biggicr01,Silver Slugger,1997,NL,,2B
+castivi02,Silver Slugger,1997,NL,,3B
+piazzmi01,Silver Slugger,1997,NL,,C
+bondsba01,Silver Slugger,1997,NL,,OF
+gwynnto01,Silver Slugger,1997,NL,,OF
+walkela01,Silver Slugger,1997,NL,,OF
+smoltjo01,Silver Slugger,1997,NL,,P
+blausje01,Silver Slugger,1997,NL,,SS
+martiti02,TSN All-Star,1997,AL,,1B
+knoblch01,TSN All-Star,1997,AL,,2B
+willima04,TSN All-Star,1997,AL,,3B
+rodriiv01,TSN All-Star,1997,AL,,C
+martied01,TSN All-Star,1997,AL,,DH
+johnsra05,TSN All-Star,1997,AL,,LHP
+griffke02,TSN All-Star,1997,AL,,OF
+justida01,TSN All-Star,1997,AL,,OF
+salmoti01,TSN All-Star,1997,AL,,OF
+clemero02,TSN All-Star,1997,AL,,RHP
+garcino01,TSN All-Star,1997,AL,,SS
+bagweje01,TSN All-Star,1997,NL,,1B
+biggicr01,TSN All-Star,1997,NL,,2B
+castivi02,TSN All-Star,1997,NL,,3B
+piazzmi01,TSN All-Star,1997,NL,,C
+neaglde01,TSN All-Star,1997,NL,,LHP
+bondsba01,TSN All-Star,1997,NL,,OF
+gwynnto01,TSN All-Star,1997,NL,,OF
+walkela01,TSN All-Star,1997,NL,,OF
+martipe02,TSN All-Star,1997,NL,,RHP
+blausje01,TSN All-Star,1997,NL,,SS
+riverma01,TSN Fireman of the Year,1997,AL,,
+shawje01,TSN Fireman of the Year,1997,NL,,
+griffke02,TSN Major League Player of the Year,1997,ML,,
+clemero02,TSN Pitcher of the Year,1997,AL,,
+martipe02,TSN Pitcher of the Year,1997,NL,,
+hernali01,World Series MVP,1997,ML,,
+wellsda01,ALCS MVP,1998,AL,,
+alomaro01,All-Star Game MVP,1998,ML,,
+brosisc01,Babe Ruth Award,1998,AL,,3B
+molitpa01,Branch Rickey Award,1998,ML,,
+clemero02,Cy Young Award,1998,AL,,
+glavito02,Cy Young Award,1998,NL,,
+palmera01,Gold Glove,1998,AL,,1B
+alomaro01,Gold Glove,1998,AL,,2B
+venturo01,Gold Glove,1998,AL,,3B
+rodriiv01,Gold Glove,1998,AL,,C
+edmonji01,Gold Glove,1998,AL,,OF
+griffke02,Gold Glove,1998,AL,,OF
+willibe02,Gold Glove,1998,AL,,OF
+mussimi01,Gold Glove,1998,AL,,P
+vizquom01,Gold Glove,1998,AL,,SS
+snowjt01,Gold Glove,1998,NL,,1B
+boonebr01,Gold Glove,1998,NL,,2B
+rolensc01,Gold Glove,1998,NL,,3B
+johnsch04,Gold Glove,1998,NL,,C
+bondsba01,Gold Glove,1998,NL,,OF
+jonesan01,Gold Glove,1998,NL,,OF
+walkela01,Gold Glove,1998,NL,,OF
+maddugr01,Gold Glove,1998,NL,,P
+ordonre01,Gold Glove,1998,NL,,SS
+coneda01,Hutch Award,1998,ML,,
+gwynnto01,Lou Gehrig Memorial Award,1998,ML,,
+gonzaju03,Most Valuable Player,1998,AL,,
+sosasa01,Most Valuable Player,1998,NL,,
+hitchst01,NLCS MVP,1998,NL,,
+clemero02,Pitching Triple Crown,1998,AL,,
+sosasa01,Roberto Clemente Award,1998,ML,,
+gordoto01,Reliever of the Year Award,1998,AL,,
+hoffmtr01,Reliever of the Year Award,1998,NL,,
+grievbe01,Rookie of the Year,1998,AL,,
+woodke02,Rookie of the Year,1998,NL,,
+palmera01,Silver Slugger,1998,AL,,1B
+easleda01,Silver Slugger,1998,AL,,2B
+palmede01,Silver Slugger,1998,AL,,3B
+rodriiv01,Silver Slugger,1998,AL,,C
+cansejo01,Silver Slugger,1998,AL,,DH
+belleal01,Silver Slugger,1998,AL,,OF
+gonzaju03,Silver Slugger,1998,AL,,OF
+griffke02,Silver Slugger,1998,AL,,OF
+rodrial01,Silver Slugger,1998,AL,,SS
+mcgwima01,Silver Slugger,1998,NL,,1B
+biggicr01,Silver Slugger,1998,NL,,2B
+castivi02,Silver Slugger,1998,NL,,3B
+piazzmi01,Silver Slugger,1998,NL,,C
+aloumo01,Silver Slugger,1998,NL,,OF
+sosasa01,Silver Slugger,1998,NL,,OF
+vaughgr01,Silver Slugger,1998,NL,,OF
+glavito02,Silver Slugger,1998,NL,,P
+larkiba01,Silver Slugger,1998,NL,,SS
+palmera01,TSN All-Star,1998,AL,,1B
+alomaro01,TSN All-Star,1998,AL,,2B
+brosisc01,TSN All-Star,1998,AL,,3B
+rodriiv01,TSN All-Star,1998,AL,,C
+cansejo01,TSN All-Star,1998,AL,,DH
+wellsda01,TSN All-Star,1998,AL,,LHP
+belleal01,TSN All-Star,1998,AL,,OF
+gonzaju03,TSN All-Star,1998,AL,,OF
+griffke02,TSN All-Star,1998,AL,,OF
+martipe02,TSN All-Star,1998,AL,,RHP
+rodrial01,TSN All-Star,1998,AL,,SS
+mcgwima01,TSN All-Star,1998,NL,,1B
+biggicr01,TSN All-Star,1998,NL,,2B
+castivi02,TSN All-Star,1998,NL,,3B
+piazzmi01,TSN All-Star,1998,NL,,C
+glavito02,TSN All-Star,1998,NL,,LHP
+aloumo01,TSN All-Star,1998,NL,,OF
+sosasa01,TSN All-Star,1998,NL,,OF
+vaughgr01,TSN All-Star,1998,NL,,OF
+brownke01,TSN All-Star,1998,NL,,RHP
+larkiba01,TSN All-Star,1998,NL,,SS
+gordoto01,TSN Fireman of the Year,1998,AL,,
+hoffmtr01,TSN Fireman of the Year,1998,NL,,
+sosasa01,TSN Major League Player of the Year,1998,ML,,
+clemero02,TSN Pitcher of the Year,1998,AL,,
+brownke01,TSN Pitcher of the Year,1998,NL,,
+brosisc01,World Series MVP,1998,ML,,
+hernaor01,ALCS MVP,1999,AL,,
+martipe02,All-Star Game MVP,1999,ML,,
+riverma01,Babe Ruth Award,1999,AL,,RP
+leiteal01,Branch Rickey Award,1999,ML,,
+martipe02,Cy Young Award,1999,AL,,
+johnsra05,Cy Young Award,1999,NL,,
+palmera01,Gold Glove,1999,AL,,1B
+alomaro01,Gold Glove,1999,AL,,2B
+brosisc01,Gold Glove,1999,AL,,3B
+rodriiv01,Gold Glove,1999,AL,,C
+greensh01,Gold Glove,1999,AL,,OF
+griffke02,Gold Glove,1999,AL,,OF
+willibe02,Gold Glove,1999,AL,,OF
+mussimi01,Gold Glove,1999,AL,,P
+vizquom01,Gold Glove,1999,AL,,SS
+snowjt01,Gold Glove,1999,NL,,1B
+reesepo01,Gold Glove,1999,NL,,2B
+venturo01,Gold Glove,1999,NL,,3B
+liebemi01,Gold Glove,1999,NL,,C
+finlest01,Gold Glove,1999,NL,,OF
+jonesan01,Gold Glove,1999,NL,,OF
+walkela01,Gold Glove,1999,NL,,OF
+maddugr01,Gold Glove,1999,NL,,P
+ordonre01,Gold Glove,1999,NL,,SS
+ramirma02,Hank Aaron Award,1999,AL,,OF
+sosasa01,Hank Aaron Award,1999,NL,,OF
+caseyse01,Hutch Award,1999,ML,,
+mcgwima01,Lou Gehrig Memorial Award,1999,ML,,
+rodriiv01,Most Valuable Player,1999,AL,,
+jonesch06,Most Valuable Player,1999,NL,,
+perezed02,NLCS MVP,1999,NL,,
+martipe02,Pitching Triple Crown,1999,AL,,
+gwynnto01,Roberto Clemente Award,1999,ML,,
+riverma01,Reliever of the Year Award,1999,AL,,
+wagnebi02,Reliever of the Year Award,1999,NL,,
+beltrca01,Rookie of the Year,1999,AL,,
+willisc01,Rookie of the Year,1999,NL,,
+delgaca01,Silver Slugger,1999,AL,,1B
+alomaro01,Silver Slugger,1999,AL,,2B
+palmede01,Silver Slugger,1999,AL,,3B
+rodriiv01,Silver Slugger,1999,AL,,C
+palmera01,Silver Slugger,1999,AL,,DH
+greensh01,Silver Slugger,1999,AL,,OF
+griffke02,Silver Slugger,1999,AL,,OF
+ramirma02,Silver Slugger,1999,AL,,OF
+rodrial01,Silver Slugger,1999,AL,,SS
+bagweje01,Silver Slugger,1999,NL,,1B
+alfoned01,Silver Slugger,1999,NL,,2B
+jonesch06,Silver Slugger,1999,NL,,3B
+piazzmi01,Silver Slugger,1999,NL,,C
+guerrvl01,Silver Slugger,1999,NL,,OF
+sosasa01,Silver Slugger,1999,NL,,OF
+walkela01,Silver Slugger,1999,NL,,OF
+hamptmi01,Silver Slugger,1999,NL,,P
+larkiba01,Silver Slugger,1999,NL,,SS
+palmera01,TSN All-Star,1999,AL,,1B
+alomaro01,TSN All-Star,1999,AL,,2B
+palmede01,TSN All-Star,1999,AL,,3B
+rodriiv01,TSN All-Star,1999,AL,,C
+moyerja01,TSN All-Star,1999,AL,,LHP
+greensh01,TSN All-Star,1999,AL,,OF
+griffke02,TSN All-Star,1999,AL,,OF
+ramirma02,TSN All-Star,1999,AL,,OF
+martipe02,TSN All-Star,1999,AL,,RHP
+garcino01,TSN All-Star,1999,AL,,SS
+bagweje01,TSN All-Star,1999,NL,,1B
+alfoned01,TSN All-Star,1999,NL,,2B
+jonesch06,TSN All-Star,1999,NL,,3B
+piazzmi01,TSN All-Star,1999,NL,,C
+hamptmi01,TSN All-Star,1999,NL,,LHP
+guerrvl01,TSN All-Star,1999,NL,,OF
+sosasa01,TSN All-Star,1999,NL,,OF
+walkela01,TSN All-Star,1999,NL,,OF
+limajo01,TSN All-Star,1999,NL,,RHP
+larkiba01,TSN All-Star,1999,NL,,SS
+riverma01,TSN Fireman of the Year,1999,AL,,
+urbinug01,TSN Fireman of the Year,1999,NL,,
+palmera01,TSN Major League Player of the Year,1999,ML,,
+martipe02,TSN Pitcher of the Year,1999,AL,,
+hamptmi01,TSN Pitcher of the Year,1999,NL,,
+riverma01,World Series MVP,1999,ML,,
+justida01,ALCS MVP,2000,AL,,
+jeterde01,All-Star Game MVP,2000,ML,,
+jeterde01,Babe Ruth Award,2000,AL,,SS
+stottto01,Branch Rickey Award,2000,ML,,
+martipe02,Cy Young Award,2000,AL,,
+johnsra05,Cy Young Award,2000,NL,,
+olerujo01,Gold Glove,2000,AL,,1B
+alomaro01,Gold Glove,2000,AL,,2B
+frymatr01,Gold Glove,2000,AL,,3B
+rodriiv01,Gold Glove,2000,AL,,C
+dyeje01,Gold Glove,2000,AL,,OF
+erstada01,Gold Glove,2000,AL,,OF
+willibe02,Gold Glove,2000,AL,,OF
+rogerke01,Gold Glove,2000,AL,,P
+vizquom01,Gold Glove,2000,AL,,SS
+snowjt01,Gold Glove,2000,NL,,1B
+reesepo01,Gold Glove,2000,NL,,2B
+rolensc01,Gold Glove,2000,NL,,3B
+mathemi01,Gold Glove,2000,NL,,C
+edmonji01,Gold Glove,2000,NL,,OF
+finlest01,Gold Glove,2000,NL,,OF
+jonesan01,Gold Glove,2000,NL,,OF
+maddugr01,Gold Glove,2000,NL,,P
+perezne01,Gold Glove,2000,NL,,SS
+delgaca01,Hank Aaron Award,2000,AL,,1B
+heltoto01,Hank Aaron Award,2000,NL,,1B
+giambja01,Hutch Award,2000,ML,,
+stottto01,Lou Gehrig Memorial Award,2000,ML,,
+giambja01,Most Valuable Player,2000,AL,,
+kentje01,Most Valuable Player,2000,NL,,
+hamptmi01,NLCS MVP,2000,NL,,
+leiteal01,Roberto Clemente Award,2000,ML,,
+jonesto02,Reliever of the Year Award,2000,AL,,
+alfonan01,Reliever of the Year Award,2000,NL,,
+sasakka01,Rookie of the Year,2000,AL,,
+furcara01,Rookie of the Year,2000,NL,,
+delgaca01,Silver Slugger,2000,AL,,1B
+alomaro01,Silver Slugger,2000,AL,,2B
+glaustr01,Silver Slugger,2000,AL,,3B
+posadjo01,Silver Slugger,2000,AL,,C
+thomafr04,Silver Slugger,2000,AL,,DH
+erstada01,Silver Slugger,2000,AL,,OF
+ordonma01,Silver Slugger,2000,AL,,OF
+ramirma02,Silver Slugger,2000,AL,,OF
+rodrial01,Silver Slugger,2000,AL,,SS
+heltoto01,Silver Slugger,2000,NL,,1B
+kentje01,Silver Slugger,2000,NL,,2B
+jonesch06,Silver Slugger,2000,NL,,3B
+piazzmi01,Silver Slugger,2000,NL,,C
+bondsba01,Silver Slugger,2000,NL,,OF
+guerrvl01,Silver Slugger,2000,NL,,OF
+sosasa01,Silver Slugger,2000,NL,,OF
+hamptmi01,Silver Slugger,2000,NL,,P
+renteed01,Silver Slugger,2000,NL,,SS
+delgaca01,TSN All-Star,2000,AL,,1B
+alomaro01,TSN All-Star,2000,AL,,2B
+frymatr01,TSN All-Star,2000,AL,,3B
+posadjo01,TSN All-Star,2000,AL,,C
+wellsda01,TSN All-Star,2000,AL,,LHP
+erstada01,TSN All-Star,2000,AL,,OF
+ordonma01,TSN All-Star,2000,AL,,OF
+willibe02,TSN All-Star,2000,AL,,OF
+martipe02,TSN All-Star,2000,AL,,RHP
+rodrial01,TSN All-Star,2000,AL,,SS
+heltoto01,TSN All-Star,2000,NL,,1B
+kentje01,TSN All-Star,2000,NL,,2B
+jonesch06,TSN All-Star,2000,NL,,3B
+piazzmi01,TSN All-Star,2000,NL,,C
+glavito02,TSN All-Star,2000,NL,,LHP
+bondsba01,TSN All-Star,2000,NL,,OF
+guerrvl01,TSN All-Star,2000,NL,,OF
+sosasa01,TSN All-Star,2000,NL,,OF
+maddugr01,TSN All-Star,2000,NL,,RHP
+renteed01,TSN All-Star,2000,NL,,SS
+jonesto02,TSN Fireman of the Year,2000,AL,,
+alfonan01,TSN Fireman of the Year,2000,NL,,
+delgaca01,TSN Major League Player of the Year,2000,ML,,
+martipe02,TSN Pitcher of the Year,2000,AL,,
+glavito02,TSN Pitcher of the Year,2000,NL,,
+jeterde01,World Series MVP,2000,ML,,
+pettian01,ALCS MVP,2001,AL,,
+ripkeca01,All-Star Game MVP,2001,ML,,
+johnsra05,Babe Ruth Award,2001,NL,Y,P
+schilcu01,Babe Ruth Award,2001,NL,Y,P
+schilcu01,Branch Rickey Award,2001,ML,,
+clemero02,Cy Young Award,2001,AL,,
+johnsra05,Cy Young Award,2001,NL,,
+mientdo01,Gold Glove,2001,AL,,1B
+alomaro01,Gold Glove,2001,AL,,2B
+chaveer01,Gold Glove,2001,AL,,3B
+rodriiv01,Gold Glove,2001,AL,,C
+camermi01,Gold Glove,2001,AL,,OF
+hunteto01,Gold Glove,2001,AL,,OF
+suzukic01,Gold Glove,2001,AL,,OF
+mussimi01,Gold Glove,2001,AL,,P
+vizquom01,Gold Glove,2001,AL,,SS
+heltoto01,Gold Glove,2001,NL,,1B
+vinafe01,Gold Glove,2001,NL,,2B
+rolensc01,Gold Glove,2001,NL,,3B
+ausmubr01,Gold Glove,2001,NL,,C
+edmonji01,Gold Glove,2001,NL,,OF
+jonesan01,Gold Glove,2001,NL,,OF
+walkela01,Gold Glove,2001,NL,,OF
+maddugr01,Gold Glove,2001,NL,,P
+cabreor01,Gold Glove,2001,NL,,SS
+rodrial01,Hank Aaron Award,2001,AL,,SS
+bondsba01,Hank Aaron Award,2001,NL,,OF
+schilcu01,Hutch Award,2001,ML,,
+francjo01,Lou Gehrig Memorial Award,2001,ML,,
+suzukic01,Most Valuable Player,2001,AL,,
+bondsba01,Most Valuable Player,2001,NL,,
+counscr01,NLCS MVP,2001,NL,,
+schilcu01,Roberto Clemente Award,2001,ML,,
+riverma01,Reliever of the Year Award,2001,AL,,
+benitar01,Reliever of the Year Award,2001,NL,,
+suzukic01,Rookie of the Year,2001,AL,,
+pujolal01,Rookie of the Year,2001,NL,,
+giambja01,Silver Slugger,2001,AL,,1B
+boonebr01,Silver Slugger,2001,AL,,2B
+glaustr01,Silver Slugger,2001,AL,,3B
+posadjo01,Silver Slugger,2001,AL,,C
+martied01,Silver Slugger,2001,AL,,DH
+gonzaju03,Silver Slugger,2001,AL,,OF
+ramirma02,Silver Slugger,2001,AL,,OF
+suzukic01,Silver Slugger,2001,AL,,OF
+rodrial01,Silver Slugger,2001,AL,,SS
+heltoto01,Silver Slugger,2001,NL,,1B
+kentje01,Silver Slugger,2001,NL,,2B
+pujolal01,Silver Slugger,2001,NL,,3B
+piazzmi01,Silver Slugger,2001,NL,,C
+bondsba01,Silver Slugger,2001,NL,,OF
+gonzalu01,Silver Slugger,2001,NL,,OF
+sosasa01,Silver Slugger,2001,NL,,OF
+hamptmi01,Silver Slugger,2001,NL,,P
+aurilri01,Silver Slugger,2001,NL,,SS
+thomeji01,TSN All-Star,2001,AL,,1B
+boonebr01,TSN All-Star,2001,AL,,2B
+glaustr01,TSN All-Star,2001,AL,,3B
+posadjo01,TSN All-Star,2001,AL,,C
+martied01,TSN All-Star,2001,AL,,DH
+muldema01,TSN All-Star,2001,AL,,LHP
+gonzaju03,TSN All-Star,2001,AL,,OF
+ramirma02,TSN All-Star,2001,AL,,OF
+suzukic01,TSN All-Star,2001,AL,,OF
+clemero02,TSN All-Star,2001,AL,,RHP
+rodrial01,TSN All-Star,2001,AL,,SS
+heltoto01,TSN All-Star,2001,NL,,1B
+biggicr01,TSN All-Star,2001,NL,,2B
+jonesch06,TSN All-Star,2001,NL,,3B
+piazzmi01,TSN All-Star,2001,NL,,C
+johnsra05,TSN All-Star,2001,NL,,LHP
+bondsba01,TSN All-Star,2001,NL,,OF
+gonzalu01,TSN All-Star,2001,NL,,OF
+sosasa01,TSN All-Star,2001,NL,,OF
+schilcu01,TSN All-Star,2001,NL,,RHP
+aurilri01,TSN All-Star,2001,NL,,SS
+bondsba01,TSN Major League Player of the Year,2001,ML,,
+clemero02,TSN Pitcher of the Year,2001,AL,,
+schilcu01,TSN Pitcher of the Year,2001,NL,,
+riverma01,TSN Reliever of the Year,2001,AL,,
+benitar01,TSN Reliever of the Year,2001,NL,Y,
+nenro01,TSN Reliever of the Year,2001,NL,Y,
+johnsra05,World Series MVP,2001,ML,Y,
+schilcu01,World Series MVP,2001,ML,Y,
+kennead01,ALCS MVP,2002,AL,,
+glaustr01,Babe Ruth Award,2002,AL,,3B
+valenbo02,Branch Rickey Award,2002,ML,,
+zitoba01,Cy Young Award,2002,AL,,
+johnsra05,Cy Young Award,2002,NL,,
+olerujo01,Gold Glove,2002,AL,,1B
+boonebr01,Gold Glove,2002,AL,,2B
+chaveer01,Gold Glove,2002,AL,,3B
+molinbe01,Gold Glove,2002,AL,,C
+erstada01,Gold Glove,2002,AL,,OF
+hunteto01,Gold Glove,2002,AL,,OF
+suzukic01,Gold Glove,2002,AL,,OF
+rogerke01,Gold Glove,2002,AL,,P
+rodrial01,Gold Glove,2002,AL,,SS
+heltoto01,Gold Glove,2002,NL,,1B
+vinafe01,Gold Glove,2002,NL,,2B
+rolensc01,Gold Glove,2002,NL,,3B
+ausmubr01,Gold Glove,2002,NL,,C
+edmonji01,Gold Glove,2002,NL,,OF
+jonesan01,Gold Glove,2002,NL,,OF
+walkela01,Gold Glove,2002,NL,,OF
+maddugr01,Gold Glove,2002,NL,,P
+renteed01,Gold Glove,2002,NL,,SS
+rodrial01,Hank Aaron Award,2002,AL,,SS
+bondsba01,Hank Aaron Award,2002,NL,,OF
+salmoti01,Hutch Award,2002,ML,,
+graveda01,Lou Gehrig Memorial Award,2002,ML,,
+tejadmi01,Most Valuable Player,2002,AL,,
+bondsba01,Most Valuable Player,2002,NL,,
+santibe01,NLCS MVP,2002,NL,,
+johnsra05,Pitching Triple Crown,2002,NL,,
+thomeji01,Roberto Clemente Award,2002,ML,,
+kochbi01,Reliever of the Year Award,2002,AL,,
+smoltjo01,Reliever of the Year Award,2002,NL,,
+hinsker01,Rookie of the Year,2002,AL,,
+jennija01,Rookie of the Year,2002,NL,,
+giambja01,Silver Slugger,2002,AL,,1B
+soriaal01,Silver Slugger,2002,AL,,2B
+chaveer01,Silver Slugger,2002,AL,,3B
+posadjo01,Silver Slugger,2002,AL,,C
+ramirma02,Silver Slugger,2002,AL,,DH
+anderga01,Silver Slugger,2002,AL,,OF
+ordonma01,Silver Slugger,2002,AL,,OF
+willibe02,Silver Slugger,2002,AL,,OF
+rodrial01,Silver Slugger,2002,AL,,SS
+heltoto01,Silver Slugger,2002,NL,,1B
+kentje01,Silver Slugger,2002,NL,,2B
+rolensc01,Silver Slugger,2002,NL,,3B
+piazzmi01,Silver Slugger,2002,NL,,C
+bondsba01,Silver Slugger,2002,NL,,OF
+guerrvl01,Silver Slugger,2002,NL,,OF
+sosasa01,Silver Slugger,2002,NL,,OF
+hamptmi01,Silver Slugger,2002,NL,,P
+renteed01,Silver Slugger,2002,NL,,SS
+giambja01,TSN All-Star,2002,AL,,1B
+soriaal01,TSN All-Star,2002,AL,,2B
+chaveer01,TSN All-Star,2002,AL,,3B
+posadjo01,TSN All-Star,2002,AL,,C
+ramirma02,TSN All-Star,2002,AL,,DH
+zitoba01,TSN All-Star,2002,AL,,LHP
+anderga01,TSN All-Star,2002,AL,,OF
+hunteto01,TSN All-Star,2002,AL,,OF
+willibe02,TSN All-Star,2002,AL,,OF
+lowede01,TSN All-Star,2002,AL,,RHP
+rodrial01,TSN All-Star,2002,AL,,SS
+heltoto01,TSN All-Star,2002,NL,,1B
+kentje01,TSN All-Star,2002,NL,,2B
+rolensc01,TSN All-Star,2002,NL,,3B
+piazzmi01,TSN All-Star,2002,NL,,C
+johnsra05,TSN All-Star,2002,NL,,LHP
+bondsba01,TSN All-Star,2002,NL,,OF
+guerrvl01,TSN All-Star,2002,NL,,OF
+sosasa01,TSN All-Star,2002,NL,,OF
+schilcu01,TSN All-Star,2002,NL,,RHP
+renteed01,TSN All-Star,2002,NL,,SS
+rodrial01,TSN Major League Player of the Year,2002,ML,,
+zitoba01,TSN Pitcher of the Year,2002,AL,,
+schilcu01,TSN Pitcher of the Year,2002,NL,,
+kochbi01,TSN Reliever of the Year,2002,AL,,
+smoltjo01,TSN Reliever of the Year,2002,NL,,
+glaustr01,World Series MVP,2002,ML,,
+riverma01,ALCS MVP,2003,AL,,
+anderga01,All-Star Game MVP,2003,ML,,
+beckejo02,Babe Ruth Award,2003,NL,,P
+hemonro99,Branch Rickey Award,2003,ML,,
+hallaro01,Cy Young Award,2003,AL,,
+gagneer01,Cy Young Award,2003,NL,,
+olerujo01,Gold Glove,2003,AL,,1B
+boonebr01,Gold Glove,2003,AL,,2B
+chaveer01,Gold Glove,2003,AL,,3B
+molinbe01,Gold Glove,2003,AL,,C
+camermi01,Gold Glove,2003,AL,,OF
+hunteto01,Gold Glove,2003,AL,,OF
+suzukic01,Gold Glove,2003,AL,,OF
+mussimi01,Gold Glove,2003,AL,,P
+rodrial01,Gold Glove,2003,AL,,SS
+leede02,Gold Glove,2003,NL,,1B
+castilu01,Gold Glove,2003,NL,,2B
+rolensc01,Gold Glove,2003,NL,,3B
+mathemi01,Gold Glove,2003,NL,,C
+cruzjo02,Gold Glove,2003,NL,,OF
+edmonji01,Gold Glove,2003,NL,,OF
+jonesan01,Gold Glove,2003,NL,,OF
+hamptmi01,Gold Glove,2003,NL,,P
+renteed01,Gold Glove,2003,NL,,SS
+rodrial01,Hank Aaron Award,2003,AL,,
+pujolal01,Hank Aaron Award,2003,NL,,
+moyerja01,Hutch Award,2003,ML,,
+moyerja01,Lou Gehrig Memorial Award,2003,ML,,
+rodrial01,Most Valuable Player,2003,AL,,
+bondsba01,Most Valuable Player,2003,NL,,
+rodriiv01,NLCS MVP,2003,NL,,
+moyerja01,Roberto Clemente Award,2003,ML,,
+foulkke01,Reliever of the Year Award,2003,AL,,
+gagneer01,Reliever of the Year Award,2003,NL,,
+berroan01,Rookie of the Year,2003,AL,,
+willido03,Rookie of the Year,2003,NL,,
+delgaca01,Silver Slugger,2003,AL,,1B
+boonebr01,Silver Slugger,2003,AL,,2B
+muellbi02,Silver Slugger,2003,AL,,3B
+posadjo01,Silver Slugger,2003,AL,,C
+martied01,Silver Slugger,2003,AL,,DH
+anderga01,Silver Slugger,2003,AL,,OF
+ramirma02,Silver Slugger,2003,AL,,OF
+wellsve01,Silver Slugger,2003,AL,,OF
+rodrial01,Silver Slugger,2003,AL,,SS
+heltoto01,Silver Slugger,2003,NL,,1B
+vidrojo01,Silver Slugger,2003,NL,,2B
+lowelmi01,Silver Slugger,2003,NL,,3B
+lopezja01,Silver Slugger,2003,NL,,C
+bondsba01,Silver Slugger,2003,NL,,OF
+pujolal01,Silver Slugger,2003,NL,,OF
+sheffga01,Silver Slugger,2003,NL,,OF
+hamptmi01,Silver Slugger,2003,NL,,P
+renteed01,Silver Slugger,2003,NL,,SS
+delgaca01,TSN All-Star,2003,AL,,1B
+boonebr01,TSN All-Star,2003,AL,,2B
+muellbi02,TSN All-Star,2003,AL,,3B
+posadjo01,TSN All-Star,2003,AL,,C
+thomafr04,TSN All-Star,2003,AL,,DH
+pettian01,TSN All-Star,2003,AL,,LHP
+anderga01,TSN All-Star,2003,AL,,OF
+ordonma01,TSN All-Star,2003,AL,,OF
+wellsve01,TSN All-Star,2003,AL,,OF
+hallaro01,TSN All-Star,2003,AL,,RHP
+rodrial01,TSN All-Star,2003,AL,,SS
+heltoto01,TSN All-Star,2003,NL,,1B
+gilesma01,TSN All-Star,2003,NL,,2B
+rolensc01,TSN All-Star,2003,NL,,3B
+lopezja01,TSN All-Star,2003,NL,,C
+wolfra02,TSN All-Star,2003,NL,,LHP
+bondsba01,TSN All-Star,2003,NL,,OF
+pujolal01,TSN All-Star,2003,NL,,OF
+sheffga01,TSN All-Star,2003,NL,,OF
+gagneer01,TSN All-Star,2003,NL,,RHP
+renteed01,TSN All-Star,2003,NL,,SS
+pujolal01,TSN Major League Player of the Year,2003,ML,,
+hallaro01,TSN Pitcher of the Year,2003,AL,,
+gagneer01,TSN Pitcher of the Year,2003,NL,,
+foulkke01,TSN Reliever of the Year,2003,AL,,
+gagneer01,TSN Reliever of the Year,2003,NL,,
+beckejo02,World Series MVP,2003,ML,,
+riverma01,Reliever of the Year Award,2004,AL,,
+ortizda01,ALCS MVP,2004,AL,,
+soriaal01,All-Star Game MVP,2004,ML,,
+foulkke01,Babe Ruth Award,2004,AL,,P
+moyerja01,Branch Rickey Award,2004,ML,,
+santajo01,Cy Young Award,2004,AL,,
+clemero02,Cy Young Award,2004,NL,,
+erstada01,Gold Glove,2004,AL,,1B
+boonebr01,Gold Glove,2004,AL,,2B
+chaveer01,Gold Glove,2004,AL,,3B
+rodriiv01,Gold Glove,2004,AL,,C
+hunteto01,Gold Glove,2004,AL,,OF
+suzukic01,Gold Glove,2004,AL,,OF
+wellsve01,Gold Glove,2004,AL,,OF
+rogerke01,Gold Glove,2004,AL,,P
+jeterde01,Gold Glove,2004,AL,,SS
+heltoto01,Gold Glove,2004,NL,,1B
+castilu01,Gold Glove,2004,NL,,2B
+rolensc01,Gold Glove,2004,NL,,3B
+mathemi01,Gold Glove,2004,NL,,C
+edmonji01,Gold Glove,2004,NL,,OF
+finlest01,Gold Glove,2004,NL,,OF
+jonesan01,Gold Glove,2004,NL,,OF
+maddugr01,Gold Glove,2004,NL,,P
+izturce01,Gold Glove,2004,NL,,SS
+ramirma02,Hank Aaron Award,2004,AL,,
+bondsba01,Hank Aaron Award,2004,NL,,
+hoffmtr01,Hutch Award,2004,ML,,
+thomeji01,Lou Gehrig Memorial Award,2004,ML,,
+guerrvl01,Most Valuable Player,2004,AL,,
+bondsba01,Most Valuable Player,2004,NL,,
+pujolal01,NLCS MVP,2004,NL,,
+martied01,Roberto Clemente Award,2004,ML,,
+gagneer01,Reliever of the Year Award,2004,NL,,
+crosbbo01,Rookie of the Year,2004,AL,,
+bayja01,Rookie of the Year,2004,NL,,
+teixema01,Silver Slugger,2004,AL,,1B
+soriaal01,Silver Slugger,2004,AL,,2B
+morame01,Silver Slugger,2004,AL,,3B
+martivi01,Silver Slugger,2004,AL,Y,C
+rodriiv01,Silver Slugger,2004,AL,Y,C
+ortizda01,Silver Slugger,2004,AL,,DH
+guerrvl01,Silver Slugger,2004,AL,,OF
+ramirma02,Silver Slugger,2004,AL,,OF
+sheffga01,Silver Slugger,2004,AL,,OF
+tejadmi01,Silver Slugger,2004,AL,,SS
+pujolal01,Silver Slugger,2004,NL,,1B
+loretma01,Silver Slugger,2004,NL,,2B
+beltrad01,Silver Slugger,2004,NL,,3B
+estrajo01,Silver Slugger,2004,NL,,C
+abreubo01,Silver Slugger,2004,NL,,OF
+bondsba01,Silver Slugger,2004,NL,,OF
+edmonji01,Silver Slugger,2004,NL,,OF
+hernali01,Silver Slugger,2004,NL,,P
+wilsoja02,Silver Slugger,2004,NL,,SS
+konerpa01,TSN All-Star,2004,AL,,1B
+soriaal01,TSN All-Star,2004,AL,,2B
+morame01,TSN All-Star,2004,AL,,3B
+rodriiv01,TSN All-Star,2004,AL,,C
+ortizda01,TSN All-Star,2004,AL,,DH
+guerrvl01,TSN All-Star,2004,AL,,OF
+ramirma02,TSN All-Star,2004,AL,,OF
+suzukic01,TSN All-Star,2004,AL,,OF
+santajo01,TSN All-Star,2004,AL,,P
+tejadmi01,TSN All-Star,2004,AL,,SS
+pujolal01,TSN All-Star,2004,NL,,1B
+loretma01,TSN All-Star,2004,NL,,2B
+rolensc01,TSN All-Star,2004,NL,,3B
+estrajo01,TSN All-Star,2004,NL,,C
+bondsba01,TSN All-Star,2004,NL,,OF
+drewjd01,TSN All-Star,2004,NL,,OF
+edmonji01,TSN All-Star,2004,NL,,OF
+schmija01,TSN All-Star,2004,NL,,P
+renteed01,TSN All-Star,2004,NL,,SS
+bondsba01,TSN Major League Player of the Year,2004,ML,,
+santajo01,TSN Pitcher of the Year,2004,AL,,
+schmija01,TSN Pitcher of the Year,2004,NL,,
+nathajo01,TSN Reliever of the Year,2004,AL,Y,
+riverma01,TSN Reliever of the Year,2004,AL,Y,
+ramirma02,World Series MVP,2004,ML,,
+konerpa01,ALCS MVP,2005,AL,,
+tejadmi01,All-Star Game MVP,2005,ML,,
+dyeje01,Babe Ruth Award,2005,AL,,OF
+gonzalu01,Branch Rickey Award,2005,ML,,
+giambja01,Comeback Player of the Year,2005,AL,,
+griffke02,Comeback Player of the Year,2005,NL,,
+colonba01,Cy Young Award,2005,AL,,
+carpech01,Cy Young Award,2005,NL,,
+teixema01,Gold Glove,2005,AL,,1B
+hudsoor01,Gold Glove,2005,AL,,2B
+chaveer01,Gold Glove,2005,AL,,3B
+varitja01,Gold Glove,2005,AL,,C
+hunteto01,Gold Glove,2005,AL,,OF
+suzukic01,Gold Glove,2005,AL,,OF
+wellsve01,Gold Glove,2005,AL,,OF
+rogerke01,Gold Glove,2005,AL,,P
+jeterde01,Gold Glove,2005,AL,,SS
+leede02,Gold Glove,2005,NL,,1B
+castilu01,Gold Glove,2005,NL,,2B
+lowelmi01,Gold Glove,2005,NL,,3B
+mathemi01,Gold Glove,2005,NL,,C
+abreubo01,Gold Glove,2005,NL,,OF
+edmonji01,Gold Glove,2005,NL,,OF
+jonesan01,Gold Glove,2005,NL,,OF
+maddugr01,Gold Glove,2005,NL,,P
+vizquom01,Gold Glove,2005,NL,,SS
+ortizda01,Hank Aaron Award,2005,AL,,
+jonesan01,Hank Aaron Award,2005,NL,,
+biggicr01,Hutch Award,2005,ML,,
+smoltjo01,Lou Gehrig Memorial Award,2005,ML,,
+rodrial01,Most Valuable Player,2005,AL,,
+pujolal01,Most Valuable Player,2005,NL,,
+oswalro01,NLCS MVP,2005,NL,,
+smoltjo01,Roberto Clemente Award,2005,ML,,
+riverma01,Reliever of the Year Award,2005,AL,,
+cordech01,Reliever of the Year Award,2005,NL,,
+streehu01,Rookie of the Year,2005,AL,,
+howarry01,Rookie of the Year,2005,NL,,
+teixema01,Silver Slugger,2005,AL,,1B
+soriaal01,Silver Slugger,2005,AL,,2B
+rodrial01,Silver Slugger,2005,AL,,3B
+varitja01,Silver Slugger,2005,AL,,C
+ortizda01,Silver Slugger,2005,AL,,DH
+guerrvl01,Silver Slugger,2005,AL,,OF
+ramirma02,Silver Slugger,2005,AL,,OF
+sheffga01,Silver Slugger,2005,AL,,OF
+tejadmi01,Silver Slugger,2005,AL,,SS
+leede02,Silver Slugger,2005,NL,,1B
+kentje01,Silver Slugger,2005,NL,,2B
+ensbemo01,Silver Slugger,2005,NL,,3B
+barremi01,Silver Slugger,2005,NL,,C
+cabremi01,Silver Slugger,2005,NL,,OF
+jonesan01,Silver Slugger,2005,NL,,OF
+leeca01,Silver Slugger,2005,NL,,OF
+marquja01,Silver Slugger,2005,NL,,P
+lopezfe01,Silver Slugger,2005,NL,,SS
+teixema01,TSN All-Star,2005,AL,,1B
+roberbr01,TSN All-Star,2005,AL,,2B
+rodrial01,TSN All-Star,2005,AL,,3B
+varitja01,TSN All-Star,2005,AL,,C
+ortizda01,TSN All-Star,2005,AL,,DH
+damonjo01,TSN All-Star,2005,AL,,OF
+guerrvl01,TSN All-Star,2005,AL,,OF
+ramirma02,TSN All-Star,2005,AL,,OF
+nathajo01,TSN All-Star,2005,AL,Y,RP
+riverma01,TSN All-Star,2005,AL,Y,RP
+youngmi02,TSN All-Star,2005,AL,,SS
+pujolal01,TSN All-Star,2005,NL,,1B
+kentje01,TSN All-Star,2005,NL,,2B
+ensbemo01,TSN All-Star,2005,NL,,3B
+loducpa01,TSN All-Star,2005,NL,,C
+cabremi01,TSN All-Star,2005,NL,,OF
+griffke02,TSN All-Star,2005,NL,,OF
+jonesan01,TSN All-Star,2005,NL,,OF
+cordech01,TSN All-Star,2005,NL,,RP
+lopezfe01,TSN All-Star,2005,NL,,SS
+jonesan01,TSN Major League Player of the Year,2005,ML,,
+colonba01,TSN Pitcher of the Year,2005,AL,,
+carpech01,TSN Pitcher of the Year,2005,NL,,
+cordech01,TSN Reliever of the Year,2005,NL,,
+dyeje01,World Series MVP,2005,ML,,
+polanpl01,ALCS MVP,2006,AL,,
+youngmi02,All-Star Game MVP,2006,ML,,
+eckstda01,Babe Ruth Award,2006,AL,,SS
+lasorto01,Branch Rickey Award,2006,ML,,
+johnsji04,Comeback Player of the Year,2006,AL,,
+garcino01,Comeback Player of the Year,2006,NL,,
+santajo01,Cy Young Award,2006,AL,,
+webbbr01,Cy Young Award,2006,NL,,
+teixema01,Gold Glove,2006,AL,,1B
+grudzma01,Gold Glove,2006,AL,,2B
+chaveer01,Gold Glove,2006,AL,,3B
+rodriiv01,Gold Glove,2006,AL,,C
+hunteto01,Gold Glove,2006,AL,,OF
+suzukic01,Gold Glove,2006,AL,,OF
+wellsve01,Gold Glove,2006,AL,,OF
+rogerke01,Gold Glove,2006,AL,,P
+jeterde01,Gold Glove,2006,AL,,SS
+pujolal01,Gold Glove,2006,NL,,1B
+hudsoor01,Gold Glove,2006,NL,,2B
+rolensc01,Gold Glove,2006,NL,,3B
+ausmubr01,Gold Glove,2006,NL,,C
+beltrca01,Gold Glove,2006,NL,,OF
+camermi01,Gold Glove,2006,NL,,OF
+jonesan01,Gold Glove,2006,NL,,OF
+maddugr01,Gold Glove,2006,NL,,P
+vizquom01,Gold Glove,2006,NL,,SS
+jeterde01,Hank Aaron Award,2006,AL,,
+howarry01,Hank Aaron Award,2006,NL,,
+loretma01,Hutch Award,2006,ML,,
+hoffmtr01,Lou Gehrig Memorial Award,2006,ML,,
+morneju01,Most Valuable Player,2006,AL,,
+howarry01,Most Valuable Player,2006,NL,,
+suppaje01,NLCS MVP,2006,NL,,
+santajo01,Pitching Triple Crown,2006,AL,,
+delgaca01,Roberto Clemente Award,2006,ML,,
+rodrifr03,Reliever of the Year Award,2006,AL,,
+hoffmtr01,Reliever of the Year Award,2006,NL,,
+verlaju01,Rookie of the Year,2006,AL,,
+ramirha01,Rookie of the Year,2006,NL,,
+morneju01,Silver Slugger,2006,AL,,1B
+canoro01,Silver Slugger,2006,AL,,2B
+credejo01,Silver Slugger,2006,AL,,3B
+mauerjo01,Silver Slugger,2006,AL,,C
+ortizda01,Silver Slugger,2006,AL,,DH
+dyeje01,Silver Slugger,2006,AL,,OF
+guerrvl01,Silver Slugger,2006,AL,,OF
+ramirma02,Silver Slugger,2006,AL,,OF
+jeterde01,Silver Slugger,2006,AL,,SS
+howarry01,Silver Slugger,2006,NL,,1B
+utleych01,Silver Slugger,2006,NL,,2B
+cabremi01,Silver Slugger,2006,NL,,3B
+mccanbr01,Silver Slugger,2006,NL,,C
+beltrca01,Silver Slugger,2006,NL,,OF
+hollima01,Silver Slugger,2006,NL,,OF
+soriaal01,Silver Slugger,2006,NL,,OF
+zambrca01,Silver Slugger,2006,NL,,P
+reyesjo01,Silver Slugger,2006,NL,,SS
+morneju01,TSN All-Star,2006,AL,,1B
+canoro01,TSN All-Star,2006,AL,,2B
+credejo01,TSN All-Star,2006,AL,,3B
+mauerjo01,TSN All-Star,2006,AL,,C
+ortizda01,TSN All-Star,2006,AL,,DH
+dyeje01,TSN All-Star,2006,AL,,OF
+ramirma02,TSN All-Star,2006,AL,,OF
+wellsve01,TSN All-Star,2006,AL,,OF
+jeterde01,TSN All-Star,2006,AL,,SS
+howarry01,TSN All-Star,2006,NL,,1B
+utleych01,TSN All-Star,2006,NL,,2B
+wrighda03,TSN All-Star,2006,NL,,3B
+mccanbr01,TSN All-Star,2006,NL,,C
+beltrca01,TSN All-Star,2006,NL,,OF
+berkmla01,TSN All-Star,2006,NL,Y,OF
+jonesan01,TSN All-Star,2006,NL,Y,OF
+soriaal01,TSN All-Star,2006,NL,,OF
+reyesjo01,TSN All-Star,2006,NL,,SS
+howarry01,TSN Major League Player of the Year,2006,ML,,
+santajo01,TSN Pitcher of the Year,2006,AL,,
+carpech01,TSN Pitcher of the Year,2006,NL,,
+rodrifr03,TSN Reliever of the Year,2006,AL,,
+hoffmtr01,TSN Reliever of the Year,2006,NL,,
+eckstda01,World Series MVP,2006,ML,,
+beckejo02,ALCS MVP,2007,AL,,
+suzukic01,All-Star Game MVP,2007,ML,,
+papeljo01,Babe Ruth Award,2007,AL,,P
+smoltjo01,Branch Rickey Award,2007,ML,,
+penaca01,Comeback Player of the Year,2007,AL,,
+youngdm01,Comeback Player of the Year,2007,NL,,
+sabatcc01,Cy Young Award,2007,AL,,
+peavyja01,Cy Young Award,2007,NL,,
+youklke01,Gold Glove,2007,AL,,1B
+polanpl01,Gold Glove,2007,AL,,2B
+beltrad01,Gold Glove,2007,AL,,3B
+rodriiv01,Gold Glove,2007,AL,,C
+hunteto01,Gold Glove,2007,AL,,OF
+sizemgr01,Gold Glove,2007,AL,,OF
+suzukic01,Gold Glove,2007,AL,,OF
+santajo01,Gold Glove,2007,AL,,P
+cabreor01,Gold Glove,2007,AL,,SS
+leede02,Gold Glove,2007,NL,,1B
+hudsoor01,Gold Glove,2007,NL,,2B
+wrighda03,Gold Glove,2007,NL,,3B
+martiru01,Gold Glove,2007,NL,,C
+beltrca01,Gold Glove,2007,NL,,OF
+francje02,Gold Glove,2007,NL,,OF
+jonesan01,Gold Glove,2007,NL,,OF
+rowanaa01,Gold Glove,2007,NL,,OF
+maddugr01,Gold Glove,2007,NL,,P
+rolliji01,Gold Glove,2007,NL,,SS
+rodrial01,Hank Aaron Award,2007,AL,,
+fieldpr01,Hank Aaron Award,2007,NL,,
+sweenmi01,Hutch Award,2007,ML,,
+timlimi01,Lou Gehrig Memorial Award,2007,ML,,
+rodrial01,Most Valuable Player,2007,AL,,
+rolliji01,Most Valuable Player,2007,NL,,
+hollima01,NLCS MVP,2007,NL,,
+peavyja01,Pitching Triple Crown,2007,NL,,
+biggicr01,Roberto Clemente Award,2007,ML,,
+putzjj01,Reliever of the Year Award,2007,AL,,
+valvejo01,Reliever of the Year Award,2007,NL,,
+pedrodu01,Rookie of the Year,2007,AL,,
+braunry02,Rookie of the Year,2007,NL,,
+penaca01,Silver Slugger,2007,AL,,1B
+polanpl01,Silver Slugger,2007,AL,,2B
+rodrial01,Silver Slugger,2007,AL,,3B
+posadjo01,Silver Slugger,2007,AL,,C
+ortizda01,Silver Slugger,2007,AL,,DH
+guerrvl01,Silver Slugger,2007,AL,,OF
+ordonma01,Silver Slugger,2007,AL,,OF
+suzukic01,Silver Slugger,2007,AL,,OF
+jeterde01,Silver Slugger,2007,AL,,SS
+fieldpr01,Silver Slugger,2007,NL,,1B
+utleych01,Silver Slugger,2007,NL,,2B
+wrighda03,Silver Slugger,2007,NL,,3B
+martiru01,Silver Slugger,2007,NL,,C
+beltrca01,Silver Slugger,2007,NL,,OF
+hollima01,Silver Slugger,2007,NL,,OF
+leeca01,Silver Slugger,2007,NL,,OF
+owingmi01,Silver Slugger,2007,NL,,P
+rolliji01,Silver Slugger,2007,NL,,SS
+penaca01,TSN All-Star,2007,AL,,1B
+polanpl01,TSN All-Star,2007,AL,,2B
+rodrial01,TSN All-Star,2007,AL,,3B
+posadjo01,TSN All-Star,2007,AL,,C
+ortizda01,TSN All-Star,2007,AL,,DH
+guerrvl01,TSN All-Star,2007,AL,,OF
+ordonma01,TSN All-Star,2007,AL,,OF
+suzukic01,TSN All-Star,2007,AL,,OF
+borowjo01,TSN All-Star,2007,AL,,RP
+sabatcc01,TSN All-Star,2007,AL,,SP
+jeterde01,TSN All-Star,2007,AL,,SS
+fieldpr01,TSN All-Star,2007,NL,,1B
+utleych01,TSN All-Star,2007,NL,,2B
+wrighda03,TSN All-Star,2007,NL,,3B
+martiru01,TSN All-Star,2007,NL,,C
+hollima01,TSN All-Star,2007,NL,,OF
+leeca01,TSN All-Star,2007,NL,,OF
+rowanaa01,TSN All-Star,2007,NL,,OF
+valvejo01,TSN All-Star,2007,NL,,RP
+peavyja01,TSN All-Star,2007,NL,,SP
+ramirha01,TSN All-Star,2007,NL,,SS
+rodrial01,TSN Major League Player of the Year,2007,ML,,
+sabatcc01,TSN Pitcher of the Year,2007,AL,,
+peavyja01,TSN Pitcher of the Year,2007,NL,,
+borowjo01,TSN Reliever of the Year,2007,AL,,
+valvejo01,TSN Reliever of the Year,2007,NL,,
+lowelmi01,World Series MVP,2007,ML,,
+rodrifr03,Reliever of the Year Award,2008,AL,,
+garzama01,ALCS MVP,2008,AL,,
+drewjd01,All-Star Game MVP,2008,ML,,
+hamelco01,Babe Ruth Award,2008,NL,,P
+hoffmtr01,Branch Rickey Award,2008,ML,,
+leecl02,Comeback Player of the Year,2008,AL,,
+lidgebr01,Comeback Player of the Year,2008,NL,,
+leecl02,Cy Young Award,2008,AL,,
+linceti01,Cy Young Award,2008,NL,,
+penaca01,Gold Glove,2008,AL,,1B
+pedrodu01,Gold Glove,2008,AL,,2B
+beltrad01,Gold Glove,2008,AL,,3B
+mauerjo01,Gold Glove,2008,AL,,C
+hunteto01,Gold Glove,2008,AL,,OF
+sizemgr01,Gold Glove,2008,AL,,OF
+suzukic01,Gold Glove,2008,AL,,OF
+mussimi01,Gold Glove,2008,AL,,P
+youngmi02,Gold Glove,2008,AL,,SS
+gonzaad01,Gold Glove,2008,NL,,1B
+phillbr01,Gold Glove,2008,NL,,2B
+wrighda03,Gold Glove,2008,NL,,3B
+molinya01,Gold Glove,2008,NL,,C
+beltrca01,Gold Glove,2008,NL,,OF
+mclouna01,Gold Glove,2008,NL,,OF
+victosh01,Gold Glove,2008,NL,,OF
+maddugr01,Gold Glove,2008,NL,,P
+rolliji01,Gold Glove,2008,NL,,SS
+youklke01,Hank Aaron Award,2008,AL,,
+ramirar01,Hank Aaron Award,2008,NL,,
+lestejo01,Hutch Award,2008,ML,,
+victosh01,Lou Gehrig Memorial Award,2008,ML,,
+pedrodu01,Most Valuable Player,2008,AL,,
+pujolal01,Most Valuable Player,2008,NL,,
+hamelco01,NLCS MVP,2008,NL,,
+pujolal01,Roberto Clemente Award,2008,NL,,
+lidgebr01,Reliever of the Year Award,2008,NL,,
+longoev01,Rookie of the Year,2008,AL,,
+sotoge01,Rookie of the Year,2008,NL,,
+morneju01,Silver Slugger,2008,AL,,1B
+pedrodu01,Silver Slugger,2008,AL,,2B
+rodrial01,Silver Slugger,2008,AL,,3B
+mauerjo01,Silver Slugger,2008,AL,,C
+huffau01,Silver Slugger,2008,AL,,DH
+hamiljo03,Silver Slugger,2008,AL,,OF
+quentca01,Silver Slugger,2008,AL,,OF
+sizemgr01,Silver Slugger,2008,AL,,OF
+jeterde01,Silver Slugger,2008,AL,,SS
+pujolal01,Silver Slugger,2008,NL,,1B
+utleych01,Silver Slugger,2008,NL,,2B
+wrighda03,Silver Slugger,2008,NL,,3B
+mccanbr01,Silver Slugger,2008,NL,,C
+braunry02,Silver Slugger,2008,NL,,OF
+hollima01,Silver Slugger,2008,NL,,OF
+ludwiry01,Silver Slugger,2008,NL,,OF
+zambrca01,Silver Slugger,2008,NL,,P
+ramirha01,Silver Slugger,2008,NL,,SS
+pujolal01,TSN Major League Player of the Year,2008,ML,,
+leecl02,TSN Pitcher of the Year,2008,AL,,
+linceti01,TSN Pitcher of the Year,2008,NL,,
+rodrifr03,TSN Reliever of the Year,2008,AL,,
+lidgebr01,TSN Reliever of the Year,2008,NL,,
+hamelco01,World Series MVP,2008,ML,,
+sabatcc01,ALCS MVP,2009,AL,,
+crawfca02,All-Star Game MVP,2009,ML,,
+rodrial01,Babe Ruth Award,2009,AL,,3B
+hunteto01,Branch Rickey Award,2009,ML,,
+hillaa01,Comeback Player of the Year,2009,AL,,
+carpech02,Comeback Player of the Year,2009,NL,,
+greinza01,Cy Young Award,2009,AL,,
+linceti01,Cy Young Award,2009,NL,,
+teixema01,Gold Glove,2009,AL,,1B
+polanpl01,Gold Glove,2009,AL,,2B
+longoev01,Gold Glove,2009,AL,,3B
+mauerjo01,Gold Glove,2009,AL,,C
+hunteto01,Gold Glove,2009,AL,,OF
+jonesad01,Gold Glove,2009,AL,,OF
+suzukic01,Gold Glove,2009,AL,,OF
+buehrma01,Gold Glove,2009,AL,,P
+jeterde01,Gold Glove,2009,AL,,SS
+gonzaad01,Gold Glove,2009,NL,,1B
+hudsoor01,Gold Glove,2009,NL,,2B
+zimmery01,Gold Glove,2009,NL,,3B
+molinya01,Gold Glove,2009,NL,,C
+bournmi01,Gold Glove,2009,NL,,OF
+kempma01,Gold Glove,2009,NL,,OF
+victosh01,Gold Glove,2009,NL,,OF
+wainwad01,Gold Glove,2009,NL,,P
+rolliji01,Gold Glove,2009,NL,,SS
+jeterde01,Hank Aaron Award,2009,AL,,
+pujolal01,Hank Aaron Award,2009,NL,,
+teahema01,Hutch Award,2009,ML,,
+pujolal01,Lou Gehrig Memorial Award,2009,ML,,
+mauerjo01,Most Valuable Player,2009,AL,,
+pujolal01,Most Valuable Player,2009,NL,,
+howarry01,NLCS MVP,2009,NL,,
+jeterde01,Roberto Clemente Award,2009,ML,,
+riverma01,Reliever of the Year Award,2009,AL,,
+bellhe01,Reliever of the Year Award,2009,NL,,
+bailean01,Rookie of the Year,2009,AL,,
+coghlch01,Rookie of the Year,2009,NL,,
+teixema01,Silver Slugger,2009,AL,,1B
+hillaa01,Silver Slugger,2009,AL,,2B
+longoev01,Silver Slugger,2009,AL,,3B
+mauerjo01,Silver Slugger,2009,AL,,C
+lindad01,Silver Slugger,2009,AL,,DH
+bayja01,Silver Slugger,2009,AL,,OF
+hunteto01,Silver Slugger,2009,AL,,OF
+suzukic01,Silver Slugger,2009,AL,,OF
+jeterde01,Silver Slugger,2009,AL,,SS
+pujolal01,Silver Slugger,2009,NL,,1B
+utleych01,Silver Slugger,2009,NL,,2B
+zimmery01,Silver Slugger,2009,NL,,3B
+mccanbr01,Silver Slugger,2009,NL,,C
+braunry02,Silver Slugger,2009,NL,,OF
+ethiean01,Silver Slugger,2009,NL,,OF
+kempma01,Silver Slugger,2009,NL,,OF
+zambrca01,Silver Slugger,2009,NL,,P
+ramirha01,Silver Slugger,2009,NL,,SS
+pujolal01,TSN Major League Player of the Year,2009,ML,,
+greinza01,TSN Pitcher of the Year,2009,AL,,
+linceti01,TSN Pitcher of the Year,2009,NL,,
+riverma01,TSN Reliever of the Year,2009,AL,,
+frankry01,TSN Reliever of the Year,2009,NL,,
+matsuhi01,World Series MVP,2009,ML,,
+hamiljo03,ALCS MVP,2010,AL,,
+mccanbr01,All-Star Game MVP,2010,NL,,
+linceti01,Babe Ruth Award,2010,NL,,P
+wellsve01,Branch Rickey Award,2010,ML,,
+liriafr01,Comeback Player of the Year,2010,AL,,
+hudsoti01,Comeback Player of the Year,2010,NL,,
+hernafe02,Cy Young Award,2010,AL,,
+hallaro01,Cy Young Award,2010,NL,,
+teixema01,Gold Glove,2010,AL,,1B
+canoro01,Gold Glove,2010,AL,,2B
+longoev01,Gold Glove,2010,AL,,3B
+mauerjo01,Gold Glove,2010,AL,,C
+crawfca02,Gold Glove,2010,AL,,OF
+gutiefr01,Gold Glove,2010,AL,,OF
+suzukic01,Gold Glove,2010,AL,,OF
+buehrma01,Gold Glove,2010,AL,,P
+jeterde01,Gold Glove,2010,AL,,SS
+pujolal01,Gold Glove,2010,NL,,1B
+phillbr01,Gold Glove,2010,NL,,2B
+rolensc01,Gold Glove,2010,NL,,3B
+molinya01,Gold Glove,2010,NL,,C
+bournmi01,Gold Glove,2010,NL,,OF
+gonzaca01,Gold Glove,2010,NL,,OF
+victosh01,Gold Glove,2010,NL,,OF
+arroybr01,Gold Glove,2010,NL,,P
+tulowtr01,Gold Glove,2010,NL,,SS
+bautijo02,Hank Aaron Award,2010,AL,,
+vottojo01,Hank Aaron Award,2010,NL,,
+hudsoti01,Hutch Award,2010,ML,,
+jeterde01,Lou Gehrig Memorial Award,2010,ML,,
+hamiljo03,Most Valuable Player,2010,AL,,
+vottojo01,Most Valuable Player,2010,NL,,
+rossco01,NLCS MVP,2010,NL,,
+wakefti01,Roberto Clemente Award,2010,ML,,
+soriara01,Reliever of the Year Award,2010,AL,,
+bellhe01,Reliever of the Year Award,2010,NL,,
+felizne01,Rookie of the Year,2010,AL,,
+poseybu01,Rookie of the Year,2010,NL,,
+cabremi01,Silver Slugger,2010,AL,,1B
+canoro01,Silver Slugger,2010,AL,,2B
+beltrad01,Silver Slugger,2010,AL,,3B
+mauerjo01,Silver Slugger,2010,AL,,C
+guerrvl01,Silver Slugger,2010,AL,,DH
+bautijo02,Silver Slugger,2010,AL,,OF
+crawfca02,Silver Slugger,2010,AL,,OF
+hamiljo03,Silver Slugger,2010,AL,,OF
+ramiral03,Silver Slugger,2010,AL,,SS
+pujolal01,Silver Slugger,2010,NL,,1B
+ugglada01,Silver Slugger,2010,NL,,2B
+zimmery01,Silver Slugger,2010,NL,,3B
+mccanbr01,Silver Slugger,2010,NL,,C
+braunry02,Silver Slugger,2010,NL,,OF
+gonzaca01,Silver Slugger,2010,NL,,OF
+hollima01,Silver Slugger,2010,NL,,OF
+gallayo01,Silver Slugger,2010,NL,,P
+tulowtr01,Silver Slugger,2010,NL,,SS
+hamiljo03,TSN Major League Player of the Year,2010,ML,,
+hernafe02,TSN Pitcher of the Year,2010,AL,,
+hallaro01,TSN Pitcher of the Year,2010,NL,,
+soriara01,TSN Reliever of the Year,2010,AL,,
+bellhe01,TSN Reliever of the Year,2010,NL,,
+renteed01,World Series MVP,2010,ML,,
+beltrad01,Platinum Glove,2011,AL,,
+molinya01,Platinum Glove,2011,NL,,
+cruzne02,ALCS MVP,2011,AL,,
+fieldpr01,All-Star Game MVP,2011,NL,,
+freesda01,Babe Ruth Award,2011,NL,,P
+victosh01,Branch Rickey Award,2011,ML,,
+ellsbja01,Comeback Player of the Year,2011,AL,,
+berkmla01,Comeback Player of the Year,2011,NL,,
+verlaju01,Cy Young Award,2011,AL,,
+kershcl01,Cy Young Award,2011,NL,,
+gonzaad01,Gold Glove,2011,AL,,1B
+pedrodu01,Gold Glove,2011,AL,,2B
+beltrad01,Gold Glove,2011,AL,,3B
+wietema01,Gold Glove,2011,AL,,C
+ellsbja01,Gold Glove,2011,AL,,CF
+gordoal01,Gold Glove,2011,AL,,LF
+buehrma01,Gold Glove,2011,AL,,P
+markani01,Gold Glove,2011,AL,,RF
+aybarer01,Gold Glove,2011,AL,,SS
+vottojo01,Gold Glove,2011,NL,,1B
+phillbr01,Gold Glove,2011,NL,,2B
+polanpl01,Gold Glove,2011,NL,,3B
+molinya01,Gold Glove,2011,NL,,C
+kempma01,Gold Glove,2011,NL,,CF
+parrage01,Gold Glove,2011,NL,,LF
+kershcl01,Gold Glove,2011,NL,,P
+ethiean01,Gold Glove,2011,NL,,RF
+tulowtr01,Gold Glove,2011,NL,,SS
+bautijo02,Hank Aaron Award,2011,AL,,
+kempma01,Hank Aaron Award,2011,NL,,
+butlebi03,Hutch Award,2011,ML,,
+zimmery01,Lou Gehrig Memorial Award,2011,ML,,
+verlaju01,Most Valuable Player,2011,AL,,
+braunry02,Most Valuable Player,2011,NL,,
+freesda01,NLCS MVP,2011,NL,,
+verlaju01,Pitching Triple Crown,2011,AL,,
+kershcl01,Pitching Triple Crown,2011,NL,,
+ortizda01,Roberto Clemente Award,2011,ML,,
+valvejo01,Reliever of the Year Award,2011,AL,,
+axforjo01,Reliever of the Year Award,2011,NL,,
+hellije01,Rookie of the Year,2011,AL,,
+kimbrcr01,Rookie of the Year,2011,NL,,
+gonzaad01,Silver Slugger,2011,AL,,1B
+canoro01,Silver Slugger,2011,AL,,2B
+beltrad01,Silver Slugger,2011,AL,,3B
+avilaal01,Silver Slugger,2011,AL,,C
+ortizda01,Silver Slugger,2011,AL,,DH
+bautijo02,Silver Slugger,2011,AL,,OF
+ellsbja01,Silver Slugger,2011,AL,,OF
+grandcu01,Silver Slugger,2011,AL,,OF
+cabreas01,Silver Slugger,2011,AL,,SS
+fieldpr01,Silver Slugger,2011,NL,,1B
+phillbr01,Silver Slugger,2011,NL,,2B
+ramirar01,Silver Slugger,2011,NL,,3B
+mccanbr01,Silver Slugger,2011,NL,,C
+braunry02,Silver Slugger,2011,NL,,OF
+kempma01,Silver Slugger,2011,NL,,OF
+uptonju01,Silver Slugger,2011,NL,,OF
+hudsoda01,Silver Slugger,2011,NL,,P
+tulowtr01,Silver Slugger,2011,NL,,SS
+verlaju01,TSN Major League Player of the Year,2011,ML,,
+verlaju01,TSN Pitcher of the Year,2011,AL,,
+kershcl01,TSN Pitcher of the Year,2011,NL,,
+freesda01,World Series MVP,2011,ML,,
+zitoba01,Lou Gehrig Memorial Award,2012,ML,,
+johnsji04,Reliever of the Year Award,2012,AL,,
+beltrad01,Platinum Glove,2012,AL,,
+molinya01,Platinum Glove,2012,NL,,
+sandopa01,Babe Ruth Award,2012,NL,,
+youngde03,ALCS MVP,2012,AL,,
+cabreme01,All-Star Game MVP,2012,NL,,
+sandopa01,Babe Ruth Award,2012,NL,,P
+dickera01,Branch Rickey Award,2012,ML,,
+rodnefe01,Comeback Player of the Year,2012,AL,,
+poseybu01,Comeback Player of the Year,2012,NL,,
+priceda01,Cy Young Award,2012,AL,,
+dickera01,Cy Young Award,2012,NL,,
+teixema01,Gold Glove,2012,AL,,1B
+canoro01,Gold Glove,2012,AL,,2B
+beltrad01,Gold Glove,2012,AL,,3B
+wietema01,Gold Glove,2012,AL,,C
+jonesad01,Gold Glove,2012,AL,,CF
+gordoal01,Gold Glove,2012,AL,,LF
+hellije01,Gold Glove,2012,AL,,P
+reddijo01,Gold Glove,2012,AL,,RF
+hardyjj01,Gold Glove,2012,AL,,SS
+larocad01,Gold Glove,2012,NL,,1B
+barneda01,Gold Glove,2012,NL,,2B
+headlch01,Gold Glove,2012,NL,,3B
+molinya01,Gold Glove,2012,NL,,C
+mccutan01,Gold Glove,2012,NL,,CF
+gonzaca01,Gold Glove,2012,NL,,LF
+buehrma01,Gold Glove,2012,NL,,P
+heywaja01,Gold Glove,2012,NL,,RF
+rolliji01,Gold Glove,2012,NL,,SS
+cabremi01,Hank Aaron Award,2012,AL,,
+poseybu01,Hank Aaron Award,2012,NL,,
+zitoba01,Hutch Award,2012,ML,,
+cabremi01,Most Valuable Player,2012,AL,,
+poseybu01,Most Valuable Player,2012,NL,,
+scutama01,NLCS MVP,2012,NL,,
+kershcl01,Roberto Clemente Award,2012,ML,,
+kimbrcr01,Reliever of the Year Award,2012,NL,,
+troutmi01,Rookie of the Year,2012,AL,,
+harpebr03,Rookie of the Year,2012,NL,,
+fieldpr01,Silver Slugger,2012,AL,,1B
+canoro01,Silver Slugger,2012,AL,,2B
+cabremi01,Silver Slugger,2012,AL,,3B
+pierzaj01,Silver Slugger,2012,AL,,C
+butlebi03,Silver Slugger,2012,AL,,DH
+hamiljo03,Silver Slugger,2012,AL,,OF
+troutmi01,Silver Slugger,2012,AL,,OF
+willijo03,Silver Slugger,2012,AL,,OF
+jeterde01,Silver Slugger,2012,AL,,SS
+larocad01,Silver Slugger,2012,NL,,1B
+hillaa01,Silver Slugger,2012,NL,,2B
+headlch01,Silver Slugger,2012,NL,,3B
+poseybu01,Silver Slugger,2012,NL,,C
+braunry01,Silver Slugger,2012,NL,,OF
+bruceja01,Silver Slugger,2012,NL,,OF
+mccutan01,Silver Slugger,2012,NL,,OF
+strasst01,Silver Slugger,2012,NL,,P
+desmoia01,Silver Slugger,2012,NL,,SS
+cabremi01,Triple Crown,2012,AL,,
+cabremi01,TSN Major League Player of the Year,2012,ML,,
+priceda01,TSN Pitcher of the Year,2012,AL,Y,
+verlaju01,TSN Pitcher of the Year,2012,AL,Y,
+dickera01,TSN Pitcher of the Year,2012,NL,,
+sandopa01,World Series MVP,2012,ML,,
+hamiljo03,Lou Gehrig Memorial Award,2013,ML,,
+simmoan01,Platinum Glove,2013,NL,,
+machama01,Platinum Glove,2013,AL,,
+ortizda01,Babe Ruth Award,2013,AL,,
+ibanera01,Hutch Award,2013,ML,,
+ueharko01,ALCS MVP,2013,AL,,
+riverma01,All-Star Game MVP,2013,NL,,
+kershcl01,Branch Rickey Award,2013,ML,,
+riverma01,Comeback Player of the Year,2013,AL,,
+liriafr01,Comeback Player of the Year,2013,NL,,
+scherma01,Cy Young Award,2013,AL,,
+kershcl01,Cy Young Award,2013,NL,,
+hosmeer01,Gold Glove,2013,AL,,1B
+pedrodu01,Gold Glove,2013,AL,,2B
+machama01,Gold Glove,2013,AL,,3B
+perezsa02,Gold Glove,2013,AL,,C
+jonesad01,Gold Glove,2013,AL,,CF
+gordoal01,Gold Glove,2013,AL,,LF
+dickera01,Gold Glove,2013,AL,,P
+victosh01,Gold Glove,2013,AL,,RF
+hardyjj01,Gold Glove,2013,AL,,SS
+goldspa01,Gold Glove,2013,NL,,1B
+phillbr01,Gold Glove,2013,NL,,2B
+arenano01,Gold Glove,2013,NL,,3B
+molinya01,Gold Glove,2013,NL,,C
+gomezca01,Gold Glove,2013,NL,,CF
+gonzaca01,Gold Glove,2013,NL,,LF
+wainwad01,Gold Glove,2013,NL,,P
+parrage01,Gold Glove,2013,NL,,RF
+simmoan01,Gold Glove,2013,NL,,SS
+cabremi01,Hank Aaron Award,2013,AL,,
+goldspa01,Hank Aaron Award,2013,NL,,
+cabremi01,Most Valuable Player,2013,AL,,
+mccutan01,Most Valuable Player,2013,NL,,
+wachami01,NLCS MVP,2013,NL,,
+beltrca01,Roberto Clemente Award,2013,ML,,
+myerswi01,Rookie of the Year,2013,AL,,
+fernajo02,Rookie of the Year,2013,NL,,
+davisch02,Silver Slugger,2013,AL,,1B
+canoro01,Silver Slugger,2013,AL,,2B
+cabremi01,Silver Slugger,2013,AL,,3B
+mauerjo01,Silver Slugger,2013,AL,,C
+ortizda01,Silver Slugger,2013,AL,,DH
+hunteto01,Silver Slugger,2013,AL,,OF
+jonesad01,Silver Slugger,2013,AL,,OF
+troutmi01,Silver Slugger,2013,AL,,OF
+hardyjj01,Silver Slugger,2013,AL,,SS
+goldspa01,Silver Slugger,2013,NL,,1B
+carpema01,Silver Slugger,2013,NL,,2B
+alvarpe01,Silver Slugger,2013,NL,,3B
+molinya01,Silver Slugger,2013,NL,,C
+bruceja01,Silver Slugger,2013,NL,,OF
+cuddymi01,Silver Slugger,2013,NL,,OF
+mccutan01,Silver Slugger,2013,NL,,OF
+greinza01,Silver Slugger,2013,NL,,P
+desmoia01,Silver Slugger,2013,NL,,SS
+cabremi01,TSN Major League Player of the Year,2013,ML,,
+ortizda01,World Series MVP,2013,ML,,
+beltrad01,Lou Gehrig Memorial Award,2014,ML,,
+gordoal01,Platinum Glove,2014,AL,,
+molinya01,Platinum Glove,2014,NL,,
+bumgama01,Babe Ruth Award,2014,NL,,
+gordoal01,Hutch Award,2014,ML,,
+cainlo01,ALCS MVP,2014,AL,,
+troutmi01,All-Star Game MVP,2014,AL,,
+rizzoan01,Branch Rickey Award,2014,ML,,
+youngch03,Comeback Player of the Year,2014,AL,,
+mcgehca01,Comeback Player of the Year,2014,NL,,
+klubeco01,Cy Young Award,2014,AL,,
+kershcl01,Cy Young Award,2014,NL,,
+hosmeer01,Gold Glove,2014,AL,,1B
+pedrodu01,Gold Glove,2014,AL,,2B
+seageky01,Gold Glove,2014,AL,,3B
+perezsa02,Gold Glove,2014,AL,,C
+markani01,Gold Glove,2014,AL,,CF
+gordoal01,Gold Glove,2014,AL,,LF
+keuchda01,Gold Glove,2014,AL,,P
+jonesad01,Gold Glove,2014,AL,,RF
+hardyjj01,Gold Glove,2014,AL,,SS
+gonzaad01,Gold Glove,2014,NL,,1B
+lemahdj01,Gold Glove,2014,NL,,2B
+arenano01,Gold Glove,2014,NL,,3B
+molinya01,Gold Glove,2014,NL,,C
+lagarju01,Gold Glove,2014,NL,,CF
+yelicch01,Gold Glove,2014,NL,,LF
+greinza01,Gold Glove,2014,NL,,P
+heywaja01,Gold Glove,2014,NL,,RF
+simmoan01,Gold Glove,2014,NL,,SS
+troutmi01,Hank Aaron Award,2014,AL,,
+stantmi03,Hank Aaron Award,2014,NL,,
+troutmi01,Most Valuable Player,2014,AL,,
+kershcl01,Most Valuable Player,2014,NL,,
+bumgama01,NLCS MVP,2014,NL,,
+konerpa01,Roberto Clemente Award,2014,AL,,
+rolliji01,Roberto Clemente Award,2014,NL,,
+abreujo02,Rookie of the Year,2014,AL,,
+degroja01,Rookie of the Year,2014,NL,,
+abreujo02,Silver Slugger,2014,AL,,1B
+altuvjo01,Silver Slugger,2014,AL,,2B
+beltrad01,Silver Slugger,2014,AL,,3B
+gomesya01,Silver Slugger,2014,AL,,C
+martivi01,Silver Slugger,2014,AL,,DH
+troutmi01,Silver Slugger,2014,AL,,OF
+brantmi02,Silver Slugger,2014,AL,,OF
+bautijo02,Silver Slugger,2014,AL,,OF
+ramiral03,Silver Slugger,2014,AL,,SS
+gonzaad01,Silver Slugger,2014,NL,,1B
+walkene01,Silver Slugger,2014,NL,,2B
+rendoan01,Silver Slugger,2014,NL,,3B
+poseybu01,Silver Slugger,2014,NL,,C
+uptonju01,Silver Slugger,2014,NL,,OF
+stantmi03,Silver Slugger,2014,NL,,OF
+mccutan01,Silver Slugger,2014,NL,,OF
+bumgama01,Silver Slugger,2014,NL,,P
+desmoia01,Silver Slugger,2014,NL,,SS
+kershcl01,TSN Major League Player of the Year,2014,ML,,
+bumgama01,World Series MVP,2014,ML,,
+hollagr01,Reliever of the Year Award,2014,AL,,
+kimbrcr01,Reliever of the Year Award,2014,NL,,
+grandcu01,Lou Gehrig Memorial Award,2015,ML,,
+kiermke01,Platinum Glove,2015,AL,,
+molinya01,Platinum Glove,2015,NL,,
+daviswa01,Babe Ruth Award,2015,AL,,
+wainwad01,Hutch Award,2015,ML,,
+escobal02,ALCS MVP,2015,AL,,
+troutmi01,All-Star Game MVP,2015,AL,,
+fieldpr01,Comeback Player of the Year,2015,AL,,
+harvema01,Comeback Player of the Year,2015,NL,,
+keuchda01,Cy Young Award,2015,AL,,
+arrieja01,Cy Young Award,2015,NL,,
+hosmeer01,Gold Glove,2015,AL,,1B
+altuvjo01,Gold Glove,2015,AL,,2B
+machama01,Gold Glove,2015,AL,,3B
+perezsa02,Gold Glove,2015,AL,,C
+kiermke01,Gold Glove,2015,AL,,CF
+cespeyo01,Gold Glove,2015,AL,,LF
+keuchda01,Gold Glove,2015,AL,,P
+calhoko01,Gold Glove,2015,AL,,RF
+escobal02,Gold Glove,2015,AL,,SS
+goldspa01,Gold Glove,2015,NL,,1B
+gordode01,Gold Glove,2015,NL,,2B
+arenano01,Gold Glove,2015,NL,,3B
+molinya01,Gold Glove,2015,NL,,C
+polloaj01,Gold Glove,2015,NL,,CF
+martest01,Gold Glove,2015,NL,,LF
+greinza01,Gold Glove,2015,NL,,P
+heywaja01,Gold Glove,2015,NL,,RF
+crawfbr01,Gold Glove,2015,NL,,SS
+donaljo02,Hank Aaron Award,2015,AL,,
+harpebr03,Hank Aaron Award,2015,ML,,
+donaljo02,Most Valuable Player,2015,AL,,
+harpebr03,Most Valuable Player,2015,NL,,
+murphda08,NLCS MVP,2015,NL,,
+mccutan01,Roberto Clemente Award,2015,ML,,
+correca01,Rookie of the Year,2015,AL,,
+bryankr01,Rookie of the Year,2015,NL,,
+cabremi01,Silver Slugger,2015,AL,,1B
+altuvjo01,Silver Slugger,2015,AL,,2B
+donaljo02,Silver Slugger,2015,AL,,3B
+mccanbr01,Silver Slugger,2015,AL,,C
+moralke01,Silver Slugger,2015,AL,,DH
+troutmi01,Silver Slugger,2015,AL,,OF
+martijd02,Silver Slugger,2015,AL,,OF
+cruzne02,Silver Slugger,2015,AL,,OF
+bogaexa01,Silver Slugger,2015,AL,,SS
+goldspa01,Silver Slugger,2015,NL,,1B
+gordode01,Silver Slugger,2015,NL,,2B
+arenano01,Silver Slugger,2015,NL,,3B
+poseybu01,Silver Slugger,2015,NL,,C
+harpebr03,Silver Slugger,2015,NL,,OF
+gonzaca01,Silver Slugger,2015,NL,,OF
+mccutan01,Silver Slugger,2015,NL,,OF
+bumgama01,Silver Slugger,2015,NL,,P
+crawfbr01,Silver Slugger,2015,NL,,SS
+donaljo02,TSN Major League Player of the Year,2015,ML,,
+perezsa02,World Series MVP,2015,ML,,
+melanma01,Reliever of the Year Award,2015,NL,,
+millean01,Reliever of the Year Award,2015,AL,,
+altuvjo01,Lou Gehrig Memorial Award,2016,ML,,
+rizzoan01,Platinum Glove,2016,NL,,
+lindofr01,Platinum Glove,2016,AL,,
+hosmeer01,All-Star Game MVP,2016,AL,,
+lestejo01,Babe Ruth Award,2016,ML,,
+mcgowdu01,Hutch Award,2016,ML,,
+perezsa02,Silver Slugger,2016,AL,,C
+cabremi01,Silver Slugger,2016,AL,,1B
+altuvjo01,Silver Slugger,2016,AL,,2B
+donaljo02,Silver Slugger,2016,AL,,3B
+bogaexa01,Silver Slugger,2016,AL,,SS
+bettsmo01,Silver Slugger,2016,AL,,OF
+troutmi01,Silver Slugger,2016,AL,,OF
+trumbma01,Silver Slugger,2016,AL,,OF
+ortizda01,Silver Slugger,2016,AL,,DH
+ramoswi01,Silver Slugger,2016,NL,,C
+rizzoan01,Silver Slugger,2016,NL,,1B
+murphda08,Silver Slugger,2016,NL,,2B
+arenano01,Silver Slugger,2016,NL,,3B
+seageco01,Silver Slugger,2016,NL,,SS
+blackch02,Silver Slugger,2016,NL,,OF
+cespeyo01,Silver Slugger,2016,NL,,OF
+yelicch01,Silver Slugger,2016,NL,,OF
+arrieja01,Silver Slugger,2016,NL,,P
+perezsa02,Gold Glove,2016,AL,,C
+morelmi01,Gold Glove,2016,AL,,1B
+kinslia01,Gold Glove,2016,AL,,2B
+beltrad01,Gold Glove,2016,AL,,3B
+lindofr01,Gold Glove,2016,AL,,SS
+gardnbr01,Gold Glove,2016,AL,,OF
+kiermke01,Gold Glove,2016,AL,,OF
+bettsmo01,Gold Glove,2016,AL,,OF
+keuchda01,Gold Glove,2016,AL,,P
+poseybu01,Gold Glove,2016,NL,,C
+rizzoan01,Gold Glove,2016,NL,,1B
+panikjo01,Gold Glove,2016,NL,,2B
+arenano01,Gold Glove,2016,NL,,3B
+crawfbr01,Gold Glove,2016,NL,,SS
+martest01,Gold Glove,2016,NL,,OF
+inciaen01,Gold Glove,2016,NL,,OF
+heywaja01,Gold Glove,2016,NL,,OF
+greinza01,Gold Glove,2016,NL,,P
+troutmi01,Most Valuable Player,2016,AL,,
+bryankr01,Most Valuable Player,2016,NL,,
+porceri01,Cy Young Award,2016,AL,,
+scherma01,Cy Young Award,2016,NL,,
+fulmemi01,Rookie of the Year,2016,AL,,
+seageco01,Rookie of the Year,2016,NL,,Unanimous
+grandcu01,Roberto Clemente Award,2016,ML,,
+ortizda01,Hank Aaron Award,2016,AL,,DH
+bryankr01,Hank Aaron Award,2016,NL,,3B
+zobribe01,World Series MVP,2016,ML,,
+millean01,ALCS MVP,2016,AL,,
+baezja01,NLCS MVP,2016,NL,Y,Co-MVP
+lestejo01,NLCS MVP,2016,NL,Y,Co-MVP
+porceri01,Comeback Player of the Year,2016,AL,,
+rendoan01,Comeback Player of the Year,2016,NL,,
+ortizda01,Outstanding DH Award,2016,AL,,
+brittza01,Reliever of the Year Award,2016,AL,,
+janseke01,Reliever of the Year Award,2016,NL,,
+altuvjo01,TSN Major League Player of the Year,2016,ML,,
+brittza01,TSN Reliever of the Year,2016,AL,,
+klubeco01,TSN Pitcher of the Year,2016,AL,,
+janseke01,TSN Reliever of the Year,2016,NL,,
+scherma01,TSN Pitcher of the Year,2016,NL,,
+poseybu01,TSN All-Star,2016,NL,,C
+freemfr01,TSN All-Star,2016,NL,,1B
+murphda08,TSN All-Star,2016,NL,,2B
+seageco01,TSN All-Star,2016,NL,,SS
+bryankr01,TSN All-Star,2016,NL,,3B
+yelicch01,TSN All-Star,2016,NL,,OF
+cespeyo01,TSN All-Star,2016,NL,,OF
+martest01,TSN All-Star,2016,NL,,OF
+scherma01,TSN All-Star,2016,NL,,SP
+janseke01,TSN All-Star,2016,NL,,RP
+perezsa02,TSN All-Star,2016,AL,,C
+cabremi01,TSN All-Star,2016,AL,,1B
+altuvjo01,TSN All-Star,2016,AL,,2B
+lindofr01,TSN All-Star,2016,AL,,SS
+donaljo02,TSN All-Star,2016,AL,,3B
+troutmi01,TSN All-Star,2016,AL,,OF
+bettsmo01,TSN All-Star,2016,AL,,OF
+bradlja02,TSN All-Star,2016,AL,,OF
+ortizda01,TSN All-Star,2016,AL,,DH
+klubeco01,TSN All-Star,2016,AL,,SP
+brittza01,TSN All-Star,2016,AL,,RP
+vottojo01,Lou Gehrig Memorial Award,2017,ML,,
+altuvjo01,TSN Major League Player of the Year,2017,ML,,
+salech01,TSN Pitcher of the Year,2017,AL,,
+scherma01,TSN Pitcher of the Year,2017,NL,,
+kimbrcr01,TSN Reliever of the Year,2017,AL,,
+janseke01,TSN Reliever of the Year,2017,NL,,
+canoro01,All-Star Game MVP,2017,AL,,
+buxtoby01,Platinum Glove,2017,AL,,
+arenano01,Platinum Glove,2017,NL,,
+altuvjo01,Babe Ruth Award,2017,ML,Y,
+verlaju01,Babe Ruth Award,2017,ML,Y,
+diekmja01,Hutch Award,2017,ML,,
+ozunama01,Gold Glove,2017,NL,,LF
+inciaen01,Gold Glove,2017,NL,,CF
+heywaja01,Gold Glove,2017,NL,,RF
+greinza01,Gold Glove,2017,NL,,P
+springe01,World Series MVP,2017,ML,,
+verlaju01,ALCS MVP,2017,AL,,
+turneju01,NLCS MVP,2017,NL,Y,Co-MVP
+tayloch03,NLCS MVP,2017,NL,Y,Co-MVP
+moustmi01,Comeback Player of the Year,2017,AL,,
+zimmery01,Comeback Player of the Year,2017,NL,,
+cruzne02,Outstanding DH Award,2017,AL,,
+kimbrcr01,Reliever of the Year Award,2017,AL,,
+janseke01,Reliever of the Year Award,2017,NL,,
+sanchga02,TSN All-Star,2017,AL,,C
+hosmeer01,TSN All-Star,2017,AL,,1B
+altuvjo01,TSN All-Star,2017,AL,,2B
+lindofr01,TSN All-Star,2017,AL,,SS
+judgeaa01,TSN All-Star,2017,AL,,OF
+bettsmo01,TSN All-Star,2017,AL,,OF
+troutmi01,TSN All-Star,2017,AL,,OF
+cruzne02,TSN All-Star,2017,AL,,DH
+salech01,TSN All-Star,2017,AL,,SP
+kimbrcr01,TSN All-Star,2017,AL,,RP
+poseybu01,TSN All-Star,2017,NL,,C
+vottojo01,TSN All-Star,2017,NL,,1B
+murphda08,TSN All-Star,2017,NL,,2B
+rendoan01,TSN All-Star,2017,NL,,3B
+seageco01,TSN All-Star,2017,NL,,SS
+stantmi03,TSN All-Star,2017,NL,,OF
+blackch02,TSN All-Star,2017,NL,,OF
+ozunama01,TSN All-Star,2017,NL,,OF
+scherma01,TSN All-Star,2017,NL,,SP
+janseke01,TSN All-Star,2017,NL,,RP
+altuvjo01,Most Valuable Player,2017,AL,,
+stantmi03,Most Valuable Player,2017,NL,,
+klubeco01,Cy Young Award,2017,AL,,
+scherma01,Cy Young Award,2017,NL,,
+judgeaa01,Rookie of the Year,2017,AL,,
+bellico01,Rookie of the Year,2017,NL,,
+rizzoan01,Roberto Clemente Award,2017,ML,,
+altuvjo01,Hank Aaron Award,2017,AL,,
+stantmi03,Hank Aaron Award,2017,NL,,
+sanchga02,Silver Slugger,2017,AL,,C
+hosmeer01,Silver Slugger,2017,AL,,1B
+altuvjo01,Silver Slugger,2017,AL,,2B
+ramirjo01,Silver Slugger,2017,AL,,3B
+lindofr01,SIlver Slugger,2017,AL,,SS
+judgeaa01,Silver Slugger,2017,AL,,OF
+springe01,Silver Slugger,2017,AL,,OF
+uptonju01,Silver Slugger,2017,AL,,OF
+cruzne02,Silver Slugger,2017,AL,,DH
+poseybu01,Silver Slugger,2017,NL,,C
+goldspa01,Silver Slugger,2017,NL,,1B
+murphda08,Silver Slugger,2017,NL,,2B
+arenano01,Silver Slugger,2017,NL,,3B
+seageco01,Silver Slugger,2017,NL,,SS
+stantmi03,Silver Slugger,2017,NL,,OF
+ozunama01,Silver Slugger,2017,NL,,OF
+blackch02,Silver Slugger,2017,NL,,OF
+wainwad01,Silver Slugger,2017,NL,,P
+maldoma01,Gold Glove,2017,AL,,C
+hosmeer01,Gold Glove,2017,AL,,1B
+doziebr01,Gold Glove,2017,AL,,2B
+longoev01,Gold Glove,2017,AL,,3B
+simmoan01,Gold Glove,2017,AL,,SS
+gordoal01,Gold Glove,2017,AL,,LF
+buxtoby01,Gold Glove,2017,AL,,CF
+bettsmo01,Gold Glove,2017,AL,,RF
+stromma01,Gold Glove,2017,AL,,P
+barnhtu01,Gold Glove,2017,NL,,C
+goldspa01,Gold Glove,2017,NL,,1B
+lemahdj01,Gold Glove,2017,NL,,2B
+arenano01,Gold Glove,2017,NL,,3B
+crawfbr01,Gold Glove,2017,NL,,SS
+klubeco01,Lou Gehrig Memorial Award,2018,ML,,
+bettsmo01,TSN Major League Player of the Year,2018,ML,,
+salech01,TSN Pitcher of the Year,2018,AL,,
+degroja01,TSN Pitcher of the Year,2018,NL,,
+diazed04,TSN Reliever of the Year,2018,AL,,
+haderjo01,TSN Reliever of the Year,2018,NL,,
+bregmal01,All-Star Game MVP,2018,AL,,
+chapmma01,Platinum Glove,2018,AL,,
+arenano01,Platinum Glove,2018,NL,,
+priceda01,Babe Ruth Award,2018,ML,,
+piscost01,Hutch Award,2018,ML,,
+ramirjo01,TSN All-Star,2018,AL,,3B
+freemfr01,Gold Glove,2018,NL,Y,1B
+bettsmo01,Most Valuable Player,2018,AL,,
+yelicch01,Most Valuable Player,2018,NL,,
+snellbl01,Cy Young Award,2018,AL,,
+degroja01,Cy Young Award,2018,NL,,
+ohtansh01,Rookie of the Year,2018,AL,,
+acunaro01,Rookie of the Year,2018,NL,,
+molinya01,Roberto Clemente Award,2018,ML,,
+martijd02,Hank Aaron Award,2018,AL,,
+yelicch01,Hank Aaron Award,2018,NL,,
+perezsa02,Silver Slugger,2018,AL,,C
+abreujo02,Silver Slugger,2018,AL,,1B
+altuvjo01,Silver Slugger,2018,AL,,2B
+ramirjo01,Silver Slugger,2018,AL,,3B
+lindofr01,SIlver Slugger,2018,AL,,SS
+martijd02,Silver Slugger,2018,AL,,OF
+troutmi01,Silver Slugger,2018,AL,,OF
+bettsmo01,Silver Slugger,2018,AL,,OF
+martijd02,Silver Slugger,2018,AL,,DH
+realmjt01,Silver Slugger,2018,NL,,C
+goldspa01,Silver Slugger,2018,NL,,1B
+baezja01,Silver Slugger,2018,NL,,2B
+arenano01,Silver Slugger,2018,NL,,3B
+storytr01,Silver Slugger,2018,NL,,SS
+markani01,Silver Slugger,2018,NL,,OF
+peralda01,Silver Slugger,2018,NL,,OF
+yelicch01,Silver Slugger,2018,NL,,OF
+marquge01,Silver Slugger,2018,NL,,P
+perezsa02,Gold Glove,2018,AL,,C
+olsonma02,Gold Glove,2018,AL,,1B
+kinslia01,Gold Glove,2018,AL,,2B
+chapmma01,Gold Glove,2018,AL,,3B
+simmoan01,Gold Glove,2018,AL,,SS
+gordoal01,Gold Glove,2018,AL,,LF
+bradlja02,Gold Glove,2018,AL,,CF
+bettsmo01,Gold Glove,2018,AL,,RF
+keuchda01,Gold Glove,2018,AL,,P
+molinya01,Gold Glove,2018,NL,,C
+rizzoan01,Gold Glove,2018,NL,Y,1B
+lemahdj01,Gold Glove,2018,NL,,2B
+arenano01,Gold Glove,2018,NL,,3B
+ahmedni01,Gold Glove,2018,NL,,SS
+dickeco01,Gold Glove,2018,NL,,LF
+inciaen01,Gold Glove,2018,NL,,CF
+markani01,Gold Glove,2018,NL,,RF
+greinza01,Gold Glove,2018,NL,,P
+pearcst01,World Series MVP,2018,ML,,
+bradlja02,ALCS MVP,2018,AL,,
+bellico01,NLCS MVP,2018,NL,,
+priceda01,Comeback Player of the Year,2018,AL,,
+ventejo01,Comeback Player of the Year,2018,NL,,
+daviskh01,Outstanding DH Award,2018,,,
+diazed04,Reliever of the Year Award,2018,AL,,
+haderjo01,Reliever of the Year Award,2018,NL,,
+gomesya01,TSN All-Star,2018,AL,,C
+olsonma02,TSN All-Star,2018,AL,,1B
+altuvjo01,TSN All-Star,2018,AL,,2B
+lindofr01,TSN All-Star,2018,AL,,SS
+bettsmo01,TSN All-Star,2018,AL,,OF
+troutmi01,TSN All-Star,2018,AL,,OF
+judgeaa01,TSN All-Star,2018,AL,,OF
+martijd02,TSN All-Star,2018,AL,,DH
+salech01,TSN All-Star,2018,AL,,SP
+diazed04,TSN All-Star,2018,AL,,RP
+realmjt01,TSN All-Star,2018,NL,,C
+freemfr01,TSN All-Star,2018,NL,,1B
+baezja01,TSN All-Star,2018,NL,,2B
+arenano01,TSN All-Star,2018,NL,,3B
+storytr01,TSN All-Star,2018,NL,,SS
+yelicch01,TSN All-Star,2018,NL,,OF
+acunaro01,TSN All-Star,2018,NL,,OF
+cainlo01,TSN All-Star,2018,NL,,OF
+degroja01,TSN All-Star,2018,NL,,SP
+haderjo01,TSN All-Star,2018,NL,,RP
+poseybu01,Lou Gehrig Memorial Award,2019,ML,,
+troutmi01,TSN Major League Player of the Year,2019,ML,,
+colege01,TSN Pitcher of the Year,2019,AL,,
+degroja01,TSN Pitcher of the Year,2019,NL,,
+yateski01,TSN Reliever of the Year,2019,NL,,
+hendrli01,TSN Reliever of the Year,2019,AL,,
+biebesh01,All-Star Game MVP,2019,AL,,
+chapmma01,Platinum Glove,2019,AL,,
+arenano01,Platinum Glove,2019,NL,,
+sotoju01,Babe Ruth Award,2019,ML,Y,
+strasst01,Babe Ruth Award,2019,ML,Y,
+gordode01,Hutch Award,2019,ML,,
+troutmi01,Most Valuable Player,2019,AL,,
+bellico01,Most Valuable Player,2019,NL,,
+verlaju01,Cy Young Award,2019,AL,,
+degroja01,Cy Young Award,2019,NL,,
+alvaryo01,Rookie of the Year,2019,AL,,
+alonspe01,Rookie of the Year,2019,NL,,
+carraca01,Roberto Clemente Award,2019,ML,,
+troutmi01,Hank Aaron Award,2019,AL,,
+yelicch01,Hank Aaron Award,2019,NL,,
+garvemi01,Silver Slugger,2019,AL,,C
+santaca01,Silver Slugger,2019,AL,,1B
+lemahdj01,Silver Slugger,2019,AL,,2B
+bregmal01,Silver Slugger,2019,AL,,3B
+bogaexa01,SIlver Slugger,2019,AL,,SS
+springe01,Silver Slugger,2019,AL,,OF
+troutmi01,Silver Slugger,2019,AL,,OF
+bettsmo01,Silver Slugger,2019,AL,,OF
+cruzne02,Silver Slugger,2019,AL,,DH
+realmjt01,Silver Slugger,2019,NL,,C
+freemfr01,Silver Slugger,2019,NL,,1B
+albieoz01,Silver Slugger,2019,NL,,2B
+rendoan01,Silver Slugger,2019,NL,,3B
+storytr01,Silver Slugger,2019,NL,,SS
+acunaro01,Silver Slugger,2019,NL,,OF
+yelicch01,Silver Slugger,2019,NL,,OF
+bellico01,Silver Slugger,2019,NL,,OF
+greinza01,Silver Slugger,2019,NL,,P
+perezro02,Gold Glove,2019,AL,,C
+olsonma02,Gold Glove,2019,AL,,1B
+sanchca01,Gold Glove,2019,AL,,2B
+chapmma01,Gold Glove,2019,AL,,3B
+lindofr01,Gold Glove,2019,AL,,SS
+gordoal01,Gold Glove,2019,AL,,LF
+kiermke01,Gold Glove,2019,AL,,CF
+bettsmo01,Gold Glove,2019,AL,,RF
+leakemi01,Gold Glove,2019,AL,,P
+realmjt01,Gold Glove,2019,NL,,C
+rizzoan01,Gold Glove,2019,NL,,1B
+wongko01,Gold Glove,2019,NL,,2B
+arenano01,Gold Glove,2019,NL,,3B
+ahmedni01,Gold Glove,2019,NL,,SS
+cainlo01,Gold Glove,2019,NL,,LF
+bellico01,Gold Glove,2019,NL,,CF
+peralda01,Gold Glove,2019,NL,,RF
+greinza01,Gold Glove,2019,NL,,P
+strasst01,World Series MVP,2019,ML,,
+altuvjo01,ALCS MVP,2019,AL,,
+kendrho01,NLCS MVP,2019,NL,,
+carraca01,Comeback Player of the Year,2019,AL,,
+donaljo02,Comeback Player of the Year,2019,NL,,
+cruzne02,Outstanding DH Award,2019,,,
+chapmar01,Reliever of the Year Award,2019,AL,,
+haderjo01,Reliever of the Year Award,2019,NL,,
+vazquch01,TSN All-Star,2019,AL,,C
+olsonma02,TSN All-Star,2019,AL,Y,1B
+lemahdj01,TSN All-Star,2019,AL,,2B
+semiema01,TSN All-Star,2019,AL,,SS
+troutmi01,TSN All-Star,2019,AL,,OF
+springe01,TSN All-Star,2019,AL,,OF
+bettsmo01,TSN All-Star,2019,AL,,OF
+cruzne02,TSN All-Star,2019,AL,,DH
+colege01,TSN All-Star,2019,AL,,SP
+hendrli01,TSN All-Star,2019,AL,,RP
+realmjt01,TSN All-Star,2019,NL,,C
+freemfr01,TSN All-Star,2019,NL,,1B
+marteke01,TSN All-Star,2019,NL,,2B
+rendoan01,TSN All-Star,2019,NL,,3B
+storytr01,TSN All-Star,2019,NL,,SS
+bellico01,TSN All-Star,2019,NL,,OF
+yelicch01,TSN All-Star,2019,NL,,OF
+acunaro01,TSN All-Star,2019,NL,,OF
+degroja01,TSN All-Star,2019,NL,,SP
+yateski01,TSN All-Star,2019,NL,,RP
+bregmal01,TSN All-Star,2019,AL,,3B
+santaca01,TSN All-Star,2019,AL,Y,1B
+biebesh01,Pitching Triple Crown,2020,AL,,
+abreujo02,TSN Major League Player of the Year,2020,ML,,
+degroja01,TSN Pitcher of the Year,2020,NL,,
+biebesh01,TSN Pitcher of the Year,2020,AL,,
+willide03,TSN Reliever of the Year,2020,NL,,
+hendrli01,TSN Reliever of the Year,2020,AL,,
+gordoal01,Platinum Glove,2020,AL,,
+arenano01,Platinum Glove,2020,NL,,
+kineris01,Gold Glove,2020,AL,,3B
+crawfjp01,Gold Glove,2020,AL,,SS
+roberlu01,Gold Glove,2020,AL,,LF
+gordoal01,Gold Glove,2020,AL,,CF
+gallojo01,Gold Glove,2020,AL,,RF
+cannigr01,Gold Glove,2020,AL,,P
+barnhtu01,Gold Glove,2020,NL,,C
+rizzoan01,Gold Glove,2020,NL,,1B
+wongko01,Gold Glove,2020,NL,,2B
+arenano01,Gold Glove,2020,NL,,3B
+baezja01,Gold Glove,2020,NL,,SS
+oneilty01,Gold Glove,2020,NL,,LF
+grishtr01,Gold Glove,2020,NL,,CF
+bettsmo01,Gold Glove,2020,NL,,RF
+friedma01,Gold Glove,2020,NL,,P
+seageco01,World Series MVP,2020,ML,,
+arozara01,ALCS MVP,2020,AL,,
+seageco01,NLCS MVP,2020,NL,,
+ozunama01,Outstanding DH Award,2020,,,
+hendrli01,Reliever of the Year Award,2020,AL,,
+arozara01,Babe Ruth Award,2020,ML,,
+piscost01,Lou Gehrig Memorial Award,2020,ML,,
+willide03,Reliever of the Year Award,2020,NL,,
+perezsa02,TSN All-Star,2020,AL,,C
+abreujo02,TSN All-Star,2020,AL,,1B
+lemahdj01,TSN All-Star,2020,AL,,2B
+anderti01,TSN All-Star,2020,AL,,SS
+troutmi01,TSN All-Star,2020,AL,,OF
+hernate01,TSN All-Star,2020,AL,,OF
+springe01,TSN All-Star,2020,AL,,OF
+cruzne02,TSN All-Star,2020,AL,,DH
+biebesh01,TSN All-Star,2020,AL,,SP
+hendrli01,TSN All-Star,2020,AL,,RP
+realmjt01,TSN All-Star,2020,NL,,C
+freemfr01,TSN All-Star,2020,NL,,1B
+solando01,TSN All-Star,2020,NL,,2B
+machama01,TSN All-Star,2020,NL,,3B
+tatisfe02,TSN All-Star,2020,NL,,SS
+bettsmo01,TSN All-Star,2020,NL,,OF
+sotoju01,TSN All-Star,2020,NL,,OF
+acunaro01,TSN All-Star,2020,NL,,OF
+degroja01,TSN All-Star,2020,NL,,SP
+willide03,TSN All-Star,2020,NL,,RP
+ozunama01,Silver Slugger,2020,NL,,DH
+ramirjo01,TSN All-Star,2020,AL,,3B
+ozunama01,TSN All-Star,2020,NL,,DH
+abreujo02,Most Valuable Player,2020,AL,,
+freemfr01,Most Valuable Player,2020,NL,,
+biebesh01,Cy Young Award,2020,AL,,
+bauertr01,Cy Young Award,2020,NL,,
+lewisky01,Rookie of the Year,2020,AL,,
+willide03,Rookie of the Year,2020,NL,,
+wainwad01,Roberto Clemente Award,2020,ML,,
+abreujo02,Hank Aaron Award,2020,AL,,
+freemfr01,Hank Aaron Award,2020,NL,,
+perezsa02,Silver Slugger,2020,AL,,C
+abreujo02,Silver Slugger,2020,AL,,1B
+lemahdj01,Silver Slugger,2020,AL,,2B
+ramirjo01,Silver Slugger,2020,AL,,3B
+anderti01,SIlver Slugger,2020,AL,,SS
+jimenel02,Silver Slugger,2020,AL,,OF
+hernate01,Silver Slugger,2020,AL,,OF
+troutmi01,Silver Slugger,2020,AL,,OF
+cruzne02,Silver Slugger,2020,AL,,DH
+darnatr01,Silver Slugger,2020,NL,,C
+freemfr01,Silver Slugger,2020,NL,,1B
+solando01,Silver Slugger,2020,NL,,2B
+machama01,Silver Slugger,2020,NL,,3B
+tatisfe02,Silver Slugger,2020,NL,,SS
+sotoju01,Silver Slugger,2020,NL,,OF
+bettsmo01,Silver Slugger,2020,NL,,OF
+acunaro01,Silver Slugger,2020,NL,,OF
+perezro02,Gold Glove,2020,AL,,C
+whiteev01,Gold Glove,2020,AL,,1B
+hernace02,Gold Glove,2020,AL,,2B
+ohtansh01,TSN Major League Player of the Year,2021,ML,,
+colege01,TSN Pitcher of the Year,2021,AL,,
+scherma01,TSN Pitcher of the Year,2021,NL,,
+haderjo01,TSN Reliever of the Year,2021,NL,,
+hendrli01,TSN Reliever of the Year,2021,AL,,
+tatisfe02,TSN All-Star,2021,NL,,SS
+sotoju01,TSN All-Star,2021,NL,,OF
+harpebr03,TSN All-Star,2021,NL,,OF
+reynobr01,TSN All-Star,2021,NL,,OF
+scherma01,TSN All-Star,2021,NL,,SP
+haderjo01,TSN All-Star,2021,NL,,RP
+friedma01,Silver Slugger,2021,NL,,P
+ramirjo01,TSN All-Star,2021,AL,,3B
+guerrvl02,All-Star Game MVP,2021,AL,,
+correca01,Platinum Glove,2021,AL,,
+arenano01,Platinum Glove,2021,NL,,
+freemfr01,Babe Ruth Award,2021,ML,,
+poseybu01,Comeback Player of the Year,2021,NL,,
+mancitr01,Comeback Player of the Year,2021,AL,,
+perezsa02,Lou Gehrig Memorial Award,2021,ML,,
+ohtansh01,Most Valuable Player,2021,AL,,
+harpebr03,Most Valuable Player,2021,NL,,
+rayro02,Cy Young Award,2021,AL,,
+burneco01,Cy Young Award,2021,NL,,
+arozara01,Rookie of the Year,2021,AL,,
+indiajo01,Rookie of the Year,2021,NL,,
+cruzne02,Roberto Clemente Award,2021,ML,,
+guerrvl02,Hank Aaron Award,2021,AL,,
+harpebr03,Hank Aaron Award,2021,NL,,
+perezsa02,Silver Slugger,2021,AL,,C
+guerrvl02,Silver Slugger,2021,AL,,1B
+semiema01,Silver Slugger,2021,AL,,2B
+deverra01,Silver Slugger,2021,AL,,3B
+bogaexa01,SIlver Slugger,2021,AL,,SS
+mullice01,Silver Slugger,2021,AL,,OF
+judgeaa01,Silver Slugger,2021,AL,,OF
+hernate01,Silver Slugger,2021,AL,,OF
+ohtansh01,Silver Slugger,2021,AL,,DH
+poseybu01,Silver Slugger,2021,NL,,C
+freemfr01,Silver Slugger,2021,NL,,1B
+albieoz01,Silver Slugger,2021,NL,,2B
+rileyau01,Silver Slugger,2021,NL,,3B
+tatisfe02,Silver Slugger,2021,NL,,SS
+harpebr03,Silver Slugger,2021,NL,,OF
+casteni01,Silver Slugger,2021,NL,,OF
+sotoju01,Silver Slugger,2021,NL,,OF
+murphse01,Gold Glove,2021,AL,,C
+gourryu01,Gold Glove,2021,AL,,1B
+semiema01,Gold Glove,2021,AL,,2B
+chapmma01,Gold Glove,2021,AL,,3B
+correca01,Gold Glove,2021,AL,,SS
+taylomi02,Gold Glove,2021,AL,,LF
+gallojo01,Gold Glove,2021,AL,,CF
+beninan01,Gold Glove,2021,AL,,RF
+keuchda01,Gold Glove,2021,AL,,P
+stallja01,Gold Glove,2021,NL,,C
+goldspa01,Gold Glove,2021,NL,,1B
+edmanto01,Gold Glove,2021,NL,,2B
+arenano01,Gold Glove,2021,NL,,3B
+crawfbr01,Gold Glove,2021,NL,,SS
+oneilty01,Gold Glove,2021,NL,,LF
+duvalad01,Gold Glove,2021,NL,,CF
+baderha01,Gold Glove,2021,NL,,RF
+friedma01,Gold Glove,2021,NL,,P
+solerjo01,World Series MVP,2021,ML,,
+alvaryo01,ALCS MVP,2021,AL,,
+rosared01,NLCS MVP,2021,NL,,
+ohtansh01,Outstanding DH Award,2021,,,
+hendrli01,Reliever of the Year Award,2021,AL,,
+haderjo01,Reliever of the Year Award,2021,NL,,
+perezsa02,TSN All-Star,2021,AL,,C
+guerrvl02,TSN All-Star,2021,AL,,1B
+semiema01,TSN All-Star,2021,AL,,2B
+correca01,TSN All-Star,2021,AL,,SS
+judgeaa01,TSN All-Star,2021,AL,,OF
+mullice01,TSN All-Star,2021,AL,,OF
+tuckeky01,TSN All-Star,2021,AL,,OF
+ohtansh01,TSN All-Star,2021,AL,,DH
+colege01,TSN All-Star,2021,AL,,SP
+hendrli01,TSN All-Star,2021,AL,,RP
+realmjt01,TSN All-Star,2021,NL,,C
+freemfr01,TSN All-Star,2021,NL,,1B
+albieoz01,TSN All-Star,2021,NL,,2B
+machama01,TSN All-Star,2021,NL,,3B
+judgeaa01,Most Valuable Player,2022,AL,,
+goldspa01,Most Valuable Player,2022,NL,,
+harpebr03,NLCS MVP,2022,NL,,
+ohtansh01,Outstanding DH Award,2022,ML,,
+trevijo01,Platinum Glove,2022,AL,,
+arenano01,Platinum Glove,2022,NL,,
+abreujo02,TSN All-Star,2022,AL,,1B
+goldspa01,TSN All-Star,2022,NL,,1B
+gimenan01,TSN All-Star,2022,AL,,2B
+mcneije01,TSN All-Star,2022,NL,,2B
+arenano01,TSN All-Star,2022,NL,,3B
+ramirjo01,TSN All-Star,2022,AL,,3B
+kirkal01,TSN All-Star,2022,AL,,C
+realmjt01,TSN All-Star,2022,NL,,C
+alvaryo01,TSN All-Star,2022,AL,,DH
+harpebr03,TSN All-Star,2022,NL,,DH
+judgeaa01,TSN All-Star,2022,AL,,OF
+sotoju01,TSN All-Star,2022,NL,,OF
+rodriju01,TSN All-Star,2022,AL,,OF
+harrimi04,TSN All-Star,2022,NL,,OF
+troutmi01,TSN All-Star,2022,AL,,OF
+bettsmo01,TSN All-Star,2022,NL,,OF
+diazed04,TSN All-Star,2022,NL,,RP
+claseem01,TSN All-Star,2022,AL,,RP
+verlaju01,TSN All-Star,2022,AL,,SP
+alcansa01,TSN All-Star,2022,NL,,SP
+bogaexa01,TSN All-Star,2022,AL,,SS
+turnetr01,TSN All-Star,2022,NL,,SS
+judgeaa01,TSN Major League Player of the Year,2022,ML,,
+verlaju01,TSN Pitcher of the Year,2022,AL,,
+alcansa01,TSN Pitcher of the Year,2022,NL,,
+diazed04,TSN Reliever of the Year,2022,NL,,
+claseem01,TSN Reliever of the Year,2022,AL,,
+penaje02,World Series MVP,2022,ML,,
+penaje02,ALCS MVP,2022,AL,,
+stantmi03,All-Star Game MVP,2022,AL,,
+diazed04,Reliever of the Year Award,2022,NL,,
+claseem01,Reliever of the Year Award,2022,AL,,
+turneju01,Roberto Clemente Award,2022,ML,,
+rodriju01,Rookie of the Year,2022,AL,,
+harrimi04,Rookie of the Year,2022,NL,,
+goldspa01,Silver Slugger,2022,NL,,1B
+lowena01,Silver Slugger,2022,AL,,1B
+altuvjo01,Silver Slugger,2022,AL,,2B
+mcneije01,Silver Slugger,2022,NL,,2B
+arenano01,Silver Slugger,2022,NL,,3B
+ramirjo01,Silver Slugger,2022,AL,,3B
+kirkal01,Silver Slugger,2022,AL,,C
+realmjt01,Silver Slugger,2022,NL,,C
+alvaryo01,Silver Slugger,2022,AL,,DH
+belljo02,Silver Slugger,2022,NL,,DH
+bettsmo01,Silver Slugger,2022,NL,,OF
+judgeaa01,Silver Slugger,2022,AL,,OF
+rodriju01,Silver Slugger,2022,AL,,OF
+schwaky01,Silver Slugger,2022,NL,,OF
+sotoju01,Silver Slugger,2022,NL,,OF
+troutmi01,Silver Slugger,2022,AL,,OF
+bogaexa01,Silver Slugger,2022,AL,,SS
+turnetr01,Silver Slugger,2022,NL,,SS
+arraelu01,Silver Slugger,2022,AL,,UT
+drurybr01,Silver Slugger,2022,NL,,UT
+penaje02,Babe Ruth Award,2022,ML,,
+pujolal01,Comeback Player of the Year,2022,NL,,
+verlaju01,Comeback Player of the Year,2022,AL,,
+verlaju01,Cy Young Award,2022,AL,,
+alcansa01,Cy Young Award,2022,NL,,
+guerrvl02,Gold Glove,2022,AL,,1B
+walkech02,Gold Glove,2022,NL,,1B
+gimenan01,Gold Glove,2022,AL,,2B
+rodgebr02,Gold Glove,2022,NL,,2B
+arenano01,Gold Glove,2022,NL,,3B
+uriasra01,Gold Glove,2022,AL,,3B
+realmjt01,Gold Glove,2022,NL,,C
+trevijo01,Gold Glove,2022,AL,,C
+bettsmo01,Gold Glove,2022,NL,,OF
+grishtr01,Gold Glove,2022,NL,,OF
+happia01,Gold Glove,2022,NL,,OF
+kwanst01,Gold Glove,2022,AL,,OF
+strawmy01,Gold Glove,2022,AL,,OF
+tuckeky01,Gold Glove,2022,AL,,OF
+biebesh01,Gold Glove,2022,AL,,P
+friedma01,Gold Glove,2022,NL,,P
+penaje02,Gold Glove,2022,AL,,SS
+swansda01,Gold Glove,2022,NL,,SS
+donovbr01,Gold Glove,2022,NL,,UT
+lemahdj01,Gold Glove,2022,AL,,UT
+judgeaa01,Hank Aaron Award,2022,AL,,
+goldspa01,Hank Aaron Award,2022,NL,,
+crawfbr01,Lou Gehrig Memorial Award,2022,ML,,
+acunaro01,Most Valuable Player,2023,NL,,
+ohtansh01,Most Valuable Player,2023,AL,,
+marteke01,NLCS MVP,2023,NL,,
+ohtansh01,Outstanding DH Award,2023,ML,,
+gimenan01,Platinum Glove,2023,AL,,
+tatisfe02,Platinum Glove,2023,NL,,
+raleica01,TSN All-Star,2023,AL,Y,C
+contrwi02,TSN All-Star,2023,NL,Y,C
+rutscad01,TSN All-Star,2023,AL,Y,C
+murphse01,TSN All-Star,2023,NL,Y,C
+smithwi05,TSN All-Star,2023,NL,Y,C
+harpebr03,TSN All-Star,2023,NL,,DH
+ohtansh01,TSN All-Star,2023,AL,,DH
+bellico01,TSN All-Star,2023,NL,Y,OF
+sotoju01,TSN All-Star,2023,NL,Y,OF
+rodriju01,TSN All-Star,2023,AL,,OF
+tuckeky01,TSN All-Star,2023,AL,,OF
+bettsmo01,TSN All-Star,2023,NL,,OF
+roberlu01,TSN All-Star,2023,AL,,OF
+acunaro01,TSN All-Star,2023,NL,,OF
+willide03,TSN All-Star,2023,NL,,RP
+bautife01,TSN All-Star,2023,AL,,RP
+snellbl01,TSN All-Star,2023,NL,,SP
+colege01,TSN All-Star,2023,AL,,SP
+seageco01,TSN All-Star,2023,AL,,SS
+rileyau01,TSN All-Star,2023,NL,,SS
+acunaro01,TSN Major League Player of the Year,2023,ML,,
+snellbl01,TSN Pitcher of the Year,2023,NL,,
+colege01,TSN Pitcher of the Year,2023,AL,,
+willide03,TSN Reliever of the Year,2023,NL,,
+bautife01,TSN Reliever of the Year,2023,AL,,
+seageco01,World Series MVP,2023,ML,,
+garciad02,ALCS MVP,2023,AL,,
+diazel01,All-Star Game MVP,2023,NL,,
+willide03,Reliever of the Year Award,2023,NL,,
+bautife01,Reliever of the Year Award,2023,AL,,
+judgeaa01,Roberto Clemente Award,2023,ML,,
+carroco02,Rookie of the Year,2023,NL,,
+hendegu01,Rookie of the Year,2023,AL,,
+diazya01,Silver Slugger,2023,AL,,1B
+olsonma02,Silver Slugger,2023,NL,,1B
+arraelu01,Silver Slugger,2023,NL,,2B
+semiema01,Silver Slugger,2023,AL,,2B
+deverra01,Silver Slugger,2023,AL,,3B
+rileyau01,Silver Slugger,2023,NL,,3B
+contrwi02,Silver Slugger,2023,NL,,C
+rutscad01,Silver Slugger,2023,AL,,C
+harpebr03,Silver Slugger,2023,NL,,DH
+ohtansh01,Silver Slugger,2023,AL,,DH
+acunaro01,Silver Slugger,2023,NL,,OF
+bettsmo01,Silver Slugger,2023,NL,,OF
+roberlu01,Silver Slugger,2023,AL,,OF
+rodriju01,Silver Slugger,2023,AL,,OF
+sotoju01,Silver Slugger,2023,NL,,OF
+tuckeky01,Silver Slugger,2023,AL,,OF
+lindofr01,Silver Slugger,2023,NL,,SS
+seageco01,Silver Slugger,2023,AL,,SS
+bellico01,Silver Slugger,2023,NL,,UT
+hendegu01,Silver Slugger,2023,AL,,UT
+diazya01,TSN All-Star,2023,AL,,1B
+freemfr01,TSN All-Star,2023,NL,,1B
+albieoz01,TSN All-Star,2023,NL,,2B
+semiema01,TSN All-Star,2023,AL,,2B
+ramirjo01,TSN All-Star,2023,AL,,3B
+swansda01,TSN All-Star,2023,NL,,3B
+garciad02,Babe Ruth Award,2023,ML,,
+bellico01,Comeback Player of the Year,2023,NL,,
+hendrli01,Comeback Player of the Year,2023,AL,,
+snellbl01,Cy Young Award,2023,NL,,
+colege01,Cy Young Award,2023,AL,,
+lowena01,Gold Glove,2023,AL,,1B
+walkech02,Gold Glove,2023,NL,,1B
+gimenan01,Gold Glove,2023,AL,,2B
+hoernni01,Gold Glove,2023,NL,,2B
+chapmma01,Gold Glove,2023,AL,,3B
+hayeske01,Gold Glove,2023,NL,,3B
+heimjo01,Gold Glove,2023,AL,,C
+morenga01,Gold Glove,2023,NL,,C
+doylebr02,Gold Glove,2023,NL,,OF
+garciad02,Gold Glove,2023,AL,,OF
+happia01,Gold Glove,2023,NL,,OF
+kiermke01,Gold Glove,2023,AL,,OF
+kwanst01,Gold Glove,2023,AL,,OF
+tatisfe02,Gold Glove,2023,NL,,OF
+berrijo01,Gold Glove,2023,AL,,P
+wheelza01,Gold Glove,2023,NL,,P
+swansda01,Gold Glove,2023,NL,,SS
+volpean01,Gold Glove,2023,AL,,SS
+dubonma01,Gold Glove,2023,AL,,UT
+kimha01,Gold Glove,2023,NL,,UT
+acunaro01,Hank Aaron Award,2023,NL,,
+ohtansh01,Hank Aaron Award,2023,AL,,
+goldspa01,Lou Gehrig Memorial Award,2023,ML,,
